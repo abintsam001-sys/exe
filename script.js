@@ -56,12 +56,12 @@ function renderStatsBar() {
   if (!el || typeof SCRIPTS === 'undefined') return;
 
   const totalDownloads = SCRIPTS.reduce((sum, s) => sum + (s.stats.downloads || 0), 0);
-  const totalUsers = (typeof SITE_STATS !== 'undefined' && SITE_STATS.totalUsers) || 0;
+  const totalUsers = 100;
 
   const items = [
     {
       label: 'Total users',
-      value: formatCount(100),
+      value: formatCount(totalUsers),
       color: 'cyan',
       icon: '<path d="M7 8a3 3 0 100-6 3 3 0 000 6zM1.5 15c0-3 2.5-5 5.5-5s5.5 2 5.5 5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M11 3.2c1.4.3 2.5 1.5 2.5 3s-1.1 2.7-2.5 3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/><path d="M13 10.3c1.6.4 2.8 1.6 3 3.2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>'
     },
