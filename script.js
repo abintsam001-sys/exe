@@ -73,12 +73,6 @@ function renderStatsBar() {
       value: formatCount(totalDownloads),
       color: 'green',
       icon: '<path d="M8 2v8.5M8 10.5L4.8 7.3M8 10.5l3.2-3.2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M2.5 12.5v1a1.5 1.5 0 001.5 1.5h8a1.5 1.5 0 001.5-1.5v-1" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>'
-    },
-    {
-      label: 'Online now',
-      value: `${onlineCount}/${SCRIPTS.length}`,
-      color: 'amber',
-      icon: '<circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.4"/><circle cx="8" cy="8" r="2" fill="currentColor"/>'
     }
   ];
 
