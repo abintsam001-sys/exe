@@ -21,7 +21,11 @@ function getBookmarks() {
 function toggleBookmark(id) {
   const current = getBookmarks();
   const next = current.includes(id) ? current.filter(x => x !== id) : [...current, id];
-  localStorage.setItem('bookmarked-scripts', JSON.stringify(next));
+  try {
+    localStorage.setItem('bookmarked-scripts', JSON.stringify(next));
+  } catch {
+    // localStorage may be unavailable (e.g. private browsing) — fail silently
+  }
   return next;
 }
 
@@ -52,7 +56,6 @@ function renderStatsBar() {
   if (!el || typeof SCRIPTS === 'undefined') return;
 
   const totalDownloads = SCRIPTS.reduce((sum, s) => sum + (s.stats.downloads || 0), 0);
-  const onlineCount = SCRIPTS.filter(s => s.status === 'online').length;
   const totalUsers = (typeof SITE_STATS !== 'undefined' && SITE_STATS.totalUsers) || 0;
 
   const items = [
@@ -67,12 +70,6 @@ function renderStatsBar() {
       value: String(SCRIPTS.length),
       color: 'magenta',
       icon: '<rect x="2" y="5" width="12" height="9" rx="1.2" stroke="currentColor" stroke-width="1.4"/><path d="M2 7.5h12" stroke="currentColor" stroke-width="1.4"/><path d="M5.5 5V3.8A1.3 1.3 0 016.8 2.5h2.4a1.3 1.3 0 011.3 1.3V5" stroke="currentColor" stroke-width="1.4"/>'
-    },
-    {
-      label: 'Online now',
-      value: `${onlineCount}/${SCRIPTS.length}`,
-      color: 'amber',
-      icon: '<circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="1.4"/><circle cx="8" cy="8" r="2" fill="currentColor"/>'
     }
   ];
 
@@ -87,6 +84,15 @@ function renderStatsBar() {
       </span>
     </div>
   `).join('');
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 
 // ── Script cards ─────────────────────────────────────────────
@@ -106,57 +112,61 @@ function renderCards(filter = '') {
     return haystack.includes(q);
   });
 
-  searchCount.textContent = q ? `${filtered.length} of ${SCRIPTS.length}` : `${SCRIPTS.length} resources`;
+  if (searchCount) {
+    searchCount.textContent = q ? `${filtered.length} of ${SCRIPTS.length}` : `${SCRIPTS.length} resources`;
+  }
 
   if (filtered.length === 0) {
     grid.innerHTML = '';
-    emptyQuery.textContent = filter;
-    emptyState.hidden = false;
+    if (emptyQuery) emptyQuery.textContent = filter;
+    if (emptyState) emptyState.hidden = false;
     return;
   }
-  emptyState.hidden = true;
+  if (emptyState) emptyState.hidden = true;
 
   grid.innerHTML = filtered.map(s => {
     const isBookmarked = bookmarks.includes(s.id);
     const imgSrc = s.image && s.image.trim() ? s.image : placeholderDataUri(s.id);
     const priceClass = s.price === 'FREE' ? 'free' : 'paid';
+    const safeId = escapeHtml(s.id);
+    const safeName = escapeHtml(s.name);
 
     return `
-    <article class="script-card" role="listitem" data-id="${s.id}">
+    <article class="script-card" role="listitem" data-id="${safeId}">
       <div class="card-media">
-        <img src="${imgSrc}" alt="${s.name} preview" loading="lazy"
+        <img src="${escapeHtml(imgSrc)}" alt="${safeName} preview" loading="lazy"
              onerror="this.onerror=null;this.src='${placeholderDataUri(s.id)}'">
         <div class="media-overlay">
           <span class="status-pill">
-            <span class="status-dot ${s.status}"></span><span class="status-label ${s.status}">${s.status}</span>
+            <span class="status-dot ${escapeHtml(s.status)}"></span><span class="status-label ${escapeHtml(s.status)}">${escapeHtml(s.status)}</span>
           </span>
-          ${s.badge ? `<span class="media-badge">${s.badge}</span>` : ''}
+          ${s.badge ? `<span class="media-badge">${escapeHtml(s.badge)}</span>` : ''}
         </div>
       </div>
 
       <div class="card-body">
         <div class="card-title-row">
-          <span class="card-name">${s.name}</span>
-          <span class="card-version">${s.version}</span>
+          <span class="card-name">${safeName}</span>
+          <span class="card-version">${escapeHtml(s.version)}</span>
         </div>
-        <p class="card-tagline">${s.tagline}</p>
+        <p class="card-tagline">${escapeHtml(s.tagline)}</p>
         <div class="card-tags">
-          ${s.frameworks.map(f => `<span class="tag">${f}</span>`).join('')}
+          ${s.frameworks.map(f => `<span class="tag">${escapeHtml(f)}</span>`).join('')}
         </div>
         <div class="card-meta-row">
           <span class="meta-item">${formatDate(s.date)}</span>
-          <span class="meta-item">★ ${s.stats.stars}</span>
+          <span class="meta-item">★ ${escapeHtml(s.stats.stars)}</span>
           <span class="meta-item">⬇ ${formatCount(s.stats.downloads)}</span>
         </div>
         <div class="card-footer">
-          <span class="price-pill ${priceClass}">${s.price}</span>
+          <span class="price-pill ${priceClass}">${escapeHtml(s.price)}</span>
           <div class="card-footer-actions">
-            <button class="bookmark-btn ${isBookmarked ? 'active' : ''}" data-id="${s.id}" aria-label="${isBookmarked ? 'Remove bookmark' : 'Save script'}" aria-pressed="${isBookmarked}">
+            <button class="bookmark-btn ${isBookmarked ? 'active' : ''}" data-id="${safeId}" aria-label="${isBookmarked ? 'Remove bookmark' : 'Save script'}" aria-pressed="${isBookmarked}">
               <svg width="15" height="15" viewBox="0 0 16 16" fill="${isBookmarked ? 'currentColor' : 'none'}" xmlns="http://www.w3.org/2000/svg">
                 <path d="M3.5 2.5h9a.5.5 0 01.5.5v10.3a.4.4 0 01-.63.33L8 11l-4.37 2.63a.4.4 0 01-.63-.33V3a.5.5 0 01.5-.5z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
               </svg>
             </button>
-            <a href="${s.link}" class="card-link" target="_blank" rel="noopener noreferrer">${s.linkLabel} →</a>
+            <a href="${escapeHtml(s.link)}" class="card-link" target="_blank" rel="noopener noreferrer">${escapeHtml(s.linkLabel)} →</a>
           </div>
         </div>
       </div>
