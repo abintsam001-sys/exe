@@ -55,7 +55,7 @@ function renderStatsBar() {
   const el = document.getElementById('statsBar');
   if (!el || typeof SCRIPTS === 'undefined') return;
 
-  const totalDownloads = 0;
+  const totalDownloads = 9;
   const totalUsers = 0;
 
   const items = [
