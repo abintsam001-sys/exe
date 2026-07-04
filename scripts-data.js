@@ -99,18 +99,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "JG HUD - Ultra Customisable & Vehicle Focused FiveM HUD",
-    name: "JG HUD - Ultra Customisable & Vehicle Focused FiveM HUD",
+    id: "AXIS-FORGE - Nass fighting",
+    name: "AXIS-FORGE - Nass fighting",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1503599521790165106/1520898092973424730/maxresdefault_5.jpg?ex=6a4975ba&is=6a48243a&hm=44aa06f2a51009fd2894b281421e626bf04b22e7b80ad2df4aa48df7441108dc&",
+    image: "https://images-ext-1.discordapp.net/external/H9tRgl1uYSBXCpLgAB5PHUkdzBUdy29jcemqcWznqts/https/imagedelivery.net/a5r9Tc1KZUombyb_AZ4nqA/3b63d271-5e99-44aa-9581-8b44d3d39b00/hd?format=webp",
     tagline: "",
     frameworks: ["Standalone"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
+    link: "https://cold4.gofile.io/download/direct/c01fa470-53d9-4c96-9634-1c76ae2a6e61/AxisForge-nass_fighting.zip?hash=QZMtZzsRGbNtNHAohzZeI5dyHnpwzyvILAceBYblcEqoMzlQx6eQL7QO5l0rwdRD",
     linkLabel: "GET SCRIPT"
   },
   {
