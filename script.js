@@ -56,7 +56,7 @@ function renderStatsBar() {
   if (!el || typeof SCRIPTS === 'undefined') return;
 
   const totalDownloads = SCRIPTS.reduce((sum, s) => sum + (s.stats.downloads || 0), 0);
-  const totalUsers = 100;
+  const totalUsers = 0;
 
   const items = [
     {
