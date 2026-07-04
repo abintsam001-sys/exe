@@ -23,18 +23,18 @@ const SITE_STATS = {
 
 const SCRIPTS = [
   {
-    id: "TUNNEL - [FiveM MLO - GTA V Interior]",
-    name: "",
-    version: "v2.4.1",
+    id: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
+    name: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
+    version: "v1.9.0",
     status: "online",
-    badge: "HOT",
-    image:"https://i.ytimg.com/vi/z1yL2QSoraY/maxresdefault.jpg",
+    badge: "",
+    image: "https://img.youtube.com/vi/aeHkDgUbrsY/maxresdefault.jpg",
     tagline: "",
-    frameworks: ["", ""],
+    frameworks: ["Standalone"],
     price: "FREE",
-    date: "2026-05-12",
-    stats: { stars: 128, downloads: 4200 },
-    link: "https://store-eu-par-1.gofile.io/download/direct/f9a133c3-5be0-4154-880e-a8cd26536cab/AxisForge-cfx-nteam-tunnel.zip?hash=LL1hDDsCOlZAaVXrv48dL42mgBBrjE2hFUqgHaqEgw1PFEaOCx88Sc0SG1yZYTtk",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/YBdmSRQb#u36g7W6VG3f85Il4VgHgKuAzkFYXIgdlecb0SORGbW0",
     linkLabel: "GET SCRIPT"
   },
   {
