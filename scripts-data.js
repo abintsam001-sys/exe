@@ -279,18 +279,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "OP | Garages V3",
-    name: "OP | Garages V3",
+    id: "GKSPHONE V2",
+    name: "GKSPHONE V2",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/53nIV0HQyxI/maxresdefault.jpg",
+    image: "https://img.youtube.com/vi/dRycvhBaVhA/maxresdefault.jpg",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/MdkzTZIJ#ObjlCLLo-6NmdvECBbK0mt47l6-knZpNlGksxme2lRA",
+    link: "https://mega.nz/file/n5IyAaDD#UHChLDUlTQSIEyrymu_yOPY0dhjS1m_031BpoH3xA6U",
     linkLabel: "GET SCRIPT"
   },
   {
