@@ -668,6 +668,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "2023-alfa-romeo-giulia-quadrifoglio",
+    name: "2023-alfa-romeo-giulia-quadrifoglio",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317258708220248175/imaage.png?ex=6a4b8505&is=6a4a3385&hm=2827a98900264b8349e28f61df36ae751cb2c220ab047d8d98e5fe622716ead8&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317258810619854939/2023-alfa-romeo-giulia-quadrifoglio-gtam.rar?ex=6a4b851d&is=6a4a339d&hm=7aa3a8e6e289e84d7361d95655450d320d8d14c6681c52b0e3328341bc89f934&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "cDev | Plate Taping / Removal System",
     name: "cDev | Plate Taping / Removal System",
     version: "v1.9.0",
@@ -680,6 +695,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/oUl3CJqC#8v2M_DHKHOewxBdfjtB3JTswRoAyxX5AZEyWjgaW2DM",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Harvinoiid_-_Bentley_Continental_GT",
+    name: "Harvinoiid_-_Bentley_Continental_GT",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260942299369542/unknown.png?ex=6a4b871a&is=6a4a359a&hm=33ee485adb469356a1b24002dcd1da6904a4137030e87403604b80aa8d1cc78d&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260989422637147/Harvinoiid_-_Bentley_Continental_GT_Speed_22.rar?ex=6a4b8725&is=6a4a35a5&hm=deb09cb676c5653c1f182b98ef09fab4cac83a57f3029d31517046d65cab117c&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -698,6 +728,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "mallekgang3",
+    name: "mallekgang3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344819720444182620/1344822892667338782/image_26.webp?ex=6a4b9a2b&is=6a4a48ab&hm=8e63a75475abf4b1dd2e52c1fd191b1d30ed6b336241599c8c05856f18b0cf83&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344819720444182620/1344822893183369256/mallekgang3.rar?ex=6a4b9a2b&is=6a4a48ab&hm=9766e317422af921f27fb8a81ae2731e54027a1b0f9bd04ff83e9051e34c1e03&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Tattoo Shop",
     name: "Tattoo Shop",
     version: "v1.9.0",
@@ -710,6 +755,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/2422882/956.7967494455343/dynamic?r=aHR0cHM6Ly91bmxvY2tub3cubmV0L01VbkJIL2Rvd25sb2Fk&o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "2021_Bentley_Bentayga_On_30s",
+    name: "2021_Bentley_Bentayga_On_30s",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260295982547004/imagae.png?ex=6a4b8680&is=6a4a3500&hm=669f38775f169280da748584d94001f37e25481985dcb8a2ed950b822476a4b3&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260544520224878/2021_Bentley_Bentayga_On_30s_Forgiatos_-_Nukem.rar?ex=6a4b86bb&is=6a4a353b&hm=ee821b9bec62c2029569d9462da7eb4b6840a93134efab6b0ada3ae8306c9cf0&",
     linkLabel: "GET SCRIPT"
   },
   {
