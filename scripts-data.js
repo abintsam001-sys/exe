@@ -458,6 +458,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "gstrs2",
+    name: "gstrs2",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344815628678074409/1344816000721489930/Unbenannt.webp?ex=6a4b93c0&is=6a4a4240&hm=52616d2cb93aefae76cd5ce50ce13ec28b594c73debcdfb4e68ad04b20636791&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344815628678074409/1344816001077874698/gstrs21.rar?ex=6a4b93c0&is=6a4a4240&hm=6c0530c435b30f977fe8c339f10dfffcbb6edd42b9b6e6fd5ed2480d03e0273f&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
     name: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
     version: "v1.9.0",
@@ -473,6 +488,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Toyota_Supra_Hycade_Edition",
+    name: "Toyota_Supra_Hycade_Edition",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344874303581327490/1344874396199948288/362241008_650830040403654_185101328055977434_n.webp?ex=6a4b2162&is=6a49cfe2&hm=05c1bf7f198df1e29a72b93227a871d4e200227700b23016749ee4b268fa123c&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344874396740878518/Itzahmad_2002_-_Toyota_Supra_Hycade_Edition_4.zip?ex=6a4bca22&is=6a4a78a2&hm=6485e2846c6b3469fa70138a3a23649afad86b6ac8bc8d5b16b3f83f7f8c3cbf&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "ZSX_DEALERSHIP",
     name: "ZSX_DEALERSHIP",
     version: "v1.9.0",
@@ -485,6 +515,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1473993241350242537/1514755400250036354/ZSX_DEALERSHIP.zip?ex=6a4b80a6&is=6a4a2f26&hm=92d48c9f375837c1737fbcfa1a711c45dcdbcf5058d46bfddf6a301d5d784b6b&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ngtr35lb",
+    name: "ngtr35lb",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871072352305243/FiveM_b2944_GTAProcess_2024-06-08_23-38-34.webp?ex=6a4b1e4a&is=6a49ccca&hm=81b949689226c565a0b12408eb089621db37287579b9c5063af54d6728b5f047&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344870977300987974/ngtr35lb.rar?ex=6a4bc6f3&is=6a4a7573&hm=76fd98b102f67da38ed0650eaae374706d82b1eae9400434194e2249c37dfd0d&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -518,6 +563,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "CroneNex_-_Mercedes_Benz_S63",
+    name: "CroneNex_-_Mercedes_Benz_S63",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860331347804182/image_39.webp?ex=6a4bbd09&is=6a4a6b89&hm=c46bbaa2759db74d74d6ec40360540769f46969fd9e84eda0a11513dbc5c69f1&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860331800793219/CroneNex_-_Mercedes_Benz_S63_AMG_w222_Haifischnikez_1.rar?ex=6a4bbd09&is=6a4a6b89&hm=c281c68dbffa2006732a1a25d11040ee02f6f008968f15e7cf0f629ec40a289d&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Police, DOJ & EMS MDT | Fivem Script | LOOP STUDIOS",
     name: "Police, DOJ & EMS MDT | Fivem Script | LOOP STUDIOS",
     version: "v1.9.0",
@@ -548,6 +608,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "jeep-trackhawk-hycade-edition",
+    name: "jeep-trackhawk-hycade-edition",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842354871238687/image_4.webp?ex=6a4bac4b&is=6a4a5acb&hm=5adb2d0656b1c6ea42420956d0eab45b00ecb5c7b9e59b0b7ecf0ce0f2adb034&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842355274027060/jeep-trackhawk-hycade-edition.rar?ex=6a4bac4b&is=6a4a5acb&hm=b2e2a55ff8a42b3d54042e45a872062850f1e2a49d28b144dc1093ca3389d967&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "FiveM Fleeca Bank Robberies Script [ ESX / QBCore ]",
     name: "FiveM Fleeca Bank Robberies Script [ ESX / QBCore ]",
     version: "v1.9.0",
@@ -560,6 +635,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/GZMGgRJQ#Im5ZLiqUO_9qsTvNqbyDG8LP5HffuFYWu8mDRSTlv54",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "2022-jeep-grand-cherokee-widebody",
+    name: "2022-jeep-grand-cherokee-widebody",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842489382568059/image_7.webp?ex=6a4bac6b&is=6a4a5aeb&hm=52e438c3ae066bc70b69ef04caef418c7af22b2fb3486538f1c7eda6ec1d3588&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842489793745027/2022-jeep-grand-cherokee-widebody.rar?ex=6a4bac6b&is=6a4a5aeb&hm=b375751d2e6bb136c05324059fb7f0830bbc1c329d5da374c043053b47df5164&",
     linkLabel: "GET SCRIPT"
   },
   {
