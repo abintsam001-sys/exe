@@ -188,4 +188,19 @@ const SCRIPTS = [
     link: "https://mega.nz/folder/FIgUlIzZ#iOEv68YmZFcLBNLj8gZe6A",
     linkLabel: "GET SCRIPT"
   },
+  {
+    id: "DJS | Uwu Cafe Props",
+    name: "DJS | Uwu Cafe Props",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1517141786995196108/b5s410c4.png?ex=6a4af4a5&is=6a49a325&hm=2277bc4c15c30cfb449623243c0b0ffef58135ef4f69a550220f494b354d733c&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/dQNFyaCK#n97z1PufES_9ZnuBbpUafdnx69zVZWna-8Yi476ibwk",
+    linkLabel: "GET SCRIPT"
+  },
 ];
