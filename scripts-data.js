@@ -264,18 +264,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "OP | Garages V3",
-    name: "OP | Garages V3",
+    id: "LB Phone 2.8.1",
+    name: "LB Phone 2.8.1",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/53nIV0HQyxI/maxresdefault.jpg",
+    image: "https://img.youtube.com/vi/CirWSvYno70/maxresdefault.jpg",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/MdkzTZIJ#ObjlCLLo-6NmdvECBbK0mt47l6-knZpNlGksxme2lRA",
+    link: "https://mega.nz/file/9ZdHVQbb#i_iCIGq3DaxIXuXySZIXKznQVamoCyfVp2VgNM4-QW8",
     linkLabel: "GET SCRIPT"
   },
   {
