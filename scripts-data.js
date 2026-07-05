@@ -114,6 +114,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Los Santos Minimap | Custom Radar/Minimap FiveM",
+    name: "Los Santos Minimap | Custom Radar/Minimap FiveM",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/t7PYR03d6Kg/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1446961722148524216/1506651721701789727/VonsLSMinimap.zip?ex=6a4baf42&is=6a4a5dc2&hm=576e0773c6a23d2ef570ca5b805ec6660023ea294ba57851dd60c3824c16372d&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "9am multicharacter",
     name: "9am multicharacter",
     version: "v1.9.0",
@@ -156,6 +171,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cold-eu-par-1.gofile.io/download/direct/d655e916-201f-46b8-9985-96da9f2b85db/AxisForge-17mov_FpsBooster.zip?hash=h06AmcEQmICKl9hnWoZDfywSjAB3JPCfAgehd5LrauclFbIV8Dx9Rvf00ocuzTKL",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Bridge for Cayo Perico",
+    name: "Bridge for Cayo Perico",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/original/4X/7/9/f/79f606b7639b0516e4d4b3967ec16a32526f8cea.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1335317653010645073/1355565054195667096/Cayo_Bridge.rar?ex=6a4b2196&is=6a49d016&hm=3b9941560822787927608e9ba17d3ada1a2f1aa244527c67dfa89abc74fc9b66&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -219,6 +249,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "ZSX_DEALERSHIP",
+    name: "ZSX_DEALERSHIP",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462073558663425/1514755404779753672/24de6fa1-45b5-4a6b-a00d-d9b5eab3feb1.png?ex=6a4b80a7&is=6a4a2f27&hm=5415c086351fb6f2a1d3068af809f5dfe6997bb4b2dd781dc0861a90cb54f761&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993241350242537/1514755400250036354/ZSX_DEALERSHIP.zip?ex=6a4b80a6&is=6a4a2f26&hm=92d48c9f375837c1737fbcfa1a711c45dcdbcf5058d46bfddf6a301d5d784b6b&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "SD-Beekeeping | FiveM Script |  QBCore, ESX",
     name: "SD-Beekeeping | FiveM Script |  QBCore, ESX",
     version: "v1.9.0",
@@ -246,6 +291,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1503476975917076511/1522435880785154118/MDT.zip?ex=6a4b1967&is=6a49c7e7&hm=ed613f22dedf30c3aaf9bfa303385234a10f6972fc0945f69615e4c57f48d5d8&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "vms_barber",
+    name: "vms_barber",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/6/d/f/1/6df1fe2b32f0de1ee25f35f0b3625c36b4e6ae84_2_1024x575.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993241350242537/1507102308360650904/vms_barber.rar?ex=6a4b58a6&is=6a4a0726&hm=a5e934b07e840d6dad3905feb7479d5eb4401187ddf960bff53d0e96839dc6bc&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -294,6 +354,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Tattoo Shop",
+    name: "Tattoo Shop",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://tse1.mm.bing.net/th/id/OIP.7BB-YBi6WwIxaT5pHx7GwwHaEK?w=680&h=382&rs=1&pid=ImgDetMain&o=7&rm=3",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://linkvertise.com/2422882/956.7967494455343/dynamic?r=aHR0cHM6Ly91bmxvY2tub3cubmV0L01VbkJIL2Rvd25sb2Fk&o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "OP | Garages V3",
     name: "OP | Garages V3",
     version: "v1.9.0",
@@ -336,6 +411,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n5IyAaDD#UHChLDUlTQSIEyrymu_yOPY0dhjS1m_031BpoH3xA6U",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Cayo Airplane NPC Pilot Script",
+    name: "Cayo Airplane NPC Pilot Script",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1110843643478159422/1258011267441098792/image.png?ex=6a4b87ca&is=6a4a364a&hm=402c12b0b7b813362bda29079cfde0e7dfd299b639819eb735df9a323a9f483d&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/rawf2qgoxn80nqc/%5BCayoAirplaneScript%5D.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -681,6 +771,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.cr5m.com/threads/wais-hudv5.7706/",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "AYS SHOP",
+    name: "AYS SHOP",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/985500391808569384/985500713281007616/unknown.png?ex=6a4b8c8f&is=6a4a3b0f&hm=7637a0cdbda62a1b4612a77538d3860d8ef601064f97ace93afc93c8fc33fea9&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://workupload.com/file/pzKbpCXjAQ6",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1176,6 +1281,36 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/975908517787627573/1218859678491213855/gfx-arena.rar?ex=6a4b7b08&is=6a4a2988&hm=afe3cd64a4ba86990f9d1d76b7042a07bf173dd75d2a5d3f4e6b67a3efa25a0e&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "NFS Vehicleshop",
+    name: "NFS Vehicleshop",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/878011069807869962/878649238446288916/unknown.png?ex=6a4b151e&is=6a49c39e&hm=4c52afa526cd576144a8604f3284c087d2e2cc3b482ae56d5c19106dbcd3fa94&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/832975288572313620/878739290769727548/NFS_VehicleShop.rar?ex=6a4b68fd&is=6a4a177d&hm=788454a6175ec431a629aaf7f99be668182d3b368d13e8cabc6c23fa8dd56474&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "cw-crafting",
+    name: "cw-crafting",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi/tJ_AgZleejY/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://github.com/uFLOKY/cw-crafting",
     linkLabel: "GET SCRIPT"
   }
 ]; 
