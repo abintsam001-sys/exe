@@ -99,6 +99,36 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "LS Motors (Car Dealership / Showroom)",
+    name: "",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/Olz9rGFW1Yc/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/kg48knki82kwk52/LS_Motors_MLO.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "CC Mechanic / Vehicle Inspection / Car Wash [FiveM MLO - GTA V Interior]",
+    name: "CC Mechanic / Vehicle Inspection / Car Wash [FiveM MLO - GTA V Interior]",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/wCCIMY8VrjQ/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/1gf9N58sS23CJy1yX7WwzefehoIArEutc/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "AXIS-FORGE - Nass fighting",
     name: "AXIS-FORGE - Nass fighting",
     version: "v1.9.0",
@@ -174,6 +204,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Modern Luxury Car Dealership MLO",
+    name: "",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/G_1DTvqF4vo/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/8nd1fj3cugj512h/ModernLuxuryCarDealership.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Bridge for Cayo Perico",
     name: "Bridge for Cayo Perico",
     version: "v1.9.0",
@@ -216,6 +261,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "[MLO] Paradise Club GTA5, FiveM",
+    name: "[MLO] Paradise Club GTA5, FiveM",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/NA31q6Val7M/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/rmcg5xyy26zz6pi/paradise-club+mgscripts.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -276,6 +336,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/folder/FIgUlIzZ#iOEv68YmZFcLBNLj8gZe6A",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Legion Square Park MLO / Winter & Summer - Forge Studios",
+    name: "Legion Square Park MLO / Winter & Summer - Forge Studios",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/skoxM_UrGJ4/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/RMsTgLIY#fd-geyxSqCakN1x1M_bY4Z0rjCCbYV02CpsX2DzSUtU",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -351,6 +426,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/oUl3CJqC#8v2M_DHKHOewxBdfjtB3JTswRoAyxX5AZEyWjgaW2DM",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ibonoja_sa_training_center",
+    name: "ibonoja_sa_training_center",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/0/5/6/2/05623a3934a32e4e9d7844e0d8e029fe431d4d09_2_690x374.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/0MFRDaoD#aCxinwOYtjasE16i2teSkFd8GEf2wbWej2UMADRUksQ",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -714,6 +804,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "cfx-nteam-hospital",
+    name: "cfx-nteam-hospital",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1511060750209257574/1516815021122785290/fa415af4d70e2f5b837618ae2ecf81738b35b4ef.png.fbccfc321e8adde91edfac8769bbebc8.webp.jpg?ex=6a4b15d2&is=6a49c452&hm=735be8231b3c8af21396cfe1a4533b86747e5564e68ee532f03a511aa95d3a93&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1511964474834419843/cfx-nteam-hospital.zip?ex=6a4b3ca5&is=6a49eb25&hm=23d25454abd64433f99765713f6e378992cad2853b0175396ea21819d8eb7d65&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "admin menu",
     name: "admin menu",
     version: "v1.9.0",
@@ -744,6 +849,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Kokoro Cafe - MLO - FleuR Mapping Studio",
+    name: "Kokoro Cafe - MLO - FleuR Mapping Studio",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "okokBanking",
     name: "okokBanking",
     version: "v1.9.0",
@@ -759,6 +879,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Energy | Luxury Auto's",
+    name: "Energy | Luxury Auto's",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1517456723844268054/g7xm3l21.png?ex=6a4b7133&is=6a4a1fb3&hm=09b18c5141d4a51657f2026c73a7e343166cf9d9d3072eca15fb57f97aa7369e&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/QdshkKjB#oYuvTIWZGiDkJ6gvTvkQKXgqywSve_FFG3QC0C8htBY",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Wais-HUDv5",
     name: "Wais-HUDv5",
     version: "v1.9.0",
@@ -771,6 +906,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.cr5m.com/threads/wais-hudv5.7706/",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Kokoro Cafe - MLO - FleuR Mapping Studio",
+    name: "Kokoro Cafe - MLO - FleuR Mapping Studio",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/d/4/0/1/d401dbf5a15da7866801ef2ff7fff231e1c95d79_2_690x377.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/ER1HWYoZ#NLeHM5GnRQC0Dc5zFbwTUY1oi6p3Mm7K3T4sim75C2Y",
     linkLabel: "GET SCRIPT"
   },
   {
