@@ -578,6 +578,7 @@ const SCRIPTS = [
     link: "https://mega.nz/file/9vUEySwa",
     linkLabel: "GET SCRIPT"
   },
+  
   {
     id: "complete-carplay",
     name: "complete-carplay",
@@ -621,6 +622,81 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/1233760/stagev-loading?o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "putin-inventory",
+    name: "putin-inventory",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1227312586962505800/1335609217066995842/image.png?ex=6a4b0ac3&is=6a49b943&hm=ab799c06bbea5c49ccf51960af1734533e345fec1c83441e566a8f84c5bce681&format=webp&quality=lossless&width=932&height=503&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1494492591838724227/1498695297285750984/putin-inventory-20241230T203657Z-001.zip?ex=6a4b1583&is=6a49c403&hm=58afed52d2a56c54495a0ed0227c663c1b92556e7ab69f27da9b1cb892171bcb&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "0R HUD v3",
+    name: "0R HUD V3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/3885b30faa6d59711a3c3f02694d4e9d25433813.png",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-target.net/1097045/upleaks",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "WX ANTICHEAT",
+    name: "WX ANTICHEAT",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://repository-images.githubusercontent.com/763041702/d0c8d324-fa49-421e-bec3-1ba928a9373c",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/eeco4ucujjf8yt3/WX_ANTICHEAT.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ox_inventory-reskin",
+    name: "ox_inventory-reskin",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1227312586962505800/1442657930985082890/image.png?ex=6a4ae866&is=6a4996e6&hm=0247eb15ff28a968758769358baadc5ecb4efd51d52028df3e58d19f982a3283&format=webp&quality=lossless&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1494492591838724227/1498695587326066778/ox_inventory-reskin-main.zip?ex=6a4b15c8&is=6a49c448&hm=c47228fe987b6790dde105b9b2bfcfa5e0ce6625c296e557842c6c62bcd10282&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "D-Phone 0.73",
+    name: "D-Phone 0.73",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi/HaHDtpi4d4E/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://linkvertise.com/867470/d-phone-073?o=sharing",
     linkLabel: "GET SCRIPT"
   }
 ]; 
