@@ -52,6 +52,21 @@ const SCRIPTS = [
     link: "https://mega.nz/file/YBdmSRQb#u36g7W6VG3f85Il4VgHgKuAzkFYXIgdlecb0SORGbW0",
     linkLabel: "GET SCRIPT"
   },
+  {
+    id: "ZSX Multicharacter",
+    name: "ZSX Multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/original/5X/8/7/6/1/876116d715b3784b6428e0ecaa2da04fb9faaad3.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://gofile.io/d/046bRG",
+    linkLabel: "GET SCRIPT"
+  },
     {
     id: "[MLO] Asgard Beach Disco Club",
     name: "[MLO] Asgard Beach Disco Club",
@@ -96,6 +111,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cold4.gofile.io/download/direct/c01fa470-53d9-4c96-9634-1c76ae2a6e61/AxisForge-nass_fighting.zip?hash=QZMtZzsRGbNtNHAohzZeI5dyHnpwzyvILAceBYblcEqoMzlQx6eQL7QO5l0rwdRD",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "9am multicharacter",
+    name: "9am multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/hS8RFp3o4eI/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1268980430410092621/1349149159550357524/9am-multicharacter.rar?ex=6a4b8551&is=6a4a33d1&hm=88ff7cb557cf0647e46ae89931821cb9c4bc7e9f26e03281a7f1694cbcaecc5b&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -399,6 +429,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "um-multicharacter",
+    name: "um-multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1294021332740341790/1423060889485185104/image.png?ex=6a4b76fb&is=6a4a257b&hm=90f34829a53eaee5bc2e7bcd6f6e1a9802b0fdee77a8572a355793f2cbca4d66&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1423060889795432631/um-multicharacter.rar?ex=6a4b76fb&is=6a4a257b&hm=39dc92ad16be54b112f2eee40270956f80f2c7d95ac0f1c055620143473ca983&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "MT_WORKSHOPV2",
     name: "MT_WORKSHOPV2",
     version: "v1.9.0",
@@ -471,6 +516,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/976084568547414097/1087732281004802068/pressurewasher.rar?ex=6a4b0760&is=6a49b5e0&hm=67cc673792de10aa1e5cad23058b995d200d095a26277d4ea45460278e96ea34&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "R6 - Multicharacter",
+    name: "R6 - Multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296338133109178450/hd.png?ex=6a4b3777&is=6a49e5f7&hm=55855d8d0337dbab90e7a8abbfaf09a5d03cd784d9d1cffe064a12778b0067b0&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-center.net/1233760/r6-multichar",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -576,6 +636,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/4zyta0m3ki55ue3/RollerSkating.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "0R-Multicharacter",
+    name: "0R-Multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/c/1/e/0/c1e043d5de36ec9445f7264c10bf8cb7dafc9781_2_690x361.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1016726663100367028/1295149780070174833/0r-multicharacter.zip?ex=6a4b81fa&is=6a4a307a&hm=c4e2d620b2d3f32306e7319a5ce46a8036d6f1a74c2fe0be45fd070e46671278&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -715,6 +790,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "rtx_garbagejob",
+    name: "rtx_garbagejob",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462068529828056/1515364482455572490/f1b45232-beb0-454c-8b81-421dab551e26.png?ex=6a4b14e6&is=6a49c366&hm=de0b994ae69d2d119f15c279bdf2ad019685729fe5d6e6dc982b3d089a11cb8f&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993240855187615/1515364478122725496/rtx_garbagejob.zip?ex=6a4b14e5&is=6a49c365&hm=652728788df247da1f3559f94a5cf69fe570db38147e6c847fbee78f0e04cb45&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "WX ANTICHEAT",
     name: "WX ANTICHEAT",
     version: "v1.9.0",
@@ -742,6 +832,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1494492591838724227/1498695587326066778/ox_inventory-reskin-main.zip?ex=6a4b15c8&is=6a49c448&hm=c47228fe987b6790dde105b9b2bfcfa5e0ce6625c296e557842c6c62bcd10282&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Quasar Multicharacter 2.0 for FiveM | Advanced Character & Spawn Selector System",
+    name: "Quasar Multicharacter 2.0 for FiveM | Advanced Character & Spawn Selector System",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1501272332344234144/1520887733260652646/maxresdefault_3.jpg?ex=6a4b6654&is=6a4a14d4&hm=d92c523abca9504da070fed723aefca022faf752d4acc1f5bbea94026176d4fe&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/dy82rf5mj0ho28n/qs-multicharacter.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -773,5 +878,5 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/615987/fivem-script-for-servers580?o=sharing",
     linkLabel: "GET SCRIPT"
-  },
+  }
 ]; 
