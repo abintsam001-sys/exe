@@ -429,6 +429,51 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Codem Billing",
+    name: "Codem Billing",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/original/4X/a/5/4/a54cc87000a22da08307c090f95a2d7a2e5def0f.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/976084568547414097/1420778731881889874/codem-billing.rar?ex=6a4b128e&is=6a49c10e&hm=0bbc9f59b1e7e99bdc9675575bbe27d2926a313fa682d21df24d0b745e9506a4&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "admin menu",
+    name: "admin menu",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462064058831057/1514615819663835166/54645851-c521-4dcd-a0bb-ea2039345de5.png?ex=6a4afea7&is=6a49ad27&hm=6f644bffc01cc55dc3708f8e893d49562c340fbdca8975b9b1a1207790afda7a&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993240855187613/1514615810377908255/admin.zip?ex=6a4afea5&is=6a49ad25&hm=c4bc7fd2a5086b157db46f618bac8689b8eb57602adcb081936aa451e5606e47&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Wais-HUDv5",
+    name: "Wais-HUDv5",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi/lI2grDRW91Q/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.cr5m.com/threads/wais-hudv5.7706/",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Anti Combatlog",
     name: "Anti Combatlog",
     version: "v1.9.0",
@@ -546,6 +591,36 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/9BMSRQpZ#bn355eKPBUxn0-a7DVsRwlkwSgs0a_UHIvdkcayWrSc",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Core Hud",
+    name: "Core Hud",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1494492980973666405/1494495656495284326/FwXIVOKXGj.png?ex=6a4af78a&is=6a49a60a&hm=77c59a1bfda5aae822be0e5d81576309591108342fe79ab0507f5e179f2e1bd6&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1494492980973666405/1494495655710818435/Core_Hud.zip?ex=6a4af78a&is=6a49a60a&hm=09244cf3fcc88dc2d1aa840af835b7ebd4d0a04e64c7d05c001de4e6ab62535f&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Stagev Loadingscreen",
+    name: "Stagev Loadingscreen",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296343151233204244/hd.png?ex=6a4b3c24&is=6a49eaa4&hm=888c644facbedf3a36512bc83675c318928ec22665bdb7f343b0dad04d6d5ff5&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://linkvertise.com/1233760/stagev-loading?o=sharing",
     linkLabel: "GET SCRIPT"
   }
  ]; 
