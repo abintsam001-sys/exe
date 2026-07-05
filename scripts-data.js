@@ -249,18 +249,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "GKSPHONE V2",
-    name: "GKSPHONE V2",
+    id: "",
+    name: "",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/dRycvhBaVhA/maxresdefault.jpg",
+    image: "",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/n5IyAaDD#UHChLDUlTQSIEyrymu_yOPY0dhjS1m_031BpoH3xA6U",
+    link: "",
     linkLabel: "GET SCRIPT"
   },
-];
+ ]; 
