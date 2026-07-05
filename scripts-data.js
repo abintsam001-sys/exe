@@ -218,4 +218,19 @@ const SCRIPTS = [
     link: "https://mega.nz/file/oUl3CJqC#8v2M_DHKHOewxBdfjtB3JTswRoAyxX5AZEyWjgaW2DM",
     linkLabel: "GET SCRIPT"
   },
+  {
+    id: "OP | Garages V3",
+    name: "OP | Garages V3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/53nIV0HQyxI/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/MdkzTZIJ#ObjlCLLo-6NmdvECBbK0mt47l6-knZpNlGksxme2lRA",
+    linkLabel: "GET SCRIPT"
+  },
 ];
