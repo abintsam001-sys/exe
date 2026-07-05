@@ -292,5 +292,5 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n6AElJgA#LJU-xQVj453cSp_3NsuOmL4zFSe5tdkVWsnolWMN5TQ",
     linkLabel: "GET SCRIPT"
-  },
+  }
  ]; 
