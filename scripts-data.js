@@ -863,7 +863,6 @@ const SCRIPTS = [
     link: "https://mega.nz/file/9vUEySwa",
     linkLabel: "GET SCRIPT"
   },
-  
   {
     id: "complete-carplay",
     name: "complete-carplay",
@@ -1134,7 +1133,7 @@ const SCRIPTS = [
     link: "https://link-target.net/1233760/b-garage-impound",
     linkLabel: "GET SCRIPT"
   },
- {
+  {
     id: "AdvancedScoreboard",
     name: "AdvancedScoreboard",
     version: "v1.9.0",
