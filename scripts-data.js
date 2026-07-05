@@ -909,21 +909,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Kokoro Cafe - MLO - FleuR Mapping Studio",
-    name: "Kokoro Cafe - MLO - FleuR Mapping Studio",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://forum-cfx-re.akamaized.net/optimized/5X/d/4/0/1/d401dbf5a15da7866801ef2ff7fff231e1c95d79_2_690x377.jpeg",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/ER1HWYoZ#NLeHM5GnRQC0Dc5zFbwTUY1oi6p3Mm7K3T4sim75C2Y",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "AYS SHOP",
     name: "AYS SHOP",
     version: "v1.9.0",
