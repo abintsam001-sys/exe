@@ -233,6 +233,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "450 Cars (Debadged)",
+    name: "",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://files.greenheberg.fr/uploads/6855dcddec269_debadged-vehicle-pack-450-cars-645028.webp.481ab479c1a385043b846c0d783ee39f1.webp",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://gofile.io/d/ssIYxj",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Los Santos Minimap | Custom Radar/Minimap FiveM",
     name: "Los Santos Minimap | Custom Radar/Minimap FiveM",
     version: "v1.9.0",
@@ -353,6 +368,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "policebmwm3 (debadged)",
+    name: "policebmwm3 (debadged)",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814178359316480/image_4.webp?ex=6a4b920d&is=6a4a408d&hm=8faffd39364b840db873a425a2aad944f8b299b8ff47476bf355657af42b9639&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814178682142750/polbmwm3.rar?ex=6a4b920d&is=6a4a408d&hm=df991e753c3cd148e329e1c7bfe1f7d306adeb0ab34f72684630b5c982ec1127&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "GODzR35ZILLA",
     name: "GODzR35ZILLA",
     version: "v1.9.0",
@@ -395,6 +425,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://store6.gofile.io/download/direct/bfb6cacf-c13c-436d-9839-ac788bab6d43/AxisForge-RxReports.zip?hash=FGqjATSa65A5IerfsGVJgVCZnWCoJtLhPL3IBnEZF6pXQ53ANSwU1TkGsAHA3nyZ",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "policebmwm5 debadged",
+    name: "policebmwm5 debadged",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814245803593739/image_5.webp?ex=6a4b921d&is=6a4a409d&hm=4aaab1765b9741cfe86f6710401b2a0631e45eac6d60a7e819077cbdddbf2c2a&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814246147391559/polbmwm5.rar?ex=6a4b921d&is=6a4a409d&hm=be5a34ebb5a91d49f4d822e1cf949648106be238e2ce6ec8740bfb9da055174b&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1310,6 +1355,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/976084568547414097/1087732281004802068/pressurewasher.rar?ex=6a4b0760&is=6a49b5e0&hm=67cc673792de10aa1e5cad23058b995d200d095a26277d4ea45460278e96ea34&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "oycval",
+    name: "oycval",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856002574684330/oycval.webp?ex=6a4bb901&is=6a4a6781&hm=5de3b9bed6c5c27592fd7cbc7d0cdd8d3f1073cb4ae0fcd3707b207842523287&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856002012516373/oycval.rar?ex=6a4bb901&is=6a4a6781&hm=0ddf3afb1dbc65ebb72f59e99e8780b91ef219f1fa4defc947a38008979ca557&",
     linkLabel: "GET SCRIPT"
   },
   {
