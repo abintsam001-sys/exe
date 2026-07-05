@@ -764,7 +764,7 @@ const SCRIPTS = [
     status: "online",
     badge: "",
     image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260295982547004/imagae.png?ex=6a4b8680&is=6a4a3500&hm=669f38775f169280da748584d94001f37e25481985dcb8a2ed950b822476a4b3&",
-    tagline: "",
+    tagline: "car",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -773,18 +773,48 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "OP | Garages V3",
-    name: "OP | Garages V3",
+    id: "BMW_1M_Hycade_Custom",
+    name: "BMW_1M_Hycade_Custom",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/53nIV0HQyxI/maxresdefault.jpg",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846758504698017/Grand_Theft_Auto_V_Screenshot_2023_1.webp?ex=6a4bb065&is=6a4a5ee5&hm=54eb7a0fc1ec5621a8a21282e9b67fbae6442880d7739efcfe672f32963591c2&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846758047645727/BMW_1M_Hycade_Custom_IDK1.rar?ex=6a4bb065&is=6a4a5ee5&hm=e44dc280a3fe07f4d58af96ebfafd1a7df218802e57ca3368d2436ef8dff4c75&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Tattoo Shop",
+    name: "Tattoo Shop",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://tse1.mm.bing.net/th/id/OIP.7BB-YBi6WwIxaT5pHx7GwwHaEK?w=680&h=382&rs=1&pid=ImgDetMain&o=7&rm=3",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/MdkzTZIJ#ObjlCLLo-6NmdvECBbK0mt47l6-knZpNlGksxme2lRA",
+    link: "https://linkvertise.com/2422882/956.7967494455343/dynamic?r=aHR0cHM6Ly91bmxvY2tub3cubmV0L01VbkJIL2Rvd25sb2Fk&o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "BMW_M5_CS_Widebody_Demod",
+    name: "BMW_M5_CS_Widebody_Demod",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847260399173814/image_2.webp?ex=6a4bb0dc&is=6a4a5f5c&hm=11a8dfc7323fced3cd608257639845dd90005776ace70ce1f98511c48841fad2&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847260722397326/BMW_M5_CS_Widebody_Demod_1.zip?ex=6a4bb0dd&is=6a4a5f5d&hm=b8878802aded91ca04298a1e44cf973d773c75f78de17ba9eb5814defa494705&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -803,6 +833,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "cookie34",
+    name: "cookie34",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848734818799727/GTA5_2022-09-25_20-49-52.webp?ex=6a4bb23c&is=6a4a60bc&hm=0d3cb837752c560dd247eb78379cb85546d8a04996694b4535576bf494786cef&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848735158407168/cookie34_1.rar?ex=6a4bb23c&is=6a4a60bc&hm=a35887070ad7e1ab672e18e7d9b30ea5803ebbccfcc8a77012b84f2df41371a0&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "GKSPHONE V2",
     name: "GKSPHONE V2",
     version: "v1.9.0",
@@ -815,6 +860,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n5IyAaDD#UHChLDUlTQSIEyrymu_yOPY0dhjS1m_031BpoH3xA6U",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "e92rl",
+    name: "e92rl",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1344846684345073725/1344851536756477983/image_29.webp?ex=6a4bb4d8&is=6a4a6358&hm=abfe01c5a1b9c84520f7e6e3f44859a3a69ff67ca9ce95c2acc92e95d1796517&format=webp&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344851537087696967/e92rl.rar?ex=6a4bb4d8&is=6a4a6358&hm=322f070b8524f93b84334022ad633392b3a626031caf360a0bb05f17106dcff4&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -833,6 +893,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "x3765spyder",
+    name: "x3765spyder",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344831081819406466/1344831912795176961/GTA5_2022-10-13_23-29-21.webp?ex=6a4ba291&is=6a4a5111&hm=7a75bc973046c8d931db13511deff885ebee43e02576081e705654a528381ef1&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344831081819406466/1344831913155760170/x3765spyder.rar?ex=6a4ba291&is=6a4a5111&hm=89bc3f9b9c101f48967322892f62f08fd267957ea4bf201605c07284e690ebab&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "LUNAR Interactions",
     name: "LUNAR Interactions",
     version: "v1.9.0",
@@ -845,6 +920,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/KxIWmYaK#iU8rSjjiegoVGmipuXZ3uWlwWoFfeG0Xr8xPcLStLTg",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "BMW_E60_Balenciaga_X_Gucci",
+    name: "BMW_E60_Balenciaga_X_Gucci",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847930049171518/unknown_9.webp?ex=6a4bb17c&is=6a4a5ffc&hm=9d879a1b45fc0bd00b14ee9bb38da2e0f1931793e1b58e8a79c606c3507f79a8&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847930741493791/DC_Cars_-_BMW_E60_Balenciaga_X_Gucci_1.rar?ex=6a4bb17c&is=6a4a5ffc&hm=af7fb747d99769f69b07c7bb955636947dd8621276cb1e521f662a1a1a3af0a1&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -863,6 +953,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "bmw-m2-koz-concept",
+    name: "bmw-m2-koz-concept",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846817959084083/1.webp?ex=6a4bb073&is=6a4a5ef3&hm=bce8adbcecc41b2cf3729653b4db1e0fd31432bd7ff28831a1216a04736606f0&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846818441302110/bmw-m2-koz-concept_1682011373_61462_1.rar?ex=6a4bb073&is=6a4a5ef3&hm=585100b9188f24b8e8f5c1414a4ab554017acae271357c9581a7c251702f6140&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "UM Multicharacter",
     name: "UM Multicharacter",
     version: "v1.9.0",
@@ -878,6 +983,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "NISSAN_GTR-R35",
+    name: "NISSAN_GTR-R35",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344870975577264179/1344872122668941423/FiveM_b3258_GTAProcess_2024-12-06_15-38-41.webp?ex=6a4bc804&is=6a4a7684&hm=6c4bb144417a87f6217054adc0d3c50f5f7e4547062703f6d948fafba1128595&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344872123792883742/NISSAN_GTR-R35.rar?ex=6a4bc804&is=6a4a7684&hm=5c90bd57b8059e430234bc6ecb93ff026be176d472bca3309caa81d6fd44c666&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Builder Job script 2.0",
     name: "Builder Job script 2.0",
     version: "v1.9.0",
@@ -890,6 +1010,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1294021332740341790/1476597889898778794/17mov_BuilderJob.zip?ex=6a4b1d32&is=6a49cbb2&hm=49ec99ce249c10717bbc727639309394e4ae1f8bb8bd5c9b252640cfcc46c367&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Ferrari_J50_2017",
+    name: "Ferrari_J50_2017",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1344856975711797318/1344857619470352464/image_-_2023-11-19T014513.webp?ex=6a4bba82&is=6a4a6902&hm=83e1ce8333896fa2baf54ca098be383630d24d59ff6a337b355077e12cf7b08a&format=webp&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344856975711797318/1344857553439555604/Ferrari_J50_2017.rar?ex=6a4bba72&is=6a4a68f2&hm=fe2371148ab5e57d9b5792bdd579c724be22698b72c4584c84ed52a517164146&",
     linkLabel: "GET SCRIPT"
   },
   {
