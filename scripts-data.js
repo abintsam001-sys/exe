@@ -758,6 +758,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "2021_Bentley_Bentayga_On_30s",
+    name: "2021_Bentley_Bentayga_On_30s",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260295982547004/imagae.png?ex=6a4b8680&is=6a4a3500&hm=669f38775f169280da748584d94001f37e25481985dcb8a2ed950b822476a4b3&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260544520224878/2021_Bentley_Bentayga_On_30s_Forgiatos_-_Nukem.rar?ex=6a4b86bb&is=6a4a353b&hm=ee821b9bec62c2029569d9462da7eb4b6840a93134efab6b0ada3ae8306c9cf0&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "OP | Garages V3",
     name: "OP | Garages V3",
     version: "v1.9.0",
