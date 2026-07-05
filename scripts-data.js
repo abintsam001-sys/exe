@@ -233,7 +233,7 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "450 Cars (Debadged)",
+    id: "450 Cars Debadged",
     name: "",
     version: "v1.9.0",
     status: "online",
@@ -368,8 +368,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "policebmwm3 (debadged)",
-    name: "policebmwm3 (debadged)",
+    id: "policebmwm3 debadged",
+    name: "policebmwm3 debadged",
     version: "v1.9.0",
     status: "online",
     badge: "",
