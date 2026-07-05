@@ -203,4 +203,19 @@ const SCRIPTS = [
     link: "https://mega.nz/file/dQNFyaCK#n97z1PufES_9ZnuBbpUafdnx69zVZWna-8Yi476ibwk",
     linkLabel: "GET SCRIPT"
   },
+  {
+    id: "cDev | Plate Taping / Removal System",
+    name: "cDev | Plate Taping / Removal System",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/S8cElR1mWFA/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/oUl3CJqC#8v2M_DHKHOewxBdfjtB3JTswRoAyxX5AZEyWjgaW2DM",
+    linkLabel: "GET SCRIPT"
+  },
 ];
