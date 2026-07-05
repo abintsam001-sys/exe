@@ -758,13 +758,13 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "2021_Bentley_Bentayga_On_30s",
-    name: "2021_Bentley_Bentayga_On_30s",
+    id: "bently",
+    name: "bently",
     version: "v1.9.0",
     status: "online",
     badge: "",
     image: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260295982547004/imagae.png?ex=6a4b8680&is=6a4a3500&hm=669f38775f169280da748584d94001f37e25481985dcb8a2ed950b822476a4b3&",
-    tagline: "car",
+    tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
