@@ -294,18 +294,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "OP | Garages V3",
-    name: "OP | Garages V3",
+    id: "LUNAR Interactions",
+    name: "LUNAR Interactions",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/53nIV0HQyxI/maxresdefault.jpg",
+    image: "https://img.youtube.com/vi/pJ2c6y56rE0/maxresdefault.jpg",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/MdkzTZIJ#ObjlCLLo-6NmdvECBbK0mt47l6-knZpNlGksxme2lRA",
+    stats: { stars: 96, downloads: 3100 },tt
+    link: "https://mega.nz/file/KxIWmYaK#iU8rSjjiegoVGmipuXZ3uWlwWoFfeG0Xr8xPcLStLTg",
     linkLabel: "GET SCRIPT"
   },
   {
