@@ -1043,6 +1043,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "vulcan",
+    name: "vulcan",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856340643840040/GTA5_2022-10-28_11-42-39.webp?ex=6a4bb951&is=6a4a67d1&hm=8a1ca2e13fd4d0c0714e28ed3a50eb7a4ee18a6bda902067ea3702b76b924a7d&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856341050822726/vulcan.rar?ex=6a4bb951&is=6a4a67d1&hm=dde2c8771387a8496e7d46b02e5bfa1bb1f4759de6a3c1b54d394b12a1566095&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "esx_drugseffect",
     name: "esx_drugseffect",
     version: "v1.9.0",
@@ -1055,6 +1070,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1110843643478159422/1214918612586995752/esx_drugeffects.rar?ex=6a4afc61&is=6a49aae1&hm=4409bf2fdd241b60049d7db13a6ab9d2279d01462fc2625c9cd89089a66d6945&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Ferrari_J50_2017",
+    name: "Ferrari_J50_2017",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344856975711797318/1344857552940437514/image_-_2023-11-19T014215.webp?ex=6a4bba72&is=6a4a68f2&hm=46256a4cf02e5ac27ab27a050539deb272353363c1b9edcaa3991edeb2924525&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344856975711797318/1344857553439555604/Ferrari_J50_2017.rar?ex=6a4bba72&is=6a4a68f2&hm=fe2371148ab5e57d9b5792bdd579c724be22698b72c4584c84ed52a517164146&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1073,6 +1103,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Jeep_Storm_Tooper_Hawk",
+    name: "Jeep_Storm_Tooper_Hawk",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843937491189883/IMG_0683.webp?ex=6a4badc4&is=6a4a5c44&hm=b5fd3d392df130f373421d2e69201d10b144a1070967b2c78b2742219cb74231&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843937860423741/Jeep_Storm_Tooper_Hawk_-_Mykes_Customs.rar?ex=6a4badc4&is=6a4a5c44&hm=44ae4f72d39919c19f10a3b51899991b213294161a97bbb1a4c898104181eab9&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "um-multicharacter",
     name: "um-multicharacter",
     version: "v1.9.0",
@@ -1085,6 +1130,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1294021332740341790/1423060889795432631/um-multicharacter.rar?ex=6a4b76fb&is=6a4a257b&hm=39dc92ad16be54b112f2eee40270956f80f2c7d95ac0f1c055620143473ca983&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Drift_Trackhawk_1000hp_426_Hellephant",
+    name: "Drift_Trackhawk_1000hp_426_Hellephant",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843908818927669/image_10.webp?ex=6a4badbd&is=6a4a5c3d&hm=e54fd8d8881ac4d1168562be79a8c2215ee7cf096ddc91038d7a07c772cb0d68&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843908315877403/Drift_Trackhawk_1000hp_426_Hellephant_-_GodzGift_1.rar?ex=6a4badbd&is=6a4a5c3d&hm=a16b11ec0f29a5ddd4d3910c512159a04f35baf510b97b8cf1318abf2ae34550&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1103,6 +1163,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "gcmw223",
+    name: "gcmw223",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860667613810698/unknown_8.webp?ex=6a4bbd59&is=6a4a6bd9&hm=136eeb49dafff76392da98b8c588700326500374524f9a7f615bc5713c479fc2&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860668188299388/gcmw223.rar?ex=6a4bbd59&is=6a4a6bd9&hm=d507f20a5029c217408d29b1ccc8b1b1e8915b1b1f3b0d07fd084e92a190792d&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "deathscreen",
     name: "deathscreen",
     version: "v1.9.0",
@@ -1115,6 +1190,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1243943640741576734/1249381989451305081/uniq-deathscreen-main.zip?ex=6a4b1e66&is=6a49cce6&hm=92c3b6c6d345ad30da616076751c3e157915d77535cd9f41de6b002cbd899d73&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "c63",
+    name: "c63s",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860735557337128/unknown_1_2.webp?ex=6a4bbd69&is=6a4a6be9&hm=94ee6084355c31450306206374d04cd39e6c22304b8971e69f79d4be49566a53&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860735154421773/c63s.rar?ex=6a4bbd69&is=6a4a6be9&hm=75705edb8f4849b7aab2dfe847df6e787a6200fc7e4c643026f7b842b576c012&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1133,6 +1223,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "BMW_M8_GTR_Hycade",
+    name: "BMW_M8_GTR_Hycade",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848264305836245/GTA5_2022-09-24_01-31-33.webp?ex=6a4bb1cc&is=6a4a604c&hm=e1d624fc5b00c5d5bb495dab93ace0855eecef763aaff8679d400e4ee9ae296b&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848264670744586/BMW_M8_GTR_Hycade.rar?ex=6a4bb1cc&is=6a4a604c&hm=183da8de6e39fce6e5f75f6d76ea7fe335dc25484b2218a161864d06d363ecc8&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "thug-killshows",
     name: "thug-killshows",
     version: "v1.9.0",
@@ -1148,6 +1253,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "tesla xl",
+    name: "tesla xl",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/LdZQnS6cgxA/sddefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/ucakzkq9tj8tj3d/Tesla_Cyber_Vehicles_Collection_v1.2_-_Foxtrot_Delta.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: " Quasar Deathmatch for FiveM | Custom PvP Arenas, Private Lobbies & Competitive Rounds",
     name: " Quasar Deathmatch for FiveM | Custom PvP Arenas, Private Lobbies & Competitive Rounds",
     version: "v1.9.0",
@@ -1160,6 +1280,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/HlQ1nLiQ#P_NsHQ2eluDte1ameY6Bn1xaFP_qV-CMb8SUZpM_HEw",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "750lixdriver",
+    name: "750lixdriver",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848336745791488/GTA5_2022-12-24_14-49-55.webp?ex=6a4bb1dd&is=6a4a605d&hm=c17be1f27fa9dca3fa8c0269b1e683c1801bece3179a972aee945e0dc2162ec3&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848337119219772/750lixdriver.rar?ex=6a4bb1dd&is=6a4a605d&hm=0bbc32110d95b0d26bcd95d979116387330192ce7a79bb88f3ea155cbf7067e5&",
     linkLabel: "GET SCRIPT"
   },
   {
