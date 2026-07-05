@@ -248,6 +248,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "m4cs",
+    name: "m4cs",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848442132009002/GTA5_2022-12-24_14-56-21.webp?ex=6a4bb1f6&is=6a4a6076&hm=9d95a27b3a1512cd95180fdf7c7504417c67fc5a2c84af667c29c729af513b4e&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848442454839498/m4cs.rar?ex=6a4bb1f6&is=6a4a6076&hm=f94ed14d707a7257041c4f76c8f03a1753cd79405f3696e4b3360fab0022abe6&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "9am multicharacter",
     name: "9am multicharacter",
     version: "v1.9.0",
@@ -278,6 +293,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "e53coupe21",
+    name: "e53coupe21",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865063722418236/GTA5_2022-10-05_12-14-02.webp?ex=6a4bc171&is=6a4a6ff1&hm=3bb990ada6d09f0ff10c0352fa4f839aec85f2bc87935b81e6c52c43d507c9f1&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865063135084544/e53coupe21.rar?ex=6a4bc171&is=6a4a6ff1&hm=40054ac67a1fde4c4c3afcf9c38ed5de92809dfce31b735a5f9e995accc16537&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
     name: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
     version: "v1.9.0",
@@ -293,6 +323,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "priorgt63s",
+    name: "priorgt63s",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865398998433852/image_-_2023-11-19T014847.webp?ex=6a4bc1c1&is=6a4a7041&hm=67d6acf324f620b8b5d91a45f358e678f703173d0b3ab8e0b860062ccd47f101&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865400063791167/priorgt63s_1.rar?ex=6a4bc1c1&is=6a4a7041&hm=dba404a9ff91fc712be48cc2bc36afb230aa7cdd77243224d65104424ae567f8&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Modern Luxury Car Dealership MLO",
     name: "",
     version: "v1.9.0",
@@ -305,6 +350,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/8nd1fj3cugj512h/ModernLuxuryCarDealership.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "GODzR35ZILLA",
+    name: "GODzR35ZILLA",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871922055381022/FiveM_b3258_GTAProcess_2024-12-03_00-29-04.webp?ex=6a4b1f14&is=6a49cd94&hm=dd727a4885014f651f2254fd2aa680f1b5279fdcef04a14aee8f5f48f2b3967c&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871923254952078/GODzR35ZILLA.rar?ex=6a4bc7d5&is=6a4a7655&hm=77d418d3d4589083d9abdb1575fce943a49eb58370334bfb811d7c50438060ef&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -350,6 +410,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "TundraNW",
+    name: "TundraNW",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875357857120256/FiveM_b2060_GTAProcess_2024-05-27_10-56-52.webp?ex=6a4b2247&is=6a49d0c7&hm=0130baa22e0fdea54badc7a4c884f996dca20c9435456f3e74de528f876835d8&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875358922473562/TundraNW_1.rar?ex=6a4bcb08&is=6a4a7988&hm=a9d47563d0b821b9256f631c510186b6cd4c4df311d103b7cf18d52afcb11926&",
     linkLabel: "GET SCRIPT"
   },
   {
