@@ -519,6 +519,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: " Quasar Deathmatch for FiveM | Custom PvP Arenas, Private Lobbies & Competitive Rounds",
+    name: " Quasar Deathmatch for FiveM | Custom PvP Arenas, Private Lobbies & Competitive Rounds",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/x4bwPSTW3F0/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/HlQ1nLiQ#P_NsHQ2eluDte1ameY6Bn1xaFP_qV-CMb8SUZpM_HEw",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "pressure washer",
     name: "pressure washer",
     version: "v1.9.0",
@@ -561,6 +576,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474036237777240208/CrewLife_Banking.rar?ex=6a4b05f9&is=6a49b479&hm=5057b5a96de3e973af284298375c62f469ed559148a90d40d6130a80b2df0977&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "KQ_Meth",
+    name: "KQ_Meth",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi_webp/onV0jL4-_xU/maxresdefault.webp",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1508092435539165235/KQ_Meth.rar?ex=6a4ba707&is=6a4a5587&hm=6a885edfe609f95919be43e1cd79290cf7451eddce92d19345cf556416ca13ba&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -759,6 +789,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "tk_drugs",
+    name: "tk_drugs",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/ced224463661dcda961b1e92c06616163494b1c5.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1507135429009211472/tk_drugs.rar?ex=6a4b777f&is=6a4a25ff&hm=84c354ce64c0f6fa65b83e1a4a4cb3b8e00ba7ac4bdff2a27186b5e0aa919967&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "GPS/Tracker V2",
     name: "GPS/Tracker V2",
     version: "v1.9.0",
@@ -771,6 +816,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://six-6-services.tebex.io/category/free",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Lunar_Drug_Creator_And_Bridge",
+    name: "Lunar_Drug_Creator_And_Bridge",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462077715484964/1514611655323942953/1fa4b957-bf8c-4122-9ba9-5d5521b934a0.png?ex=6a4ba386&is=6a4a5206&hm=d96b06e3600493267a8c8c37d9ecb70ee0456aca88395541bfa0352550116a02&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1514611650475589774/Lunar_Drug_Creator_And_Bridge.zip?ex=6a4ba385&is=6a4a5205&hm=e8e87e54c38dfe9e4137bd31a0bbfffb23192abf959ecdf227264d8ec646d644&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -940,6 +1000,36 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Gang Kevlar Vests FREE",
+    name: "Gang Kevlar Vests FREE",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1274677863538495508/1274688042371907624/Discord_S017Ucbd23.png?ex=6a4b8e3f&is=6a4a3cbf&hm=6a130c9622d13cd2005f1a420dbb720ab564a5bd10ac1a8a3e5c3190332ff823&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-hub.net/96710/fivem-gang-vest-free",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ATM robbery",
+    name: "ATM robbery",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/850399531292295190/881501086836486174/1.PNG?ex=6a4b91dc&is=6a4a405c&hm=d900cdfed5e4dc1d0930c0a3eaa00064f37d52d0ff731c5e64dedde1b4ea17f9&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.file-upload.net/download-14821794/LNR-robatm.zip.html",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Quasar Multicharacter 2.0 for FiveM | Advanced Character & Spawn Selector System",
     name: "Quasar Multicharacter 2.0 for FiveM | Advanced Character & Spawn Selector System",
     version: "v1.9.0",
@@ -982,6 +1072,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://github.com/nz-development/nz-scoreboard",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Advanced Boss & Gang Menu",
+    name: "Advanced Boss & Gang Menu",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/2/0/c/4/20c4f6aa6cbde9370b4319c3c4115e0cd7396cc3_2_1024x576.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1459595895594291250/1459601968728117384/BakiTelli_bossmenu.rar?ex=6a4b3f03&is=6a49ed83&hm=df431deacc7719f45bedeadad9e39846d25e0c4b125e18bd951ada2290d5c0bf&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1042,6 +1147,36 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474034770059984974/nv_AdvancedScoreboard-main.zip?ex=6a4b049b&is=6a49b31b&hm=70c7843a9ab43664427b1aac7a8b73fb3e26e92b6fc688684bf89c519c0bf6b0&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Humane labs robbery",
+    name: "Humane labs robbery",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://tse2.mm.bing.net/th/id/OIP.BJlYc6aRRvhdv49n6-IbMwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.file-upload.net/download-14821803/luke_humanerobbery.zip.html",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "gfx-arena",
+    name: "gfx-arena",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/BPzEG4lg2Rc/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/975908517787627573/1218859678491213855/gfx-arena.rar?ex=6a4b7b08&is=6a4a2988&hm=afe3cd64a4ba86990f9d1d76b7042a07bf173dd75d2a5d3f4e6b67a3efa25a0e&",
     linkLabel: "GET SCRIPT"
   }
 ]; 
