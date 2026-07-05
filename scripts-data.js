@@ -187,5 +187,20 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/folder/FIgUlIzZ#iOEv68YmZFcLBNLj8gZe6A",
     linkLabel: "GET SCRIPT"
-  }
+  },
+  {
+    id: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
+    name: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1503599521790165106/1520884817615524041/maxresdefault_1.jpg?ex=6a4abadd&is=6a49695d&hm=e3b3256e5e380ce8fdfc90dae966c2a2133830dd24671ae0576775ad9344f3aa&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/agpCBCDZ#J1na1gMiccBom-vKjiOsbWM4zMHEhgW6M5fuCPwx5Uk",
+    linkLabel: "GET SCRIPT"
+  }  
 ];
