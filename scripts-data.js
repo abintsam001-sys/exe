@@ -292,5 +292,50 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n6AElJgA#LJU-xQVj453cSp_3NsuOmL4zFSe5tdkVWsnolWMN5TQ",
     linkLabel: "GET SCRIPT"
-  }
+  },
+  {
+    id: "UM Multicharacter",
+    name: "UM Multicharacter",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1516795585259114556/fanoon6m.png?ex=6a4b03b8&is=6a49b238&hm=2d0e46b09f84fecab741ff51dbe126a560bb346e8a3eba3f7653bc47e7b1fa94&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/ukADlbBJ#aWV-2X6eVKhHSPfJbc7KGJ3gW5DL_X7zThFNHFRIalg",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "esx_drugseffect",
+    name: "esx_drugseffect",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1110843643478159422/1214918612993839154/image.png?ex=6a4afc61&is=6a49aae1&hm=84a95a4abd0990856043273df358fe538489658ba27b52b8a22885c4983f5e9a&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1110843643478159422/1214918612586995752/esx_drugeffects.rar?ex=6a4afc61&is=6a49aae1&hm=4409bf2fdd241b60049d7db13a6ab9d2279d01462fc2625c9cd89089a66d6945&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "LondonStudios | Vinewood Sign V2",
+    name: "LondonStudios | Vinewood Sign V2",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1259856192969113600/1516440844310155296/fral7lec.png?ex=6a4b0ad7&is=6a49b957&hm=a7da3478f07148816aaaa70ca02a5d9d0a246ad9ee5d8998c2289d2c2cbcc258&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/IF13zDBR#naWdWZphv5sqj0e2_qHgM274U51QxHKXYRojeM90i2Q",
+    linkLabel: "GET SCRIPT"
+  },
  ]; 
