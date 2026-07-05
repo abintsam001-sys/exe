@@ -249,6 +249,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "FiveM Fleeca Bank Robberies Script [ ESX / QBCore ]",
+    name: "FiveM Fleeca Bank Robberies Script [ ESX / QBCore ]",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/ZxJ6-cR9mpk/mqdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/GZMGgRJQ#Im5ZLiqUO_9qsTvNqbyDG8LP5HffuFYWu8mDRSTlv54",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "DJS | Uwu Cafe Props",
     name: "DJS | Uwu Cafe Props",
     version: "v1.9.0",
@@ -684,6 +699,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "2na_garage",
+    name: "2na_garage",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/4X/1/5/4/1542e4930fcde9954f4af5a587dee343477b60df_2_690x387.png",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://0resmon.tebex.io/package/5516991",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Roller Skating",
     name: "Roller Skating",
     version: "v1.9.0",
@@ -940,6 +970,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Nz-scoreboard",
+    name: "Nz-scoreboard",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/Iao6kudcipI/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://github.com/nz-development/nz-scoreboard",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "LifePeak Scripts | Hunting",
     name: "LifePeak Scripts | Hunting",
     version: "v1.9.0",
@@ -969,4 +1014,34 @@ const SCRIPTS = [
     link: "https://cdn.discordapp.com/attachments/1494492723942785065/1494496057772478615/nc_banking.rar?ex=6a4ba0aa&is=6a4a4f2a&hm=63a56137e7870264b993fc53ae0507130a0335fde3753d6a3bcd3b34de51c9f8&",
     linkLabel: "GET SCRIPT"
   },
+  {
+    id: "b-garage + impound [ FiveM - ESX ]",
+    name: "b-garage + impound [ FiveM - ESX ]",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296317343617519616/df513349b00f2a4175313de53133e79a371fc0f9_2_690x388.png?ex=6a4b241b&is=6a49d29b&hm=48c6664443fdfcb9619a1f268e984526e99c6470d7d3b59e821656f304ba5570&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-target.net/1233760/b-garage-impound",
+    linkLabel: "GET SCRIPT"
+  },
+ {
+    id: "AdvancedScoreboard",
+    name: "AdvancedScoreboard",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1474462091271344393/1474734082218000515/203766123-34417025-497e-475e-b7aa-2abb671037a1.png?ex=6a4b95a4&is=6a4a4424&hm=6e34f82bef0cc5a621a6a8ad4602a46a3eb45164a4d7fec6b311f2e1802923dd&format=webp&quality=lossless&width=1536&height=864&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474034770059984974/nv_AdvancedScoreboard-main.zip?ex=6a4b049b&is=6a49b31b&hm=70c7843a9ab43664427b1aac7a8b73fb3e26e92b6fc688684bf89c519c0bf6b0&",
+    linkLabel: "GET SCRIPT"
+  }
 ]; 
