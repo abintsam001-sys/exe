@@ -82,7 +82,6 @@ const SCRIPTS = [
     link: "https://store-eu-par-4.gofile.io/download/direct/89f09cd2-62c2-4cd9-9164-e07e3d0619f5/AXISFORGE_asgard.zip?hash=MzsfQSPCYJgGRYvQbNNvn8FChoqrylLaEmLkzp11yEYshOkrUl5Eswpzzd8jLLi2",
     linkLabel: "GET SCRIPT"
   },
-    
     {
     id: "NTEAM DRONE [ MAP + VEHICLE + SCRIPT ]",
     name: "NTEAM DRONE [ MAP + VEHICLE + SCRIPT ]",
