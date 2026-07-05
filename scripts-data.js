@@ -1,4 +1,4 @@
-// ─────────────────────────────────────────────────────────────
+1// ─────────────────────────────────────────────────────────────
 // SITE_STATS — numbers that aren't tied to a single script.
 // totalUsers isn't derivable from the scripts list, so set it by hand
 // (or wire it up to a real backend/DB later).
@@ -45,7 +45,7 @@ const SCRIPTS = [
     badge: "",
     image: "https://img.youtube.com/vi/aeHkDgUbrsY/maxresdefault.jpg",
     tagline: "",
-    frameworks: ["Standalone"],
+    frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
@@ -53,18 +53,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
     {
-    id: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
-    name: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
+    id: "[MLO] Asgard Beach Disco Club",
+    name: "[MLO] Asgard Beach Disco Club",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://img.youtube.com/vi/aeHkDgUbrsY/maxresdefault.jpg",
+    image: "https://img.youtube.com/vi/E3y30z6JAE8/maxresdefault.jpg",
     tagline: "",
-    frameworks: ["Standalone"],
+    frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/YBdmSRQb#u36g7W6VG3f85Il4VgHgKuAzkFYXIgdlecb0SORGbW0",
+    link: "https://store-eu-par-4.gofile.io/download/direct/89f09cd2-62c2-4cd9-9164-e07e3d0619f5/AXISFORGE_asgard.zip?hash=MzsfQSPCYJgGRYvQbNNvn8FChoqrylLaEmLkzp11yEYshOkrUl5Eswpzzd8jLLi2",
     linkLabel: "GET SCRIPT"
   },
     
