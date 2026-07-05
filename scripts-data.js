@@ -99,6 +99,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "PScripts Police Job",
+    name: "PScripts Police Job",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://fivescripts.net/_next/image?url=https%3A%2F%2Fapi.fivescripts.net%2Fstorage%2Fmedia%2Fadvanced-police-job-v2-68efca6316f6c.jpg&w=1200&q=75",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1445133664844517441/1452810054439932018/p_policejob.rar?ex=6a4aed4c&is=6a499bcc&hm=3783724ee35cb7a61c02974ceb12ceadaf3f2ef7fb8147ae161daf6bc65997df&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
     name: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
     version: "v1.9.0",
@@ -186,6 +201,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/folder/FIgUlIzZ#iOEv68YmZFcLBNLj8gZe6A",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Police, DOJ & EMS MDT | Fivem Script | LOOP STUDIOS",
+    name: "Police, DOJ & EMS MDT | Fivem Script | LOOP STUDIOS",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/Y4JSV4WNrpU/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1503476975917076511/1522435880785154118/MDT.zip?ex=6a4b1967&is=6a49c7e7&hm=ed613f22dedf30c3aaf9bfa303385234a10f6972fc0945f69615e4c57f48d5d8&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -306,6 +336,36 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/ukADlbBJ#aWV-2X6eVKhHSPfJbc7KGJ3gW5DL_X7zThFNHFRIalg",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Builder Job script 2.0",
+    name: "Builder Job script 2.0",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi/ncreh45il4k/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1476597889898778794/17mov_BuilderJob.zip?ex=6a4b1d32&is=6a49cbb2&hm=49ec99ce249c10717bbc727639309394e4ae1f8bb8bd5c9b252640cfcc46c367&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Fivem Multiplayer Electrician Job script 2.0",
+    name: "Fivem Multiplayer Electrician Job script 2.0",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://i.ytimg.com/vi/PbZWVN3K1H4/maxresdefault.jpg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1476243889026371645/17mov_Electrician.zip?ex=6a4b2502&is=6a49d382&hm=83814904a0d4161c2a7dc294b5f19694689446d5abd312f51a0bb39c66b8fb57&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -698,5 +758,20 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/867470/d-phone-073?o=sharing",
     linkLabel: "GET SCRIPT"
-  }
+  },
+  {
+    id: "LifePeak Scripts | Hunting",
+    name: "LifePeak Scripts | Hunting",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/4X/5/4/5/545b9597fa5a615464985234640d848f83462430_2_690x388.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://linkvertise.com/615987/fivem-script-for-servers580?o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
 ]; 
