@@ -534,6 +534,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "CrewLife_Banking",
+    name: "CrewLife_Banking",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462082794655925/1474733333094207641/1-1.png?ex=6a4b94f1&is=6a4a4371&hm=a5925ff205ac88b9636d4eca257e6f4585d2c6b9e7d475cd52b06d4649e621a8&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474036237777240208/CrewLife_Banking.rar?ex=6a4b05f9&is=6a49b479&hm=5057b5a96de3e973af284298375c62f469ed559148a90d40d6130a80b2df0977&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "clothing bag",
     name: "clothing bag",
     version: "v1.9.0",
@@ -579,6 +594,36 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "ns-pausemenuv2 New version of Nexus Pause Menu",
+    name: "ns-pausemenuv2 New version of Nexus Pause Menu",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296473482980229120/hd.png?ex=6a4b0cc5&is=6a49bb45&hm=80b58f19e4fd49e3d166be142a808db298b2c6a88abced39a9e39d8f6f2acce0&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-hub.net/1233760/ns-pausemenu",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "okokBanking",
+    name: "okokBanking",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1474462082794655925/1474733272960471184/hd.png?ex=6a4b94e3&is=6a4a4363&hm=a1716602572d197867ef745da3429e2c2095b5d4291d94955367e125cc1f5279&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474035846687756390/okokBanking.rar?ex=6a4b059c&is=6a49b41c&hm=f586eec1d1ad3f9ced57e04ad69d3c972218b67aaaf5856a70c67bb0e32e4f21&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Wais-HUDv5",
     name: "Wais-HUDv5",
     version: "v1.9.0",
@@ -606,6 +651,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/njaz75iom8wg1mf/Anti+CombatLog.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Pause Menu",
+    name: "Pause Menu",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/1/3/2/a/132ab03a0e90f34572b9f300920851636caff936_2_690x388.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://github.com/KFScripts/KF_PauseMenu",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -745,6 +805,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "TM1 Pause Menu: QBCore & ESX",
+    name: "TM1 Pause Menu: QBCore & ESX",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://forum-cfx-re.akamaized.net/optimized/5X/1/6/f/1/16f110980a23fa60bdf997a3c96e84e7505148d6_2_690x388.jpeg",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://github.com/Maykellll1/tm1_pausemenu/",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Stagev Loadingscreen",
     name: "Stagev Loadingscreen",
     version: "v1.9.0",
@@ -878,5 +953,20 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/615987/fivem-script-for-servers580?o=sharing",
     linkLabel: "GET SCRIPT"
-  }
+  },
+  {
+    id: "nc_banking",
+    name: "nc_banking",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1494492723942785065/1494496057327878308/image.png?ex=6a4ba0aa&is=6a4a4f2a&hm=8433e762b4c1372b4bed4c89c37024da7eaf874e993693050d685cb5824ba828&",
+    tagline: "",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1494492723942785065/1494496057772478615/nc_banking.rar?ex=6a4ba0aa&is=6a4a4f2a&hm=63a56137e7870264b993fc53ae0507130a0335fde3753d6a3bcd3b34de51c9f8&",
+    linkLabel: "GET SCRIPT"
+  },
 ]; 
