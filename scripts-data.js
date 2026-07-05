@@ -38,6 +38,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "audi hycade",
+    name: "audi hycade",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/963049096871043082/966588705290747914/unknown.png?ex=6a4b4d61&is=6a49fbe1&hm=26ec0e4a200471ad753c8139c323bf66bb8329dbf35ab20a380f5897aa8f145c&format=webp&quality=lossless&width=1381&height=777&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/p2omEKCQ#VKlAMwqJ0_LI-qiiwunpwuuWhwHUULSuEPqS_2U7hD0",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
     name: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
     version: "v1.9.0",
@@ -50,6 +65,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/YBdmSRQb#u36g7W6VG3f85Il4VgHgKuAzkFYXIgdlecb0SORGbW0",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "honda-nsx-hycade",
+    name: "honda-nsx-hycade",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344823266681946122/1344823511189028917/Honda-NSX-Hycade.webp?ex=6a4b9abe&is=6a4a493e&hm=dcc7bf0f2e811f12f964fbaff4de12b2f269a005ee575ba504463097b9939185&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344823266681946122/1344823516117340271/honda-nsx-hycade.rar?ex=6a4b9abf&is=6a4a493f&hm=65e4b4c6a4b81578cb747958f4e6d33080ea6a1891dc1657955fbcae0ab14835&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -68,6 +98,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "MazdaAnimeFINAL",
+    name: "MazdaAnimeFINAL",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344830436240654358/1344830957332598824/FiveM_b2944_GTAProcess_2024-06-08_23-35-12.webp?ex=6a4ba1ad&is=6a4a502d&hm=bc9741cd2a2ab8f9cdaacca635becbadc0957d4b6a983a671d5533723dd94ec5&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344830436240654358/1344830957693304934/MazdaAnimeFINAL.rar?ex=6a4ba1ae&is=6a4a502e&hm=5769940c5cbd9a81fca0c47697d008144805bc3e88d2bbb9db0691131671b106&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "[MLO] Asgard Beach Disco Club",
     name: "[MLO] Asgard Beach Disco Club",
     version: "v1.9.0",
@@ -80,6 +125,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://store-eu-par-4.gofile.io/download/direct/89f09cd2-62c2-4cd9-9164-e07e3d0619f5/AXISFORGE_asgard.zip?hash=MzsfQSPCYJgGRYvQbNNvn8FChoqrylLaEmLkzp11yEYshOkrUl5Eswpzzd8jLLi2",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "AmgGtrLight_Hubercik",
+    name: "AmgGtrLight_Hubercik",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/963049096871043082/967106000932974672/unknown.png?ex=6a4b34e6&is=6a49e366&hm=223f87102f98efee063a080b42dd07407afdfc83c5d520316a99aff0397af617&format=webp&quality=lossless&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/901505815033307136/901515491712069682/AmgGtrLight_Hubercik.rar?ex=6a4b367a&is=6a49e4fa&hm=31799507fb06b048987528947fe3c4f882c31595f91231798c7d9add1acf1ba5&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -99,7 +159,7 @@ const SCRIPTS = [
   },
   {
     id: "LS Motors (Car Dealership / Showroom)",
-    name: "",
+    name: "LS Motors (Car Dealership / Showroom)",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -110,6 +170,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/kg48knki82kwk52/LS_Motors_MLO.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "16topcargle_1",
+    name: "16topcargle_1",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344864784893607976/GTA5_2022-09-26_12-26-12.webp?ex=6a4bc12f&is=6a4a6faf&hm=49d2afa383fe166ef3f57f9ccbc086c3eaa5469f27af816f2840086d4123ab19&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344864784247558184/16topcargle_1.rar?ex=6a4bc12e&is=6a4a6fae&hm=67a5cfd407c6c4c7752e7b0034d5bdd4debe300188ee0624783f390896f188cf&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -140,6 +215,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cold4.gofile.io/download/direct/c01fa470-53d9-4c96-9634-1c76ae2a6e61/AxisForge-nass_fighting.zip?hash=QZMtZzsRGbNtNHAohzZeI5dyHnpwzyvILAceBYblcEqoMzlQx6eQL7QO5l0rwdRD",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "2021_BMW_X6M",
+    name: "2021_BMW_X6M",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1344846684345073725/1344850375643103323/image_-_2023-11-19T014746.webp?ex=6a4bb3c3&is=6a4a6243&hm=7aba1ce8b22c1290100e6dd6c81831d26a933d14600aabfea6946eb528c836ab&format=webp&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344850376062664704/2021_BMW_X6M_-_TR.rar?ex=6a4bb3c3&is=6a4a6243&hm=2005b5566861a9a5622ebeb9fc9d313104d421c36ddeb3eea991bd41406d394b&",
     linkLabel: "GET SCRIPT"
   },
   {
