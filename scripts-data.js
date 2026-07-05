@@ -848,18 +848,18 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Kokoro Cafe - MLO - FleuR Mapping Studio",
-    name: "Kokoro Cafe - MLO - FleuR Mapping Studio",
+    id: "2019 Jeep Gladiator F9 | angel-wt",
+    name: "2019 Jeep Gladiator F9 | angel-wt",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "",
-    tagline: "",
+    image: "https://cdn.discordapp.com/attachments/1474461961470218383/1474502535136940154/temp_image.png?ex=6a4b66bf&is=6a4a153f&hm=40ca86e712ddb1b7e96ae4f72266862fbfafdf53ca92001bd95bedcab7293147&",
+    tagline: "car",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "",
+    link: "https://cdn.discordapp.com/attachments/900464722363682826/1228642012278951936/gladiatorscc.rar?ex=6a4b790a&is=6a4a278a&hm=568ce09a0634dbb2df88facaffe4395350ebf8a5e1eb4049116691342db75588&",
     linkLabel: "GET SCRIPT"
   },
   {
