@@ -384,21 +384,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "deathscreen",
-    name: "deathscreen",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://cdn.discordapp.com/attachments/1294021332740341790/1320716626278092950/b49d9aa41d0db8c538496121c08aa461980d895e.png?ex=6a4aea75&is=6a4998f5&hm=e954044ac18c2dd715aeaddaa3f1200c95f258841239e7bdc07964e67fde10a1&",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1243943640741576734/1249381989451305081/uniq-deathscreen-main.zip?ex=6a4b1e66&is=6a49cce6&hm=92c3b6c6d345ad30da616076751c3e157915d77535cd9f41de6b002cbd899d73&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "OP | Garages V3",
     name: "OP | Garages V3",
     version: "v1.9.0",
