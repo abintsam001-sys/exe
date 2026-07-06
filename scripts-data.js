@@ -279,7 +279,7 @@ const SCRIPTS = [
   },
   {
     id: "450 Cars Debadged",
-    name: "",
+    name: "450 Cars Debadged",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -383,13 +383,13 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
-    name: "FPSBOOST - FiveM Script (ESX, QBCORE & QBOX)",
+    id: "FPSBOOST FiveM Script ESX, QBCORE & QBOX",
+    name: "FPSBOOST FiveM Script ESX, QBCORE & QBOX",
     version: "v1.9.0",
     status: "online",
     badge: "",
     image: "https://img.youtube.com/vi/lwYDi0C1pPM/maxresdefault.jpg",
-    tagline: "",
+    tagline: "fps",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -398,13 +398,13 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "PACK GRAPHIQUE YBN V6 OPTI",
-    name: "PACK GRAPHIQUE YBN V6 OPTI",
+    id: "PACK GRAPHIQUE YBN  OPTI",
+    name: "PACK GRAPHIQUE YBN  OPTI",
     version: "v1.9.0",
     status: "online",
     badge: "",
     image: "https://img.youtube.com/vi/G_YkLnsw2OE/mqdefault.jpg",
-    tagline: "car",
+    tagline: "graphics",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -539,7 +539,7 @@ const SCRIPTS = [
     status: "online",
     badge: "",
     image: "https://img.youtube.com/vi/Fm1rzLEBhI0/maxresdefault.jpg",
-    tagline: "car",
+    tagline: "graphics",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -659,7 +659,7 @@ const SCRIPTS = [
     status: "online",
     badge: "",
     image: "https://media.discordapp.net/attachments/1447588663562342512/1490943755400904904/image.png?ex=6a4c8c13&is=6a4b3a93&hm=87ca87660248125b09a47aaae81c3f02d71df192ff09326e9d4161b5c42139ba&format=webp&quality=lossless&",
-    tagline: "car",
+    tagline: "graphics",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -1253,8 +1253,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "FPS BOOST PACK #5",
-    name: "FPS BOOST PACK #5",
+    id: "FPS BOOST PACK 5",
+    name: "FPS BOOST PACK 5",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -1403,8 +1403,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "FPS BOOST PACK #1",
-    name: "FPS BOOST PACK #1",
+    id: "FPS BOOST PACK 1",
+    name: "FPS BOOST PACK 1",
     version: "v1.9.0",
     status: "online",
     badge: "",
