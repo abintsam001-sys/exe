@@ -507,37 +507,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871923254952078/GODzR35ZILLA.rar?ex=6a4bc7d5&is=6a4a7655&hm=77d418d3d4589083d9abdb1575fce943a49eb58370334bfb811d7c50438060ef&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "EUP 910 Fivem Ready",
-    name: "EUP 910 Fivem Ready",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://files.greenheberg.fr/uploads/6855dc3e18cc9_e6f2d11ee729c344061caa4bdea7635150327d4c.webp",
-    tagline: "clothing",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://gofile.io/d/zZf73E",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "Bridge for Cayo Perico",
-    name: "Bridge for Cayo Perico",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://forum-cfx-re.akamaized.net/original/4X/7/9/f/79f606b7639b0516e4d4b3967ec16a32526f8cea.jpeg",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1335317653010645073/1355565054195667096/Cayo_Bridge.rar?ex=6a4b2196&is=6a49d016&hm=3b9941560822787927608e9ba17d3ada1a2f1aa244527c67dfa89abc74fc9b66&",
+    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814178682142750/polbmwm3.rar?ex=6a4b920d&is=6a4a408d&hm=df991e753c3cd148e329e1c7bfe1f7d306adeb0ab34f72684630b5c982ec1127&",
     linkLabel: "GET SCRIPT"
   },
   {
