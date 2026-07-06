@@ -143,6 +143,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "NVE Reshade",
+    name: "NVE Reshade",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1522231959131127958/1522439925520273449/image_1.webp?ex=6a4c6eab&is=6a4b1d2b&hm=b9bcc838a73e08a8c71e96157f79ad2682e387658af26f973353081fcbda5ea0&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1522231959131127958/1522439972295282821/NVE_Reshade.rar?ex=6a4c6eb6&is=6a4b1d36&hm=19c03029bd1c82660226a394101c3a1b883c3508da46fb4fbb7f3464444ee7a6&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "AmgGtrLight_Hubercik",
     name: "AmgGtrLight_Hubercik",
     version: "v1.9.0",
@@ -233,6 +248,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "YBN V4 Graphics Pack | FiveM",
+    name: "YBN V4 Graphics Pack | FiveM",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/_FIfsh18sjk/maxresdefault.jpg",
+    tagline: "graphics",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://gofile.io/d/efwex3",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "2021_BMW_X6M",
     name: "2021_BMW_X6M",
     version: "v1.9.0",
@@ -308,6 +338,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "NaturalVision Evolved FIVEM August 2024",
+    name: "NaturalVision Evolved FIVEM August 2024",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296348042751905843/9k.png?ex=6a4c9232&is=6a4b40b2&hm=d1af09945db3ff29fe439484d72bfdebe794b7aa8eacde2efa7a9e60d9b126f3&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://linkvertise.com/1233760/nve-august-2024?o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "PScripts Police Job",
     name: "PScripts Police Job",
     version: "v1.9.0",
@@ -350,6 +395,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cold-eu-par-1.gofile.io/download/direct/d655e916-201f-46b8-9985-96da9f2b85db/AxisForge-17mov_FpsBooster.zip?hash=h06AmcEQmICKl9hnWoZDfywSjAB3JPCfAgehd5LrauclFbIV8Dx9Rvf00ocuzTKL",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "PACK GRAPHIQUE YBN V6 OPTI",
+    name: "PACK GRAPHIQUE YBN V6 OPTI",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/G_YkLnsw2OE/mqdefault.jpg",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/13rx2kfWHmER7ZSz1i8BNcQgO_WX7j21_/view",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -473,6 +533,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "OPTI JAPAN 2025 GRAPHICS PACK | FIVEM",
+    name: "OPTI JAPAN 2025 GRAPHICS PACK | FIVEM",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/Fm1rzLEBhI0/maxresdefault.jpg",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/1S6G4rfZU2CUmijSCK7rUDqO6LZputXf0/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "policebmwm5 debadged",
     name: "policebmwm5 debadged",
     version: "v1.9.0",
@@ -578,6 +653,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "FuriousFade Graphics pack",
+    name: "FuriousFade Graphics pack",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1447588663562342512/1490943755400904904/image.png?ex=6a4c8c13&is=6a4b3a93&hm=87ca87660248125b09a47aaae81c3f02d71df192ff09326e9d4161b5c42139ba&format=webp&quality=lossless&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/3bwrf3fs9642vbr/FuriousFade_Graphics_pack.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
     name: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
     version: "v1.9.0",
@@ -680,6 +770,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/RMsTgLIY#fd-geyxSqCakN1x1M_bY4Z0rjCCbYV02CpsX2DzSUtU",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "GTA 5 Ultra-Realistic Graphics! 4k",
+    name: "GTA 5 Ultra-Realistic Graphics! 4k",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/ZqhCTY0krhA/maxresdefault.jpg",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/qrbta5bxm90qvo2/Redux_Fivem_+_Presets.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
