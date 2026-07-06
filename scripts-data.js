@@ -248,8 +248,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "YBN V4 Graphics Pack | FiveM",
-    name: "YBN V4 Graphics Pack | FiveM",
+    id: "YBN  Graphics Pack | FiveM",
+    name: "YBN  Graphics Pack | FiveM",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -398,8 +398,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "FPSBOOST FiveM Script ESX, QBCORE & QBOX",
-    name: "FPSBOOST FiveM Script ESX, QBCORE & QBOX",
+    id: "FPSBOOST FiveM Script ESX, QBCORE  QBOX",
+    name: "FPSBOOST FiveM Script ESX, QBCORE  QBOX",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -548,8 +548,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "OPTI JAPAN 2025 GRAPHICS PACK | FIVEM",
-    name: "OPTI JAPAN 2025 GRAPHICS PACK | FIVEM",
+    id: "OPTI JAPAN 2025 GRAPHICS PACK  FIVEM",
+    name: "OPTI JAPAN 2025 GRAPHICS PACK  FIVEM",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -953,8 +953,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Harvinoiid_-_Bentley_Continental_GT",
-    name: "Harvinoiid_-_Bentley_Continental_GT",
+    id: "Harvinoiid Bentley Continental GT",
+    name: "Harvinoiid Bentley_Continental GT",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -1223,8 +1223,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "BMW_E60_Balenciaga_X_Gucci",
-    name: "BMW_E60_Balenciaga_X_Gucci",
+    id: "BMWE60BalenciagaXGucci",
+    name: "BMWE60BalenciagaXGucci",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -2858,8 +2858,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "FPS BOOST PACK #3",
-    name: "FPS BOOST PACK #3",
+    id: "FPS BOOST PACK 3",
+    name: "FPS BOOST PACK 3",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -2873,8 +2873,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "2000 BMW M3 E46 Pandem Rocket Bunny | Zen-Imogen",
-    name: "2000 BMW M3 E46 Pandem Rocket Bunny | Zen-Imogen",
+    id: "2000 BMW M3 E46 Pandem Rocket Bunny | ZenImogen",
+    name: "2000 BMW M3 E46 Pandem Rocket Bunny | ZenImogen",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -3023,8 +3023,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "zmodeler 3",
-    name: "zmodeler 3",
+    id: "zmodeler3",
+    name: "zmodeler3",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -3038,8 +3038,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "After Effects 2022",
-    name: "After Effects 2022",
+    id: "After Effects 2022-",
+    name: "After Effects 2022-",
     version: "v1.9.0",
     status: "online",
     badge: "",
