@@ -171,7 +171,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://media.discordapp.net/attachments/963049096871043082/967106000932974672/unknown.png?ex=6a4b34e6&is=6a49e366&hm=223f87102f98efee063a080b42dd07407afdfc83c5d520316a99aff0397af617&format=webp&quality=lossless&",
+    image: "https://vag.gg/attachments/1645899811843-png.6414/",
     tagline: "car",
     frameworks: ["Leaked"],
     price: "FREE",
