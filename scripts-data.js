@@ -252,7 +252,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344859851041407017/1344864784893607976/GTA5_2022-09-26_12-26-12.webp?ex=6a4bc12f&is=6a4a6faf&hm=49d2afa383fe166ef3f57f9ccbc086c3eaa5469f27af816f2840086d4123ab19&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/GTA5_2022-09-26_12-26-12.webp?raw=true",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
