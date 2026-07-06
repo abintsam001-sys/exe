@@ -44,7 +44,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://ibb.co/wNzhnpPg",
+    image: "https://gorillafivemcars.com/cdn/shop/files/102466793_3145763358815318_1948740567873778842_n.jpg?v=1739802036&width=1426",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
