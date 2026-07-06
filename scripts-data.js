@@ -496,21 +496,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "GODzR35zilla",
-    name: "GODzR35zilla",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://cdn.discordapp.com/attachments/1259856192969113600/1523641516881477762/FiveM_b3258_GTAProcess_2024-12-03_00-29-04.webp?ex=6a4cd93d&is=6a4b87bd&hm=ae7c448c706ee4701cd63aca130dd3defd344eecdad4b2760312e6872f9788ac&",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871923254952078/GODzR35ZILLA.rar?ex=6a4c7095&is=6a4b1f15&hm=d1a96661cfd3ce4933ae8d8b09cdc068990486492e55cdb5d689d483aca89d98&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "Advanced Reports - FiveM Script (ESX, QBCORE & QBOX)",
     name: "Advanced Reports - FiveM Script (ESX, QBCORE & QBOX)",
     version: "v1.9.0",
