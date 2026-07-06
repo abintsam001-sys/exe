@@ -29,6 +29,7 @@ const SCRIPTS = [
     status: "online",
     badge: "",
     image: "https://i.ytimg.com/vi/z1yL2QSoraY/maxresdefault.jpg",
+    category: "mlo",
     tagline: "free",
     frameworks: ["Leaked"],
     price: "FREE",
