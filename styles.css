@@ -632,7 +632,7 @@ ul { list-style: none; margin: 0; padding: 0; }
 }
 
 .price-pill.free { background: rgba(53, 255, 156, 0.12); color: var(--green); }
-.price-pill.paid { background: rgba(47, 224, 255, 0.12); color: var(--cyan); }
+.price-pill.booster { background: rgba(47, 224, 255, 0.12); color: var(--cyan); }
 
 .card-footer-actions {
   display: flex;
