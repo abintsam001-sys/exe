@@ -113,13 +113,13 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "satanic_hoodie",
-    name: "satanic_hoodie",
+    id: "satanic hoodie",
+    name: "satanic hoodie",
     version: "v1.9.0",
     status: "online",
     badge: "",
     image: "https://media.discordapp.net/attachments/1521038722382958592/1522237453115854938/imarge.png?ex=6a4c5ada&is=6a4b095a&hm=e4af7f9fff4e00625d4d81ceb66168a2fae634bd438c77cb1fc0afdc6654dbb1&=&format=webp&quality=lossless&width=993&height=559",
-    tagline: "car",
+    tagline: "clothing",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
@@ -833,8 +833,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "CURSED_PINK",
-    name: "CURSED_PINK",
+    id: "CURSED PINK",
+    name: "CURSED PINK",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -1568,8 +1568,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Cookies Job Pack  Male & Female",
-    name: "Cookies Job Pack  Male & Female",
+    id: "Cookies Job Pack  Male|Female",
+    name: "Cookies Job Pack  Male|Female",
     version: "v1.9.0",
     status: "online",
     badge: "",
