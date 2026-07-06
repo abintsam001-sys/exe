@@ -119,6 +119,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "JG HUD",
+    name: "JG HUD",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1503599521790165106/1520898092973424730/maxresdefault_5.jpg?ex=6a4cc17a&is=6a4b6ffa&hm=c6054878f98f0aa52a871fceb298cae54f3610e0adfa009f3df2ea23cc7c7df1&",
+    tagline: "script",
+    frameworks: ["Leaked"],
+    category: "SCRPT",
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "satanic hoodie",
     name: "satanic hoodie",
     version: "v1.9.0",
