@@ -124,7 +124,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "images/scripts/mazda",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/images/scripts/mazda.webp?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
