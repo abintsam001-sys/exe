@@ -308,6 +308,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "reshadex",
+    name: "reshadex",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1503010227262324816/1508760346905673728/image.png?ex=6a4c1ad2&is=6a4ac952&hm=b3666bb7a0c3a164eadc4255044315364f451f256c1b6cf880abf51928cc8cb7&format=webp&quality=lossless&width=1381&height=777&",
+    tagline: "graphics",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1502776498757701742/1504450372024926371/reshade_x.rar?ex=6a4c3ed8&is=6a4aed58&hm=6b5e0375c186e0a88bbd493328cfbe8addf805dced8fe48f32322b5e6db734a4&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "m4cs",
     name: "m4cs",
     version: "v1.9.0",
@@ -2975,6 +2990,66 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1107323005606047855/1236390264730292285/MANHART_MH5_GTR_2022_-_Versus.rar?ex=6a4b50ea&is=6a49ff6a&hm=f35a964d5632831fd4c186d77b4988b37618e9fb31e024c463bd1e78e7b06f78&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "d10reshade",
+    name: "d10reshade",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1503010227262324816/1508760196514578442/image.png?ex=6a4c1aae&is=6a4ac92e&hm=884a81c6c788251791d6694496f18f7599b18e7e9a17fe0949950b75dd5f1adb&format=webp&quality=lossless&width=1376&height=864&",
+    tagline: "graphics",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1502776498757701742/1504221095929184397/d10_reshade.rar?ex=6a4c1210&is=6a4ac090&hm=5f337601a04fec7e818a6e0c52e036571257c7a45bccb3777ddb70de6f1f2ce6&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Vegetation Dubai",
+    name: "Vegetation Dubai",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1522440553609035997/1522440784677441587/image_2.webp?ex=6a4c6f78&is=6a4b1df8&hm=12b70e57301489adb74b5b990fbd17d4c8fb35f5575d2c2b20d738854aac364b&",
+    tagline: "graphics",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/19E156p3-5UESLaFMkclOvVoqfoN7uCII/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "zmodeler 3",
+    name: "zmodeler 3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dieaTYci376DfjztL-MiHa4NLju35M4CFSBqBxg0-FSeeYAE6jyAzhC0&s=10",
+    tagline: "software",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/1D5WU7oScQPOEl3yoGCMxAcgy4LDYWhkq/view?pli=1",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "After Effects 2022",
+    name: "After Effects 2022",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.mos.cms.futurecdn.net/thbRwUi3Dj8J4edLzYpaun-1200-80.jpg",
+    tagline: "software",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://getintopc.com/softwares/graphic-design/adobe-after-effects-2022-free-download-6397948/",
     linkLabel: "GET SCRIPT"
   }
 ]; 
