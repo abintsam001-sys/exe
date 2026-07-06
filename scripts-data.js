@@ -44,7 +44,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://media.discordapp.net/attachments/963049096871043082/966588705290747914/unknown.png?ex=6a4c9ee1&is=6a4b4d61&hm=c46242ea43ac9cfd30c3c6265e5919ffaa199e5d056ecf5ef1aebe3caa49596d&format=webp&quality=lossless&width=1381&height=777&",
+    image: "https://ibb.co/wNzhnpPg",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
