@@ -271,8 +271,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "JG HUD - Ultra Customisable & Vehicle Focused FiveM HUD",
-    name: "JG HUD - Ultra Customisable & Vehicle Focused FiveM HUD",
+    id: "JG HUD Ultra Customisable & Vehicle Focused FiveM HUD",
+    name: "JG HUD Ultra Customisable & Vehicle Focused FiveM HUD",
     version: "v1.9.0",
     status: "online",
     badge: "",
