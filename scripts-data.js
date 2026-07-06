@@ -711,8 +711,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "ZSX_DEALERSHIP",
-    name: "ZSX_DEALERSHIP",
+    id: "zsx dealership",
+    name: "zsx dealership",
     version: "v1.9.0",
     status: "online",
     badge: "",
