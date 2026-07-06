@@ -496,8 +496,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "GODzR35ZILLA",
-    name: "GODzR35ZILLA",
+    id: "GODzR35zilla",
+    name: "GODzR35zilla",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -507,7 +507,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814178682142750/polbmwm3.rar?ex=6a4b920d&is=6a4a408d&hm=df991e753c3cd148e329e1c7bfe1f7d306adeb0ab34f72684630b5c982ec1127&",
+    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871923254952078/GODzR35ZILLA.rar?ex=6a4c7095&is=6a4b1f15&hm=d1a96661cfd3ce4933ae8d8b09cdc068990486492e55cdb5d689d483aca89d98&",
     linkLabel: "GET SCRIPT"
   },
   {
