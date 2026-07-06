@@ -113,6 +113,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "satanic_hoodie",
+    name: "satanic_hoodie",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1521038722382958592/1522237453115854938/imarge.png?ex=6a4c5ada&is=6a4b095a&hm=e4af7f9fff4e00625d4d81ceb66168a2fae634bd438c77cb1fc0afdc6654dbb1&=&format=webp&quality=lossless&width=993&height=559",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1441937886285922386/1492940191759863858/satanic_hood.zip?ex=6a4c8f27&is=6a4b3da7&hm=5319b8257945a7b1726bb49d58850fad4af6371def61e9e323155e654f1b96a1&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "[MLO] Asgard Beach Disco Club",
     name: "[MLO] Asgard Beach Disco Club",
     version: "v1.9.0",
@@ -728,6 +743,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "satanic tees",
+    name: "satanic tees",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523566218307440750/collage-1783316875018.jpg?ex=6a4c931c&is=6a4b419c&hm=6eb7e189e021a56b9af080e989aca8044876ddf5ccbcecade086847930b70796&",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1441937886285922386/1492940192305119424/satanic.zip?ex=6a4c8f27&is=6a4b3da7&hm=24fb4f730d51c7dc6c294f46b398f6eb87f0cfbeb5bce550f6670923721ddc91&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "cDev | Plate Taping / Removal System",
     name: "cDev | Plate Taping / Removal System",
     version: "v1.9.0",
@@ -758,6 +788,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "passive outfit",
+    name: "passive outfit",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523567049652048147/collage-1783317071478.jpg?ex=6a4c93e3&is=6a4b4263&hm=fdd8312039760763f67aa58b08cedc3fa9ed3f3a9cca01083d8e8ccab8e652ad&",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1379821587192086629/1435830522109755473/passive.rar?ex=6a4c6fe0&is=6a4b1e60&hm=81884f31f36945ca71361aabf8d0c9350fbd85ca8318dad168d4dd1430fe5d18&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "ibonoja_sa_training_center",
     name: "ibonoja_sa_training_center",
     version: "v1.9.0",
@@ -785,6 +830,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1344819720444182620/1344822893183369256/mallekgang3.rar?ex=6a4b9a2b&is=6a4a48ab&hm=9766e317422af921f27fb8a81ae2731e54027a1b0f9bd04ff83e9051e34c1e03&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "CURSED_PINK",
+    name: "CURSED_PINK",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523568207850373220/collage-1783317349164.jpg?ex=6a4c94f7&is=6a4b4377&hm=5e048bd401c3f1e1cebbf91cd8186520b466abd7177bbe97dab458a28b2f19d1&",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1368247528969076861/1430593804209229864/CURSED_PINK.rar?ex=6a4c808e&is=6a4b2f0e&hm=5d9f2633f58a7e9319efc8a42b35f0b6c6488c4ab643413ef54d1038f6ffe4f2&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1418,6 +1478,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "MCDonalds Pack",
+    name: "MCDonalds Pack",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1513991316407713842/1513991316818890843/1771694540348_mhjjfkck6j8_a91b30a0bb919a03742466c826be837332d43e63_2_500x500.webp?ex=6a4c04ca&is=6a4ab34a&hm=cc2119ea934c1ee2aaaab07a32cefdf5a0013d46933a6031b09cc910e5ad4a3d&format=webp&",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.file-upload.net/download-15052461/McDonaldsClothingPackdoo.dev.zip.html",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "KQ_Meth",
     name: "KQ_Meth",
     version: "v1.9.0",
@@ -1490,6 +1565,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/976084568547414097/1420778731881889874/codem-billing.rar?ex=6a4b128e&is=6a49c10e&hm=0bbc9f59b1e7e99bdc9675575bbe27d2926a313fa682d21df24d0b745e9506a4&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Cookies Job Pack  Male & Female",
+    name: "Cookies Job Pack  Male & Female",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1513991156751532224/1513991156940144883/1771694567974_6mfxac5bntw_99855e3b01a72074976bf95fd4d531fbd553da3d_2_500x500.webp?ex=6a4c04a4&is=6a4ab324&hm=8c440c83683f705769a0119af3b78a2475723eec390d2f51df92b7d09ffd66f4&format=webp&",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.file-upload.net/download-15052462/CookiesClothingdool.dev.zip.html",
     linkLabel: "GET SCRIPT"
   },
   {
