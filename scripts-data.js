@@ -501,7 +501,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://www.fivemcar.com/wp-content/uploads/2026/02/NSS-R35-ZLL-GG_1_3b5602f2-1dad-48fe-a5fd-2f98b8ddc7ea.jpg",
+    image: "https://cdn.discordapp.com/attachments/1259856192969113600/1523641516881477762/FiveM_b3258_GTAProcess_2024-12-03_00-29-04.webp?ex=6a4cd93d&is=6a4b87bd&hm=ae7c448c706ee4701cd63aca130dd3defd344eecdad4b2760312e6872f9788ac&",
     tagline: "car",
     frameworks: ["Leaked"],
     price: "FREE",
