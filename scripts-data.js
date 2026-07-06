@@ -368,8 +368,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Sly's Non-Branded Male Clothing Pack",
-    name: "Sly's Non-Branded Male Clothing Pack",
+    id: "TrapHouse Clothing Pack",
+    name: "TrapHouse Clothing Pack",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -428,8 +428,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "EUP 9.10 Fivem Ready",
-    name: "",
+    id: "EUP 910 Fivem Ready",
+    name: "EUP 910 Fivem Ready",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -503,8 +503,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Be Eazy Clothing Pack V5",
-    name: "Be Eazy Clothing Pack V5",
+    id: "Be Eazy Clothing Pack Vfive",
+    name: "Be Eazy Clothing Pack Vfive",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -623,8 +623,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Sly's Non-Branded Male Clothing Pack",
-    name: "Sly's Non-Branded Male Clothing Pack",
+    id: "Slys Non-Branded Male Clothing Pack",
+    name: "Slys Non-Branded Male Clothing Pack",
     version: "v1.9.0",
     status: "online",
     badge: "",
@@ -2768,8 +2768,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "[Non ELS] BMW M3 F30 Police Crazy exterior | johnny8937",
-    name: "[Non ELS] BMW M3 F30 Police Crazy exterior | johnny8937",
+    id: "Non ELS BMW M3 F30 Police Crazy exterior | johnny8937",
+    name: "Non ELS BMW M3 F30 Police Crazy exterior | johnny8937",
     version: "v1.9.0",
     status: "online",
     badge: "",
