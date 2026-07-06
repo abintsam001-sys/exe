@@ -271,21 +271,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "JG HUD Ultra Customisable & Vehicle Focused FiveM HUD",
-    name: "JG HUD Ultra Customisable & Vehicle Focused FiveM HUD",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://cdn.discordapp.com/attachments/1503599521790165106/1520898092973424730/maxresdefault_5.jpg?ex=6a4cc17a&is=6a4b6ffa&hm=c6054878f98f0aa52a871fceb298cae54f3610e0adfa009f3df2ea23cc7c7df1&",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "2021_BMW_X6M",
     name: "2021_BMW_X6M",
     version: "v1.9.0",
