@@ -1403,6 +1403,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "BMW M3",
+    name: "BMW M3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1201552292365738074/PfgwfoL.jpg?ex=6a4c7506&is=6a4b2386&hm=ba6af77eaaf238634ce8d6e35925f143eb391022b47fc1797b8494cde3ac2c25&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-hub.net/482608/bmw-m3-adro-x-hre-5",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "KQ_Meth",
     name: "KQ_Meth",
     version: "v1.9.0",
@@ -1415,6 +1430,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1473993241350242541/1508092435539165235/KQ_Meth.rar?ex=6a4ba707&is=6a4a5587&hm=6a885edfe609f95919be43e1cd79290cf7451eddce92d19345cf556416ca13ba&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "BMW M8",
+    name: "BMW M8",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1128365886894514276/GTA5_2022-08-15_16-35-53.png?ex=6a4bdb1f&is=6a4a899f&hm=405b2277c583cdf0c5497189b2b48399c9b93c1fd43abcc818e229914addd978&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-hub.net/463517/m8s",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1433,6 +1463,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "bmw",
+    name: "bmw",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1311033507631333516/GTA5_2023-03-10_02-57-51.png?ex=6a4bf19a&is=6a4aa01a&hm=601a8506aae485c0b6d14b455f7eede107309f59e3fbf6e03ffbf0d7c1f15ca4&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/YlAWSbgB#kXkbtL97rsFfMXIg_X2rH3tU8zkQak0Ns2ZkmSh1avM",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Codem Billing",
     name: "Codem Billing",
     version: "v1.9.0",
@@ -1445,6 +1490,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/976084568547414097/1420778731881889874/codem-billing.rar?ex=6a4b128e&is=6a49c10e&hm=0bbc9f59b1e7e99bdc9675575bbe27d2926a313fa682d21df24d0b745e9506a4&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "bmw edition",
+    name: "bmw edition",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1343155144480784395/image.png?ex=6a4c2075&is=6a4acef5&hm=5a003970989eaae59e3cb3f7726b17dba3181999e43c609f0e0a10e6d0e53d16&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127175299432460360/1343155144715534439/BatJocker.rar?ex=6a4c2075&is=6a4acef5&hm=6d25952e3722942dbacb583a9058b15fa5f77239874a4abc7921fc2c25599788&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1475,6 +1535,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1473993240855187613/1514615810377908255/admin.zip?ex=6a4afea5&is=6a49ad25&hm=c4bc7fd2a5086b157db46f618bac8689b8eb57602adcb081936aa451e5606e47&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "BMW X7  Widebody",
+    name: "BMW X7  Widebody",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1009750359872393255/1173324830788030474/BMW_X7_2NCS_Widebody.png?ex=6a4bf066&is=6a4a9ee6&hm=6fcbbf483faf4db59417e2e0e1e17687c379765b05c6118fd1b456e98a5b0550&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/1ngdzoomdf629ni/BMW+X7.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1538,6 +1613,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "bmw",
+    name: "bmw",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1127346499475472434/GTA5_2022-09-16_11-46-39.png?ex=6a4c1a3e&is=6a4ac8be&hm=f274b16a90c242e096a10207be16e30212be933abf68c726f9724204d9f0c437&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1002843838609633310/1020194165004439582/oycm4.rar?ex=6a4c84db&is=6a4b335b&hm=a7945f6666e6c48b16f085bf20f97d5803b512e6e37b805301cb4ba24d7f9159&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Wais-HUDv5",
     name: "Wais-HUDv5",
     version: "v1.9.0",
@@ -1550,6 +1640,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.cr5m.com/threads/wais-hudv5.7706/",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "BMW M8 Competition Cabriolet",
+    name: "BMW M8 Competition Cabriolet",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/838783871063425094/883993887734120448/BMW_M89.png?ex=6a4c11b6&is=6a4ac036&hm=e4c4bdf564990ca5273de084344a9c6a9e3b683212b3c3300a37867938d8ace2&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/drive/folders/1UiNw1j6IXZDy4_UiM8L4aKZKQukfbYEo",
     linkLabel: "GET SCRIPT"
   },
   {
