@@ -1673,6 +1673,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "2018 Mercedes",
+    name: "2018 Mercedes",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175392797659216/1127361193355526175/unknown-3.png?ex=6a4c27ed&is=6a4ad66d&hm=c03a79a8f3ff7b4b7890ef8567e336bf4ffc917782a0d200b1b62013f7e09987&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1015293793089617971/1031369064259518535/2018_Mercedes_Brabus_800_TR.rar?ex=6a4c4dca&is=6a4afc4a&hm=f4aad0a8fad08d453e2493e46109eb12c0c8a6b1d4bc0969e67b94a8c408c9c6&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Anti Combatlog",
     name: "Anti Combatlog",
     version: "v1.9.0",
@@ -1685,6 +1700,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/njaz75iom8wg1mf/Anti+CombatLog.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Brabus GLA35",
+    name: "Brabus GLA35",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1009750359872393255/1175349457060122664/Brabus.png?ex=6a4c0dbb&is=6a4abc3b&hm=1da7a0db74215b509176f8c2e175cc56f430f0ef409e22b6b8730a55036e8c42&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/57frvvp8j05u4cb/Brabus_GLA35.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1703,6 +1733,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Mercedes Brabus",
+    name: "Mercedes Brabus",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175392797659216/1214102750359724072/GTA5_2023-08-17_06-22-47.png?ex=6a4bf90c&is=6a4aa78c&hm=bd676c6beb6df9edf24c920b66636363c82990b9285f86d73ebd4dd97329e72a&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127175392797659216/1214102749461880832/Brabuss850cc.zip?ex=6a4bf90c&is=6a4aa78c&hm=4ba9ac96a5053f323eb322b8057bf17b7789cfb48f54216eaee0eaecd3542f3a&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Roda_AntiVdm",
     name: "Roda_AntiVdm",
     version: "v1.9.0",
@@ -1715,6 +1760,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://github.com/RodericAguilar/Roda_AntiVdm",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Mercedes W221 S63",
+    name: "Mercedes W221 S63",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175392797659216/1319670792170115092/GTA5_2022-07-06_20-27-33.png?ex=6a4c6273&is=6a4b10f3&hm=ea7c04e1b30cff36e9cab44ff7c92835bbde100a8e98b174f10755adec49c300&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127175392797659216/1319670792547733566/Mercedes_Benz_AMG_S63_W222_2018_Mafia_Style_IY.rar?ex=6a4c6273&is=6a4b10f3&hm=5948581b9ddae2e0228a8aadb9e35b19618cd809d1089c1f3f1d0214f1f5384e&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1733,6 +1793,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "s500L Mercedes",
+    name: "s500L Mercedes",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175392797659216/1127361650337513563/236426035_1176765709495727_2756863583102600452_n.png?ex=6a4c285a&is=6a4ad6da&hm=8297700aae23411823db1d867aca544b0cc3df8643d609ead4059349656812e9&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/907261870593962055/936400667621351534/Mercedes-Benz_S500L_Mafia_Edition.rar?ex=6a4c3894&is=6a4ae714&hm=4992172cc676a2707db49b836e047acfadaa258e130fa1cfd68cc13add4e0bc4&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Roller Skating",
     name: "Roller Skating",
     version: "v1.9.0",
@@ -1745,6 +1820,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/4zyta0m3ki55ue3/RollerSkating.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "mclaren p1",
+    name: "mclaren p1",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127176780915154985/1128242218818347008/image.png?ex=6a4c10b2&is=6a4abf32&hm=51f0f0f30ee20adefcbf10afea7a6693ea6d594df38f47c6cf555136aa884c77&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127176780915154985/1128242266004262922/mclaren-p1-liberty-walk-edition.zip?ex=6a4c10bd&is=6a4abf3d&hm=fb7671c14c695451d422ac0f651092c0f6ed96e1f430212424e919139141e8dc&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1763,6 +1853,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "sennagtr2",
+    name: "sennagtr2",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127176780915154985/1128038104599638056/IMG_3474.png?ex=6a4bfb5a&is=6a4aa9da&hm=8e3ebb5a6e3ea2af85a5451e78be09ef8ff1146cd873eaa5da2e24ff43bf9440&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127176780915154985/1128038137524928652/sennagtr19.rar?ex=6a4bfb61&is=6a4aa9e1&hm=5a915059e59e075b41679e2909b7d10b2b6abb5e473c6bf54f052924dd625307&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "No Npc",
     name: "No Npc",
     version: "v1.9.0",
@@ -1775,6 +1880,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/976084568547414097/1214917346125160498/NoNPC.rar?ex=6a4afb33&is=6a49a9b3&hm=f52b8d21ad827e2ce7a3dcdd5a5fe160527a9df122bce804d47ce3790de35b81&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "rs6 2020",
+    name: "rs6 2020",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175451169800223/1176939055360000083/image-3.png?ex=6a4be769&is=6a4a95e9&hm=68a863cffd6f2ff196322ff617af9f08b1b48aa40146d28bfd41d8c5a3e45d27&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1002844641189703700/1026146264590581830/RS666.rar?ex=6a4c6b6e&is=6a4b19ee&hm=25abd7a5ad0c6e8106883c973fbd5069ccfa582d6284d56e95cf280bd84eed37&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1793,6 +1913,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "rs7 sakura",
+    name: "rs7 sakura",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175451169800223/1128366174409867334/1.png?ex=6a4c8424&is=6a4b32a4&hm=6037f937f2df798b460b1340dd09f7932099a5f3a4b79684df45db88135a77d9&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-center.net/463517/sakura-rs4",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "GPS/Tracker V2",
     name: "GPS/Tracker V2",
     version: "v1.9.0",
@@ -1805,6 +1940,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://six-6-services.tebex.io/category/free",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "audi tts 2021",
+    name: "audi tts 2021",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127175451169800223/1345893250938175541/GTA5_2024-01-12_01-57-20.png?ex=6a4c3344&is=6a4ae1c4&hm=8c1e976e5ee41eb3c7a0440b9e2c6ed011bb7d56eed6f5becb4ebcfcdb331202&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1227312615596757182/1321852149897887867/2021_Audi_TTRS_Hycade_-_GDC.rar?ex=6a4c68ff&is=6a4b177f&hm=58e8498c4f5736017a0f4ce5e56a6a9373a3b20a2cc8e7f210db6ae480693bfe&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1838,6 +1988,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Dodge Charger",
+    name: "Dodge Charger",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127176212758933554/1127508452072226836/image.png?ex=6a4c0853&is=6a4ab6d3&hm=60b9c5e17cb439031ffaf7c87b1c116c5adede525e90db6e352ed0bdd6c131eb&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/996746721218535498/1101255737847599226/Itzhamad-_Dodge_Charger_2.0.zip?ex=6a4c1b54&is=6a4ac9d4&hm=f01a29b9fc7218f996e175806ce5365ec458b0e26c7bc512ae38084b94dc4d33&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "gfx-autopilot",
     name: "gfx-autopilot",
     version: "v1.9.0",
@@ -1850,6 +2015,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/9vUEySwa",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Dodge Ram 1500",
+    name: "Dodge Ram 1500",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127176212758933554/1364704431131594752/unknown.png?ex=6a4c148b&is=6a4ac30b&hm=8138a63702be3f4e5d0e67f4cc9a97fdfb2b12d6da98eb998abf5d54f7e578ea&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1232407091633717289/1282092349803200615/cfx-gomstyling-99ram-v1.zip?ex=6a4c200c&is=6a4ace8c&hm=1134dc0d6a1ed104a54f27dd9e6aadaac15b6dcefb24ce322787fbba8a2146d4&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1868,6 +2048,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Dodge Ram Goul",
+    name: "Dodge Ram Goul",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127176212758933554/1127507559767617566/IMG_2266.png?ex=6a4c077e&is=6a4ab5fe&hm=511f5ed73c0a232c89c92b0f3b8f5071bc870aaf6638c236a83aa175263e5495&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1094667495807406172/1107097005492289646/1500_Ram_Ghoul_2_Door.zip?ex=6a4c436e&is=6a4af1ee&hm=60c6caecf7263d7bfdc591d07644e3b487be5bb10976570a38a12ef048386025&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Core Hud",
     name: "Core Hud",
     version: "v1.9.0",
@@ -1880,6 +2075,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1494492980973666405/1494495655710818435/Core_Hud.zip?ex=6a4af78a&is=6a49a60a&hm=09244cf3fcc88dc2d1aa840af835b7ebd4d0a04e64c7d05c001de4e6ab62535f&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ferrari sf23",
+    name: "ferrari sf23",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1381981531450507314/sf23.png?ex=6a4c4fd9&is=6a4afe59&hm=ed9d0015c42456b226df98d44065555cca8e335481537ed9c53724801fbb57c1&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1127177456818847786/1381981531785924618/sf23.rar?ex=6a4c4fd9&is=6a4afe59&hm=3fb2a9b8b9a504d7abcac20eb73c490e32709a5ef5c9df37018bca2b19665592&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1898,6 +2108,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "ferrari f8 evo",
+    name: "ferrari f8 evo",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1127506450583916635/Itzahmad_2002_-_Ferrari_F8_EVO_Edition.png?ex=6a4c0675&is=6a4ab4f5&hm=c2dc43f5c15c2083757e81f6128aa7ebbaf7d323dff839a432b43dce1283cc29&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/881815702116368405/1051918617798774856/Itzahmad_2002_-_Ferrari_F8_EVO_Edition.zip?ex=6a4bea8e&is=6a4a990e&hm=6ab74601542175b76b186d4f23385a1f6a4f87caec10feb19782245ac2c21cd1&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Stagev Loadingscreen",
     name: "Stagev Loadingscreen",
     version: "v1.9.0",
@@ -1910,6 +2135,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/1233760/stagev-loading?o=sharing",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ferrari 488",
+    name: "ferrari 488",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1127505699782541342/Grand_Theft_Auto_V_Screenshot_2023.png?ex=6a4c05c2&is=6a4ab442&hm=4c6e7e3130d8ccb5d6f62e349b1ce1cb60c467366d39334db884253bc02e3084&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/888860647075495937/1099756782806638622/Ferrari_488_GT_Beast_Edition_-_Itzahmad2002_FIXED.rar?ex=6a4bed51&is=6a4a9bd1&hm=f2141ec0e045de4c9b518ccc987c370e169f38f82c6322fa94f77a9d98e8d340&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1928,6 +2168,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "ferrari 812",
+    name: "ferrari 812",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1128367232930557982/1.png?ex=6a4c8520&is=6a4b33a0&hm=e09d81b6ad9eaf110f8907afb2702556b975a5c68fab1e8e0641737aa3a424ef&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://link-center.net/463517/ferrari-812",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "0R HUD v3",
     name: "0R HUD V3",
     version: "v1.9.0",
@@ -1943,6 +2198,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "rmodf40",
+    name: "rmodf40",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1127505929911402516/unknown.png?ex=6a4c05f9&is=6a4ab479&hm=c032a6ac458a3e677b8ce430d2e9d96470e18d7fcf88b8ee8f9459e4bdd87182&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1010872744327512095/1011291433157804043/rmodf40.rar?ex=6a4c6e4a&is=6a4b1cca&hm=291fc727b2955a56b1ca02b5f47bbff3ce0791b8e7c805c3b56cd3af87d62e16&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "rtx_garbagejob",
     name: "rtx_garbagejob",
     version: "v1.9.0",
@@ -1955,6 +2225,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1473993240855187615/1515364478122725496/rtx_garbagejob.zip?ex=6a4b14e5&is=6a49c365&hm=652728788df247da1f3559f94a5cf69fe570db38147e6c847fbee78f0e04cb45&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "ferrari f8",
+    name: "ferrari f8",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.discordapp.com/attachments/1127177456818847786/1127506551997988955/Rmod_Ferrari_-_F8_Tributo.png?ex=6a4c068e&is=6a4ab50e&hm=a764668bb2366ce6c70bcf726fc7f89b934d42a5f5b1f1e88b2ef5e49cb85d63&",
+    tagline: "car",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/881811978279079987/1051919339596562602/Rmod_Ferrari_-_F8_Tributo.rar?ex=6a4beb3a&is=6a4a99ba&hm=60f91f292465946e5b053c220a95a572a587ad5cca67d35ebd79fc33e738828a&",
     linkLabel: "GET SCRIPT"
   },
   {
