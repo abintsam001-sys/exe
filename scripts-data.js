@@ -3038,8 +3038,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "After Effects 2022 ",
-    name: "After Effects 2022 ",
+    id: "After Effects 2022v",
+    name: "After Effects 2022v",
     version: "v1.9.0",
     status: "online",
     badge: "",
