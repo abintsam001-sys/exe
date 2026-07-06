@@ -124,7 +124,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344830436240654358/1344830957332598824/FiveM_b2944_GTAProcess_2024-06-08_23-35-12.webp?ex=6a4ba1ad&is=6a4a502d&hm=bc9741cd2a2ab8f9cdaacca635becbadc0957d4b6a983a671d5533723dd94ec5&",
+    image: "images/scripts/mazda",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
