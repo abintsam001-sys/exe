@@ -572,21 +572,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "TundraNW",
-    name: "TundraNW",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875357857120256/FiveM_b2060_GTAProcess_2024-05-27_10-56-52.webp?ex=6a4b2247&is=6a49d0c7&hm=0130baa22e0fdea54badc7a4c884f996dca20c9435456f3e74de528f876835d8&",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875358922473562/TundraNW_1.rar?ex=6a4bcb08&is=6a4a7988&hm=a9d47563d0b821b9256f631c510186b6cd4c4df311d103b7cf18d52afcb11926&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "[MLO] Paradise Club GTA5, FiveM",
     name: "[MLO] Paradise Club GTA5, FiveM",
     version: "v1.9.0",
@@ -599,6 +584,22 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/rmcg5xyy26zz6pi/paradise-club+mgscripts.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "tundra",
+    name: "tundra",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://media.discordapp.net/attachments/1344874303581327490/1344875357857120256/FiveM_b2060_GTAProcess_2024-05-27_10-56-52.webp?ex=6a4c73c7&is=6a4b2247&hm=fa102d47a331bf0948e26dd1532d853807a579ec22fd009a0f8dc9ffd954c352&=&format=webp&width=994&height=559",
+    tagline: "car",
+    category: "VEHICLE",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875358922473562/TundraNW_1.rar?ex=6a4c73c8&is=6a4b2248&hm=afbffc7737deeba78d7a04118f2507db1c7ed563c81afff0c18122628fa7d064&",
     linkLabel: "GET SCRIPT"
   },
   {
