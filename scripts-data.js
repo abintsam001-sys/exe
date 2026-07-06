@@ -92,7 +92,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344823266681946122/1344823511189028917/Honda-NSX-Hycade.webp?ex=6a4b9abe&is=6a4a493e&hm=dcc7bf0f2e811f12f964fbaff4de12b2f269a005ee575ba504463097b9939185&",
+    image: "images/scripts/Honda-NSX-Hycade.webp",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
