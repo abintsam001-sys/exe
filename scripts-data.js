@@ -983,6 +983,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "FPS BOOST PACK 2026",
+    name: "FPS BOOST PACK 2026",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/tH9ljpw3xdA/maxresdefault.jpg",
+    tagline: "fivem",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1447268041825058826/FPS_FUZZY_2026.rar?ex=6a4c84a6&is=6a4b3326&hm=ba8dca31156e1039f7eb5efaec51617f1857cf01aaf1b47daa1a38f360bb6453&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "LB Phone 2.8.1",
     name: "LB Phone 2.8.1",
     version: "v1.9.0",
@@ -1133,6 +1148,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "FPS BOOST PACK #5",
+    name: "FPS BOOST PACK #5",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/LMnpgdoQZxw/maxresdefault.jpg",
+    tagline: "fivem",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1346478354903207986/Fully_Optimized_FiveM_Graphics_Pack.zip?ex=6a4c59f0&is=6a4b0870&hm=54f8b9b9905293e6e84ccc77530c7886b052c4e84cd9dd827ef9aec96527b45b&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "UM Multicharacter",
     name: "UM Multicharacter",
     version: "v1.9.0",
@@ -1265,6 +1295,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/IF13zDBR#naWdWZphv5sqj0e2_qHgM274U51QxHKXYRojeM90i2Q",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "FPS BOOST PACK #1",
+    name: "FPS BOOST PACK #1",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/m4jBmgbXHe0/maxresdefault.jpg",
+    tagline: "fivem",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/drive/mobile/folders/1xYGoHNX6d_XWe1pOHv-hASYK9XGrMQDX?usp=sharing",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2690,6 +2735,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/967947228780068964/1228618904885133334/e30s.rar?ex=6a4b6385&is=6a4a1205&hm=6fd33b6e8de700217fe50a75ef953850bbbbcd9964f06c5426a3e7294275214f&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "FPS BOOST PACK #3",
+    name: "FPS BOOST PACK #3",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/NewdjVwCEe8/maxresdefault.jpg",
+    tagline: "fivem",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1346477678160515272/FPS_BOOST_3.zip?ex=6a4c594e&is=6a4b07ce&hm=b57bf53d2538d43bfb3cdd3acde9088caef0116c47c2228815a551bc4bcaf1b2&",
     linkLabel: "GET SCRIPT"
   },
   {
