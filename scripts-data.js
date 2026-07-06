@@ -368,6 +368,21 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Sly's Non-Branded Male Clothing Pack",
+    name: "Sly's Non-Branded Male Clothing Pack",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/9mnPpvWYLtM/maxresdefault.jpg",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.google.com/file/d/1kWwdKnftta34ps9aKTkkE-CoR7A3C26I/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Modern Luxury Car Dealership MLO",
     name: "",
     version: "v1.9.0",
@@ -410,6 +425,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344871923254952078/GODzR35ZILLA.rar?ex=6a4bc7d5&is=6a4a7655&hm=77d418d3d4589083d9abdb1575fce943a49eb58370334bfb811d7c50438060ef&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "EUP 9.10 Fivem Ready",
+    name: "",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://files.greenheberg.fr/uploads/6855dc3e18cc9_e6f2d11ee729c344061caa4bdea7635150327d4c.webp",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://gofile.io/d/zZf73E",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -470,6 +500,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://store6.gofile.io/download/direct/f4903a60-f73a-4c41-ad7c-84ef71c06d10/AxisForge-Jg-hud.zip?hash=HFg4bWiifE7KGTvUoe4hE8L2IJfWxfwIWMO6pXgoW5i9yAh7WLVvO84uLrN7CFK5",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Be Eazy Clothing Pack V5",
+    name: "Be Eazy Clothing Pack V5",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://cdn.fivemx.com/wp-content/uploads/2024/05/clothing-jpg.avif",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/0c9WmIrB#T0DVsWWk_64JqyCH1IzjKT7_3dS5Et0KY29TM3dB4hE",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -575,6 +620,21 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1473993241350242537/1514755400250036354/ZSX_DEALERSHIP.zip?ex=6a4b80a6&is=6a4a2f26&hm=92d48c9f375837c1737fbcfa1a711c45dcdbcf5058d46bfddf6a301d5d784b6b&",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Sly's Non-Branded Male Clothing Pack",
+    name: "Sly's Non-Branded Male Clothing Pack",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://img.youtube.com/vi/s6IHyzN1OOo/maxresdefault.jpg",
+    tagline: "clothing",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://drive.usercontent.google.com/download?id=1dcUc1adZ881wCyK_K6PNSkyKN3-7hAvF&export=download&authuser=0",
     linkLabel: "GET SCRIPT"
   },
   {
