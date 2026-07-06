@@ -119,8 +119,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "JG HUD",
-    name: "JG HUD",
+    id: "jg hud",
+    name: "jg hud",
     version: "v1.9.0",
     status: "online",
     badge: "",
