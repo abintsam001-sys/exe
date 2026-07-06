@@ -39,6 +39,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "MaybachG900",
+    name: "MaybachG900",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://images-ext-1.discordapp.net/external/4DhVEFS6aAroxmjDnXEBM56zsB9QlmC41TnfBilva0k/https/img.youtube.com/vi/KNZwcaiwGTE/maxresdefault.jpg?format=webp&width=994&height=559",
+    category: "BOOSTER",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "audi hycade",
     name: "audi hycade",
     version: "v1.9.0",
