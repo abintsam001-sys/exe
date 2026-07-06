@@ -204,7 +204,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://vag.gg/attachments/1645899811843-png.6414/",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/images/scripts/unknown.png?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
