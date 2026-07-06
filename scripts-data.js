@@ -455,8 +455,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "PACK GRAPHIQUE YBN  OPTI",
-    name: "PACK GRAPHIQUE YBN  OPTI",
+    id: "graphics pack",
+    name: "graphics pack",
     version: "v1.9.0",
     status: "online",
     badge: "",
