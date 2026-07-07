@@ -45,7 +45,7 @@ const SCRIPTS = [
     status: "EXCLUSIVE",
     badge: "BOOSTER PERK",
     image: "https://images-ext-1.discordapp.net/external/4DhVEFS6aAroxmjDnXEBM56zsB9QlmC41TnfBilva0k/https/img.youtube.com/vi/KNZwcaiwGTE/maxresdefault.jpg?format=webp&width=994&height=559",
-    category: "BOOSTER",
+    category: "BOOSTER PERKS",
     tagline: "Boost Our Discord Server To Unlock ",
     frameworks: ["Exclusive"],
     price: "booster",
