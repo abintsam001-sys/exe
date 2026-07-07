@@ -119,6 +119,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "elva21",
+    name: "elva21",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/elva21.webp?raw=true",
+    category: "BOOSTER",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "ZSX Multicharacter",
     name: "ZSX Multicharacter",
     version: "v1.9.0",
@@ -135,6 +151,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Cadillac_Escalade_Bagged_Custom",
+    name: "Cadillac_Escalade_Bagged_Custom",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/Cadillac_Escalade_Bagged_Custom.webp?raw=true",
+    category: "BOOSTER",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "MazdaAnimeFINAL",
     name: "MazdaAnimeFINAL",
     version: "v1.9.0",
@@ -149,6 +181,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/o8afglp7digewsp/MazdaAnimeFINAL.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "dtdmansq60",
+    name: "dtdmansq60",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/dtdmansq60.webp?raw=true",
+    category: "BOOSTER",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "jg hud",
