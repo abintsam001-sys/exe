@@ -71,6 +71,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Rolls-Royce_Mansory_Phantom",
+    name: "Rolls-Royce_Mansory_Phantom",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/Rolls-Royce_Mansory_Phantom.png?raw=true",
+    category: "BOOSTER",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
     name: "New FiveM Dance Emote Pack V5 (APT, Cupid, Firework and more)",
     version: "v1.9.0",
