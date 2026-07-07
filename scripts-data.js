@@ -99,7 +99,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344823266681946122/1344823516117340271/honda-nsx-hycade.rar?ex=6a4b9abf&is=6a4a493f&hm=65e4b4c6a4b81578cb747958f4e6d33080ea6a1891dc1657955fbcae0ab14835&",
+    link: "https://www.mediafire.com/file/kr3t679dw8bmkad/honda-nsx-hycade.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -131,7 +131,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344830436240654358/1344830957693304934/MazdaAnimeFINAL.rar?ex=6a4ba1ae&is=6a4a502e&hm=5769940c5cbd9a81fca0c47697d008144805bc3e88d2bbb9db0691131671b106&",
+    link: "https://www.mediafire.com/file/o8afglp7digewsp/MazdaAnimeFINAL.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -140,7 +140,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1503599521790165106/1520898092973424730/maxresdefault_5.jpg?ex=6a4cc17a&is=6a4b6ffa&hm=c6054878f98f0aa52a871fceb298cae54f3610e0adfa009f3df2ea23cc7c7df1&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/jg.jpg?raw=true",
     tagline: "script",
     frameworks: ["Leaked"],
     category: "SCRPT",
@@ -157,13 +157,13 @@ const SCRIPTS = [
     status: "online",
     category: "CLOTHING",
     badge: "",
-    image: "https://media.discordapp.net/attachments/1521038722382958592/1522237453115854938/imarge.png?ex=6a4c5ada&is=6a4b095a&hm=e4af7f9fff4e00625d4d81ceb66168a2fae634bd438c77cb1fc0afdc6654dbb1&=&format=webp&quality=lossless&width=993&height=559",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/satanic%20hood.jpg?raw=true",
     tagline: "clothing",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1441937886285922386/1492940191759863858/satanic_hood.zip?ex=6a4c8f27&is=6a4b3da7&hm=5319b8257945a7b1726bb49d58850fad4af6371def61e9e323155e654f1b96a1&",
+    link: "https://www.mediafire.com/file/j79k95hxuxbwhyx/satanic+hood.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -188,14 +188,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1522231959131127958/1522439925520273449/image_1.webp?ex=6a4c6eab&is=6a4b1d2b&hm=b9bcc838a73e08a8c71e96157f79ad2682e387658af26f973353081fcbda5ea0&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/nve%20shde.webp?raw=true",
     tagline: "car",
     category: "GRAPHICS",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1522231959131127958/1522439972295282821/NVE_Reshade.rar?ex=6a4c6eb6&is=6a4b1d36&hm=19c03029bd1c82660226a394101c3a1b883c3508da46fb4fbb7f3464444ee7a6&",
+    link: "https://www.mediafire.com/file/1vhfrd64ycx5gig/NVE+Reshade.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -211,7 +211,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/901505815033307136/901515491712069682/AmgGtrLight_Hubercik.rar?ex=6a4b367a&is=6a49e4fa&hm=31799507fb06b048987528947fe3c4f882c31595f91231798c7d9add1acf1ba5&",
+    link: "https://www.mediafire.com/file/niacrirsqtpx88i/AmgGtrLight_Hubercik.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -259,7 +259,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344864784247558184/16topcargle_1.rar?ex=6a4bc12e&is=6a4a6fae&hm=67a5cfd407c6c4c7752e7b0034d5bdd4debe300188ee0624783f390896f188cf&",
+    link: "https://www.mediafire.com/file/u96f2uhwlvztc1f/16topcargle+(1).rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -323,7 +323,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344850376062664704/2021_BMW_X6M_-_TR.rar?ex=6a4bb3c3&is=6a4a6243&hm=2005b5566861a9a5622ebeb9fc9d313104d421c36ddeb3eea991bd41406d394b&",
+    link: "https://www.mediafire.com/file/bd2kf1v1skn9ini/2021_BMW_X6M_-_TR.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -355,7 +355,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1446961722148524216/1506651721701789727/VonsLSMinimap.zip?ex=6a4baf42&is=6a4a5dc2&hm=576e0773c6a23d2ef570ca5b805ec6660023ea294ba57851dd60c3824c16372d&",
+    link: "https://www.mediafire.com/file/1elqgceiujy2aht/VonsLSMinimap.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -364,14 +364,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://media.discordapp.net/attachments/1503010227262324816/1508760346905673728/image.png?ex=6a4c1ad2&is=6a4ac952&hm=b3666bb7a0c3a164eadc4255044315364f451f256c1b6cf880abf51928cc8cb7&format=webp&quality=lossless&width=1381&height=777&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/reshadex.png?raw=true",
     tagline: "graphics",
     category: "GRAPHICS",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1502776498757701742/1504450372024926371/reshade_x.rar?ex=6a4c3ed8&is=6a4aed58&hm=6b5e0375c186e0a88bbd493328cfbe8addf805dced8fe48f32322b5e6db734a4&",
+    link: "https://www.mediafire.com/file/mnn66t399csec14/reshade+x.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -387,23 +387,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848442454839498/m4cs.rar?ex=6a4bb1f6&is=6a4a6076&hm=f94ed14d707a7257041c4f76c8f03a1753cd79405f3696e4b3360fab0022abe6&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "9am multicharacter",
-    name: "9am multicharacter",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    category: "SCRIPT",
-    image: "https://img.youtube.com/vi/hS8RFp3o4eI/maxresdefault.jpg",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1268980430410092621/1349149159550357524/9am-multicharacter.rar?ex=6a4b8551&is=6a4a33d1&hm=88ff7cb557cf0647e46ae89931821cb9c4bc7e9f26e03281a7f1694cbcaecc5b&",
+    link: "https://www.mediafire.com/file/50s5k1pteskhf48/m4cs.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -412,7 +396,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1295931547534233601/1296348042751905843/9k.png?ex=6a4c9232&is=6a4b40b2&hm=d1af09945db3ff29fe439484d72bfdebe794b7aa8eacde2efa7a9e60d9b126f3&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/nv%202024.png?raw=true",
     tagline: "car",
     category: "GRAPHICS",
     frameworks: ["Leaked"],
@@ -435,7 +419,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1445133664844517441/1452810054439932018/p_policejob.rar?ex=6a4aed4c&is=6a499bcc&hm=3783724ee35cb7a61c02974ceb12ceadaf3f2ef7fb8147ae161daf6bc65997df&",
+    link: "https://www.mediafire.com/file/jeflvi81oghahaz/p_policejob.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -451,7 +435,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865063135084544/e53coupe21.rar?ex=6a4bc171&is=6a4a6ff1&hm=40054ac67a1fde4c4c3afcf9c38ed5de92809dfce31b735a5f9e995accc16537&",
+    link: "https://www.mediafire.com/file/wk7n7aby42m1h4i/e53coupe21.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -499,7 +483,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344865400063791167/priorgt63s_1.rar?ex=6a4bc1c1&is=6a4a7041&hm=dba404a9ff91fc712be48cc2bc36afb230aa7cdd77243224d65104424ae567f8&",
+    link: "https://www.mediafire.com/file/ddoojfahnhw8h48/priorgt63s_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -547,7 +531,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814178682142750/polbmwm3.rar?ex=6a4b920d&is=6a4a408d&hm=df991e753c3cd148e329e1c7bfe1f7d306adeb0ab34f72684630b5c982ec1127&",
+    link: "https://www.mediafire.com/file/v5qfygljyxq20q6/polbmwm3.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -595,7 +579,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344813554540478474/1344814246147391559/polbmwm5.rar?ex=6a4b921d&is=6a4a409d&hm=be5a34ebb5a91d49f4d822e1cf949648106be238e2ce6ec8740bfb9da055174b&",
+    link: "https://www.mediafire.com/file/dfkuomqx45lnv01/polbmwm5.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -636,14 +620,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://media.discordapp.net/attachments/1344874303581327490/1344875357857120256/FiveM_b2060_GTAProcess_2024-05-27_10-56-52.webp?ex=6a4c73c7&is=6a4b2247&hm=fa102d47a331bf0948e26dd1532d853807a579ec22fd009a0f8dc9ffd954c352&=&format=webp&width=994&height=559",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/tundra.webp?raw=true",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344875358922473562/TundraNW_1.rar?ex=6a4c73c8&is=6a4b2248&hm=afbffc7737deeba78d7a04118f2507db1c7ed563c81afff0c18122628fa7d064&",
+    link: "https://www.mediafire.com/file/mth6qj3pr98i35l/TundraNW+(1).rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -675,7 +659,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344815628678074409/1344816001077874698/gstrs21.rar?ex=6a4b93c0&is=6a4a4240&hm=6c0530c435b30f977fe8c339f10dfffcbb6edd42b9b6e6fd5ed2480d03e0273f&",
+    link: "https://www.mediafire.com/file/n5b1arlo8mzwwtd/gstrs21.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -684,7 +668,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://media.discordapp.net/attachments/1447588663562342512/1490943755400904904/image.png?ex=6a4c8c13&is=6a4b3a93&hm=87ca87660248125b09a47aaae81c3f02d71df192ff09326e9d4161b5c42139ba&format=webp&quality=lossless&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/FuriousFade%20Graphics%20pack.png?raw=true",
     tagline: "graphics",
     category: "GRAPHICS",
     frameworks: ["Leaked"],
@@ -716,14 +700,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344874303581327490/1344874396199948288/362241008_650830040403654_185101328055977434_n.webp?ex=6a4b2162&is=6a49cfe2&hm=05c1bf7f198df1e29a72b93227a871d4e200227700b23016749ee4b268fa123c&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/supra.webp?raw=true",
     tagline: "car",
     category: "VEHICLE",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344874303581327490/1344874396740878518/Itzahmad_2002_-_Toyota_Supra_Hycade_Edition_4.zip?ex=6a4bca22&is=6a4a78a2&hm=6485e2846c6b3469fa70138a3a23649afad86b6ac8bc8d5b16b3f83f7f8c3cbf&",
+    link: "https://www.mediafire.com/file/b374nkf53uk1yql/Itzahmad_2002_-_Toyota_Supra_Hycade_Edition_4.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -739,7 +723,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993241350242537/1514755400250036354/ZSX_DEALERSHIP.zip?ex=6a4b80a6&is=6a4a2f26&hm=92d48c9f375837c1737fbcfa1a711c45dcdbcf5058d46bfddf6a301d5d784b6b&",
+    link: "https://linkvertise.com/1192292/0hj1qCYiJFQK?o=sharing",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -771,7 +755,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344870977300987974/ngtr35lb.rar?ex=6a4bc6f3&is=6a4a7573&hm=76fd98b102f67da38ed0650eaae374706d82b1eae9400434194e2249c37dfd0d&",
+    link: "https://www.mediafire.com/file/acr00oh13clkvx0/ngtr35lb.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -835,7 +819,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860331800793219/CroneNex_-_Mercedes_Benz_S63_AMG_w222_Haifischnikez_1.rar?ex=6a4bbd09&is=6a4a6b89&hm=c281c68dbffa2006732a1a25d11040ee02f6f008968f15e7cf0f629ec40a289d&",
+    link: "https://www.mediafire.com/file/w8ztwkx7ncrk4gx/CroneNex_-_Mercedes_Benz_S63_AMG_w222_Haifischnikez_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -851,7 +835,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1503476975917076511/1522435880785154118/MDT.zip?ex=6a4b1967&is=6a49c7e7&hm=ed613f22dedf30c3aaf9bfa303385234a10f6972fc0945f69615e4c57f48d5d8&",
+    link: "https://www.mediafire.com/file/jml7pxr6hbjjobg/MDT.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -867,7 +851,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993241350242537/1507102308360650904/vms_barber.rar?ex=6a4b58a6&is=6a4a0726&hm=a5e934b07e840d6dad3905feb7479d5eb4401187ddf960bff53d0e96839dc6bc&",
+    link: "https://www.mediafire.com/file/pg1tzuvog4clah5/vms_barber.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -883,7 +867,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842355274027060/jeep-trackhawk-hycade-edition.rar?ex=6a4bac4b&is=6a4a5acb&hm=b2e2a55ff8a42b3d54042e45a872062850f1e2a49d28b144dc1093ca3389d967&",
+    link: "https://www.mediafire.com/file/thatlozhsz6t0ue/jeep-trackhawk-hycade-edition.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -908,14 +892,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842489382568059/image_7.webp?ex=6a4bac6b&is=6a4a5aeb&hm=52e438c3ae066bc70b69ef04caef418c7af22b2fb3486538f1c7eda6ec1d3588&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/2022-jeep-grand-cherokee-widebody.webp?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344842489793745027/2022-jeep-grand-cherokee-widebody.rar?ex=6a4bac6b&is=6a4a5aeb&hm=b375751d2e6bb136c05324059fb7f0830bbc1c329d5da374c043053b47df5164&",
+    link: "https://www.mediafire.com/file/js2dstbytbiln7k/2022-jeep-grand-cherokee-widebody.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -947,7 +931,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317258810619854939/2023-alfa-romeo-giulia-quadrifoglio-gtam.rar?ex=6a4b851d&is=6a4a339d&hm=7aa3a8e6e289e84d7361d95655450d320d8d14c6681c52b0e3328341bc89f934&",
+    link: "https://www.mediafire.com/file/c37aoyen9g2nqbh/2023-alfa-romeo-giulia-quadrifoglio-gtam.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -957,13 +941,13 @@ const SCRIPTS = [
     status: "online",
     category: "CLOTHING",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523566218307440750/collage-1783316875018.jpg?ex=6a4c931c&is=6a4b419c&hm=6eb7e189e021a56b9af080e989aca8044876ddf5ccbcecade086847930b70796&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/satanic%20tees.jpg?raw=true",
     tagline: "clothing",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1441937886285922386/1492940192305119424/satanic.zip?ex=6a4c8f27&is=6a4b3da7&hm=24fb4f730d51c7dc6c294f46b398f6eb87f0cfbeb5bce550f6670923721ddc91&",
+    link: "https://www.mediafire.com/file/t9jq962k3xb0sg5/satanic.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -995,7 +979,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260989422637147/Harvinoiid_-_Bentley_Continental_GT_Speed_22.rar?ex=6a4b8725&is=6a4a35a5&hm=deb09cb676c5653c1f182b98ef09fab4cac83a57f3029d31517046d65cab117c&",
+    link: "https://www.mediafire.com/file/l6sw60ho0xhph25/Harvinoiid_-_Bentley_Continental_GT_Speed_22.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1005,13 +989,13 @@ const SCRIPTS = [
     status: "online",
     badge: "",
     category: "CLOTHING",
-    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523567049652048147/collage-1783317071478.jpg?ex=6a4c93e3&is=6a4b4263&hm=fdd8312039760763f67aa58b08cedc3fa9ed3f3a9cca01083d8e8ccab8e652ad&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/collage-1783317071478.jpg?raw=true",
     tagline: "clothing",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1379821587192086629/1435830522109755473/passive.rar?ex=6a4c6fe0&is=6a4b1e60&hm=81884f31f36945ca71361aabf8d0c9350fbd85ca8318dad168d4dd1430fe5d18&",
+    link: "https://www.mediafire.com/file/69h8vsmspkm0a2o/passive.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1043,7 +1027,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344819720444182620/1344822893183369256/mallekgang3.rar?ex=6a4b9a2b&is=6a4a48ab&hm=9766e317422af921f27fb8a81ae2731e54027a1b0f9bd04ff83e9051e34c1e03&",
+    link: "https://www.mediafire.com/file/b559r1z96hk7xah/mallekgang3.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1052,14 +1036,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1513935895177462002/1523568207850373220/collage-1783317349164.jpg?ex=6a4c94f7&is=6a4b4377&hm=5e048bd401c3f1e1cebbf91cd8186520b466abd7177bbe97dab458a28b2f19d1&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/collage-1783317349164.jpg?raw=true",
     tagline: "clothing",
     category: "CLOTHING",
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1368247528969076861/1430593804209229864/CURSED_PINK.rar?ex=6a4c808e&is=6a4b2f0e&hm=5d9f2633f58a7e9319efc8a42b35f0b6c6488c4ab643413ef54d1038f6ffe4f2&",
+    link: "https://www.mediafire.com/file/i2iznmzzhmtmnkp/CURSED+PINK.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1107,23 +1091,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846758047645727/BMW_1M_Hycade_Custom_IDK1.rar?ex=6a4bb065&is=6a4a5ee5&hm=e44dc280a3fe07f4d58af96ebfafd1a7df218802e57ca3368d2436ef8dff4c75&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "Tattoo Shop",
-    name: "Tattoo Shop",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://tse1.mm.bing.net/th/id/OIP.7BB-YBi6WwIxaT5pHx7GwwHaEK?w=680&h=382&rs=1&pid=ImgDetMain&o=7&rm=3",
-    tagline: "",
-    category: "SCRIPT",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://linkvertise.com/2422882/956.7967494455343/dynamic?r=aHR0cHM6Ly91bmxvY2tub3cubmV0L01VbkJIL2Rvd25sb2Fk&o=sharing",
+    link: "https://www.mediafire.com/file/5g02as9411ztpqk/BMW_1M_Hycade_Custom_IDK1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1139,7 +1107,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847260722397326/BMW_M5_CS_Widebody_Demod_1.zip?ex=6a4bb0dd&is=6a4a5f5d&hm=b8878802aded91ca04298a1e44cf973d773c75f78de17ba9eb5814defa494705&",
+    link: "https://www.mediafire.com/file/gu1h8olma9yuge9/BMW_M5_CS_Widebody_Demod_1.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1155,7 +1123,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1447268041825058826/FPS_FUZZY_2026.rar?ex=6a4c84a6&is=6a4b3326&hm=ba8dca31156e1039f7eb5efaec51617f1857cf01aaf1b47daa1a38f360bb6453&",
+    link: "https://www.mediafire.com/file/xpna0bx0t9pa27i/FPS+FUZZY+2026.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1187,7 +1155,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848735158407168/cookie34_1.rar?ex=6a4bb23c&is=6a4a60bc&hm=a35887070ad7e1ab672e18e7d9b30ea5803ebbccfcc8a77012b84f2df41371a0&",
+    link: "https://www.mediafire.com/file/wj965qfbgtztl52/cookie34_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1251,7 +1219,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344831081819406466/1344831913155760170/x3765spyder.rar?ex=6a4ba291&is=6a4a5111&hm=89bc3f9b9c101f48967322892f62f08fd267957ea4bf201605c07284e690ebab&",
+    link: "https://www.mediafire.com/file/7ijsxdywf12bu7p/x3765spyder.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1283,7 +1251,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344847930741493791/DC_Cars_-_BMW_E60_Balenciaga_X_Gucci_1.rar?ex=6a4bb17c&is=6a4a5ffc&hm=af7fb747d99769f69b07c7bb955636947dd8621276cb1e521f662a1a1a3af0a1&",
+    link: "https://www.mediafire.com/file/vxo85zf6izqsmw8/DC_Cars_-_BMW_E60_Balenciaga_X_Gucci_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1315,7 +1283,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344846818441302110/bmw-m2-koz-concept_1682011373_61462_1.rar?ex=6a4bb073&is=6a4a5ef3&hm=585100b9188f24b8e8f5c1414a4ab554017acae271357c9581a7c251702f6140&",
+    link: "https://www.mediafire.com/file/dwxtszqnx14rnc7/bmw-m2-koz-concept_1682011373_61462_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1331,7 +1299,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1346478354903207986/Fully_Optimized_FiveM_Graphics_Pack.zip?ex=6a4c59f0&is=6a4b0870&hm=54f8b9b9905293e6e84ccc77530c7886b052c4e84cd9dd827ef9aec96527b45b&",
+    link: "https://gofile.io/d/z0qL8l",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1363,7 +1331,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344870975577264179/1344872123792883742/NISSAN_GTR-R35.rar?ex=6a4bc804&is=6a4a7684&hm=5c90bd57b8059e430234bc6ecb93ff026be176d472bca3309caa81d6fd44c666&",
+    link: "https://www.mediafire.com/file/kf291v015hg9ayp/NISSAN+GTR-R35.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1395,7 +1363,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344856975711797318/1344857553439555604/Ferrari_J50_2017.rar?ex=6a4bba72&is=6a4a68f2&hm=fe2371148ab5e57d9b5792bdd579c724be22698b72c4584c84ed52a517164146&",
+    link: "https://www.mediafire.com/file/l6aaedwr233crwo/Ferrari_J50_2017.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1411,7 +1379,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1476243889026371645/17mov_Electrician.zip?ex=6a4b2502&is=6a49d382&hm=83814904a0d4161c2a7dc294b5f19694689446d5abd312f51a0bb39c66b8fb57&",
+    link: "https://www.mediafire.com/file/72eb6f51b3itd9j/17mov_Electrician+(1).zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1427,7 +1395,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856341050822726/vulcan.rar?ex=6a4bb951&is=6a4a67d1&hm=dde2c8771387a8496e7d46b02e5bfa1bb1f4759de6a3c1b54d394b12a1566095&",
+    link: "https://www.mediafire.com/file/3n4opifl2n7wktm/vulcan.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1443,7 +1411,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1110843643478159422/1214918612586995752/esx_drugeffects.rar?ex=6a4afc61&is=6a49aae1&hm=4409bf2fdd241b60049d7db13a6ab9d2279d01462fc2625c9cd89089a66d6945&",
+    link: "https://www.mediafire.com/file/9hvyx4iwmsy8c8a/esx_drugeffects.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1459,7 +1427,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344856975711797318/1344857553439555604/Ferrari_J50_2017.rar?ex=6a4bba72&is=6a4a68f2&hm=fe2371148ab5e57d9b5792bdd579c724be22698b72c4584c84ed52a517164146&",
+    link: "https://www.mediafire.com/file/rwguaou5rwasjzg/Ferrari_J50_2017+(1).rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1523,7 +1491,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1423060889795432631/um-multicharacter.rar?ex=6a4b76fb&is=6a4a257b&hm=39dc92ad16be54b112f2eee40270956f80f2c7d95ac0f1c055620143473ca983&",
+    link: "https://mega.nz/file/ukADlbBJ#aWV-2X6eVKhHSPfJbc7KGJ3gW5DL_X7zThFNHFRIalg",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1539,7 +1507,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843908315877403/Drift_Trackhawk_1000hp_426_Hellephant_-_GodzGift_1.rar?ex=6a4badbd&is=6a4a5c3d&hm=a16b11ec0f29a5ddd4d3910c512159a04f35baf510b97b8cf1318abf2ae34550&",
+    link: "https://www.mediafire.com/file/zqsiztqmbd4yhwa/Drift_Trackhawk_1000hp_426_Hellephant_-_GodzGift_1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1555,7 +1523,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1320352165218353172/mt_workshopsv2.zip?ex=6a4ae887&is=6a499707&hm=d3e835b1cf890afd4c265a07dda6c08bbb00f1e6bbacecdc1d6d1217d6fbc10d&",
+    link: "https://www.mediafire.com/file/gcu453g8vt6y2ql/mt_workshopsv2.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1571,23 +1539,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860668188299388/gcmw223.rar?ex=6a4bbd59&is=6a4a6bd9&hm=d507f20a5029c217408d29b1ccc8b1b1e8915b1b1f3b0d07fd084e92a190792d&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "deathscreen",
-    name: "deathscreen",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts%202/deathscreen.png?raw=true",
-    tagline: "",
-    frameworks: ["Leaked"],
-    category: "SCRIPT",
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1243943640741576734/1249381989451305081/uniq-deathscreen-main.zip?ex=6a4b1e66&is=6a49cce6&hm=92c3b6c6d345ad30da616076751c3e157915d77535cd9f41de6b002cbd899d73&",
+    link: "https://www.mediafire.com/file/73u6kh07fbgtbcy/gcmw223.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1603,7 +1555,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344859851041407017/1344860735154421773/c63s.rar?ex=6a4bbd69&is=6a4a6be9&hm=75705edb8f4849b7aab2dfe847df6e787a6200fc7e4c643026f7b842b576c012&",
+    link: "https://www.mediafire.com/file/54ton2l48nj3d1v/c63s.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1619,7 +1571,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1421444199332450460/rtx_sphere-xmiau.rar?ex=6a4adb52&is=6a4989d2&hm=0b4a8bb6e545d8efbab0288b1a3d21e91707f7fda8484436206ac96e83d3e1e2&",
+    link: "https://www.mediafire.com/file/lis8e7m3nzpev6j/rtx_sphere-xmiau.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1635,7 +1587,7 @@ const SCRIPTS = [
     date: "2026-04-02",
     category: "VEHICLE",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848264670744586/BMW_M8_GTR_Hycade.rar?ex=6a4bb1cc&is=6a4a604c&hm=183da8de6e39fce6e5f75f6d76ea7fe335dc25484b2218a161864d06d363ecc8&",
+    link: "https://www.mediafire.com/file/tc8avwlwqtgh8u4/BMW_M8_GTR_Hycade.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1692,14 +1644,14 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848336745791488/GTA5_2022-12-24_14-49-55.webp?ex=6a4bb1dd&is=6a4a605d&hm=c17be1f27fa9dca3fa8c0269b1e683c1801bece3179a972aee945e0dc2162ec3&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/750lix.webp?raw=true ",
     tagline: "",
     frameworks: ["Leaked"],
     price: "FREE",
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344846684345073725/1344848337119219772/750lixdriver.rar?ex=6a4bb1dd&is=6a4a605d&hm=0bbc32110d95b0d26bcd95d979116387330192ce7a79bb88f3ea155cbf7067e5&",
+    link: "https://www.mediafire.com/file/t3hr61wt4uur8r3/750lixdriver.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1715,7 +1667,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976084568547414097/1087732281004802068/pressurewasher.rar?ex=6a4b0760&is=6a49b5e0&hm=67cc673792de10aa1e5cad23058b995d200d095a26277d4ea45460278e96ea34&",
+    link: "https://www.mediafire.com/file/mnkhczitre06qa0/pressurewasher.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1731,7 +1683,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344855377316937801/1344856002012516373/oycval.rar?ex=6a4bb901&is=6a4a6781&hm=0ddf3afb1dbc65ebb72f59e99e8780b91ef219f1fa4defc947a38008979ca557&",
+    link: "https://www.mediafire.com/file/sf6anx54kwb5sdf/oycval.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1763,7 +1715,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474036237777240208/CrewLife_Banking.rar?ex=6a4b05f9&is=6a49b479&hm=5057b5a96de3e973af284298375c62f469ed559148a90d40d6130a80b2df0977&",
+    link: "https://www.mediafire.com/file/pimfpbgltw92q06/CrewLife_Banking.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1772,7 +1724,7 @@ const SCRIPTS = [
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1201552292365738074/PfgwfoL.jpg?ex=6a4c7506&is=6a4b2386&hm=ba6af77eaaf238634ce8d6e35925f143eb391022b47fc1797b8494cde3ac2c25&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/m3.jpg?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
@@ -1811,7 +1763,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1508092435539165235/KQ_Meth.rar?ex=6a4ba707&is=6a4a5587&hm=6a885edfe609f95919be43e1cd79290cf7451eddce92d19345cf556416ca13ba&",
+    link: "https://www.mediafire.com/file/8ydx8f9wrw695x5/KQ+Meth.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1843,7 +1795,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976084568547414097/1212835165588693012/kq_outfitbag.zip?ex=6a4b5104&is=6a49ff84&hm=7191eb80a035b8c4cfb963cf38e313f46ba994698a29098e27cf3a9529224cbc&",
+    link: "https://www.mediafire.com/file/nkjhr7iilk0uhys/kq_outfitbag.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1859,7 +1811,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976084568547414097/1420778731881889874/codem-billing.rar?ex=6a4b128e&is=6a49c10e&hm=0bbc9f59b1e7e99bdc9675575bbe27d2926a313fa682d21df24d0b745e9506a4&",
+    link: "https://www.mediafire.com/file/z4x6e5h6gj4114g/codem-billing.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1879,22 +1831,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "bmw edition",
-    name: "bmw edition",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://cdn.discordapp.com/attachments/1127175299432460360/1343155144480784395/image.png?ex=6a4c2075&is=6a4acef5&hm=5a003970989eaae59e3cb3f7726b17dba3181999e43c609f0e0a10e6d0e53d16&",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    category: "VEHICLE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127175299432460360/1343155144715534439/BatJocker.rar?ex=6a4c2075&is=6a4acef5&hm=6d25952e3722942dbacb583a9058b15fa5f77239874a4abc7921fc2c25599788&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "cfx-nteam-hospital",
     name: "cfx-nteam-hospital",
     version: "v1.9.0",
@@ -1907,7 +1843,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1294021332740341790/1511964474834419843/cfx-nteam-hospital.zip?ex=6a4b3ca5&is=6a49eb25&hm=23d25454abd64433f99765713f6e378992cad2853b0175396ea21819d8eb7d65&",
+    link: "https://gofile.io/d/2opBMN",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1923,7 +1859,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993240855187613/1514615810377908255/admin.zip?ex=6a4afea5&is=6a49ad25&hm=c4bc7fd2a5086b157db46f618bac8689b8eb57602adcb081936aa451e5606e47&",
+    link: "https://www.mediafire.com/file/41any76n53thhj9/admin.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1971,7 +1907,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/900464722363682826/1228642012278951936/gladiatorscc.rar?ex=6a4b790a&is=6a4a278a&hm=568ce09a0634dbb2df88facaffe4395350ebf8a5e1eb4049116691342db75588&",
+    link: "https://www.mediafire.com/file/7qur6uz8vfdpq4c/gladiatorscc.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -1987,7 +1923,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474035846687756390/okokBanking.rar?ex=6a4b059c&is=6a49b41c&hm=f586eec1d1ad3f9ced57e04ad69d3c972218b67aaaf5856a70c67bb0e32e4f21&",
+    link: "https://www.mediafire.com/file/d4jo64boo0tutwm/okokBanking.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2039,19 +1975,19 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "2018 Mercedes",
-    name: "2018 Mercedes",
+    id: "Brabus GLA35",
+    name: "Brabus GLA35",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1127175392797659216/1127361193355526175/unknown-3.png?ex=6a4c27ed&is=6a4ad66d&hm=c03a79a8f3ff7b4b7890ef8567e336bf4ffc917782a0d200b1b62013f7e09987&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/Brabus%20GLA35.png?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     price: "FREE",
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1015293793089617971/1031369064259518535/2018_Mercedes_Brabus_800_TR.rar?ex=6a4c4dca&is=6a4afc4a&hm=f4aad0a8fad08d453e2493e46109eb12c0c8a6b1d4bc0969e67b94a8c408c9c6&",
+    link: "https://www.mediafire.com/file/57frvvp8j05u4cb/Brabus_GLA35.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2099,7 +2035,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127175392797659216/1214102749461880832/Brabuss850cc.zip?ex=6a4bf90c&is=6a4aa78c&hm=4ba9ac96a5053f323eb322b8057bf17b7789cfb48f54216eaee0eaecd3542f3a&",
+    link: "https://www.mediafire.com/file/bhbu5f2vp5f4ncs/Brabuss850cc.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2131,7 +2067,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127175392797659216/1319670792547733566/Mercedes_Benz_AMG_S63_W222_2018_Mafia_Style_IY.rar?ex=6a4c6273&is=6a4b10f3&hm=5948581b9ddae2e0228a8aadb9e35b19618cd809d1089c1f3f1d0214f1f5384e&",
+    link: "https://www.mediafire.com/file/xglh6ierd18kq0n/Mercedes_Benz_AMG_S63_W222_2018_Mafia_Style_IY.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2179,7 +2115,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127176780915154985/1128242266004262922/mclaren-p1-liberty-walk-edition.zip?ex=6a4c10bd&is=6a4abf3d&hm=fb7671c14c695451d422ac0f651092c0f6ed96e1f430212424e919139141e8dc&",
+    link: "https://www.mediafire.com/file/qmdg4w4848x03jd/mclaren-p1-liberty-walk-edition.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2195,23 +2131,7 @@ const SCRIPTS = [
     date: "2026-04-02",
     category: "SCRIPT",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1016726663100367028/1295149780070174833/0r-multicharacter.zip?ex=6a4b81fa&is=6a4a307a&hm=c4e2d620b2d3f32306e7319a5ce46a8036d6f1a74c2fe0be45fd070e46671278&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "sennagtr2",
-    name: "sennagtr2",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts/sennagtr2.png?raw=true",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    category: "VEHICLE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127176780915154985/1128038137524928652/sennagtr19.rar?ex=6a4bfb61&is=6a4aa9e1&hm=5a915059e59e075b41679e2909b7d10b2b6abb5e473c6bf54f052924dd625307&",
+    link: "https://www.mediafire.com/file/08k7luudgqs0qkh/0r-multicharacter.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2227,39 +2147,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976084568547414097/1214917346125160498/NoNPC.rar?ex=6a4afb33&is=6a49a9b3&hm=f52b8d21ad827e2ce7a3dcdd5a5fe160527a9df122bce804d47ce3790de35b81&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "rs6 2020",
-    name: "rs6 2020",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts/rs6%202020.png?raw=true",
-    tagline: "car",
-    category: "VEHICLE",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1002844641189703700/1026146264590581830/RS666.rar?ex=6a4c6b6e&is=6a4b19ee&hm=25abd7a5ad0c6e8106883c973fbd5069ccfa582d6284d56e95cf280bd84eed37&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "tk_drugs",
-    name: "tk_drugs",
-    version: "v1.9.0",
-    category: "SCRIPT",
-    status: "online",
-    badge: "",
-    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/ced224463661dcda961b1e92c06616163494b1c5.jpg",
-    tagline: "",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1507135429009211472/tk_drugs.rar?ex=6a4b777f&is=6a4a25ff&hm=84c354ce64c0f6fa65b83e1a4a4cb3b8e00ba7ac4bdff2a27186b5e0aa919967&",
+    link: "https://www.mediafire.com/file/7iawznxghmay8tc/NoNPC.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2307,7 +2195,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1227312615596757182/1321852149897887867/2021_Audi_TTRS_Hycade_-_GDC.rar?ex=6a4c68ff&is=6a4b177f&hm=58e8498c4f5736017a0f4ce5e56a6a9373a3b20a2cc8e7f210db6ae480693bfe&",
+    link: "https://www.mediafire.com/file/mozz0vb2kp9vgvj/2021+Audi+TTRS+Hycade+-+GDC.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2323,7 +2211,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993241350242541/1514611650475589774/Lunar_Drug_Creator_And_Bridge.zip?ex=6a4ba385&is=6a4a5205&hm=e8e87e54c38dfe9e4137bd31a0bbfffb23192abf959ecdf227264d8ec646d644&",
+    link: "https://www.mediafire.com/file/fpsdcs8kwpuhws0/[Lunar_Drug_Creator_And_Bridge].zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2343,22 +2231,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Dodge Charger",
-    name: "Dodge Charger",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts%202/Dodge%20Charger.png?raw=true",
-    tagline: "car",
-    category: "VEHICLE",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/996746721218535498/1101255737847599226/Itzhamad-_Dodge_Charger_2.0.zip?ex=6a4c1b54&is=6a4ac9d4&hm=f01a29b9fc7218f996e175806ce5365ec458b0e26c7bc512ae38084b94dc4d33&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "gfx-autopilot",
     name: "gfx-autopilot",
     version: "v1.9.0",
@@ -2372,22 +2244,6 @@ const SCRIPTS = [
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/9vUEySwa",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "Dodge Ram 1500",
-    name: "Dodge Ram 1500",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts%202/ram%201500.png?raw=true",
-    tagline: "car",
-    category: "VEHICLE",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1232407091633717289/1282092349803200615/cfx-gomstyling-99ram-v1.zip?ex=6a4c200c&is=6a4ace8c&hm=1134dc0d6a1ed104a54f27dd9e6aadaac15b6dcefb24ce322787fbba8a2146d4&",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2407,22 +2263,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Dodge Ram Goul",
-    name: "Dodge Ram Goul",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/scripts%202/Dodge%20Ram%20Goul.png?raw=true",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    category: "VEHICLE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1094667495807406172/1107097005492289646/1500_Ram_Ghoul_2_Door.zip?ex=6a4c436e&is=6a4af1ee&hm=60c6caecf7263d7bfdc591d07644e3b487be5bb10976570a38a12ef048386025&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "Core Hud",
     name: "Core Hud",
     version: "v1.9.0",
@@ -2435,7 +2275,7 @@ const SCRIPTS = [
     date: "2026-04-02",
     category: "SCRIPT",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1494492980973666405/1494495655710818435/Core_Hud.zip?ex=6a4af78a&is=6a49a60a&hm=09244cf3fcc88dc2d1aa840af835b7ebd4d0a04e64c7d05c001de4e6ab62535f&",
+    link: "https://www.mediafire.com/file/h20gmxppw0p0hm3/Core+Hud.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2451,7 +2291,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1127177456818847786/1381981531785924618/sf23.rar?ex=6a4c4fd9&is=6a4afe59&hm=3fb2a9b8b9a504d7abcac20eb73c490e32709a5ef5c9df37018bca2b19665592&",
+    link: "https://www.mediafire.com/file/liq07k0qtj3hvuh/sf23.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2483,7 +2323,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/881815702116368405/1051918617798774856/Itzahmad_2002_-_Ferrari_F8_EVO_Edition.zip?ex=6a4bea8e&is=6a4a990e&hm=6ab74601542175b76b186d4f23385a1f6a4f87caec10feb19782245ac2c21cd1&",
+    link: "https://www.mediafire.com/file/yj3qh0ulobtoimi/Itzahmad_2002_-_Ferrari_F8_EVO_Edition.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2503,22 +2343,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "ferrari 488",
-    name: "ferrari 488",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/ferrari%20488.png?raw=true",
-    tagline: "car",
-    frameworks: ["Leaked"],
-    price: "FREE",
-    category: "VEHICLE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/888860647075495937/1099756782806638622/Ferrari_488_GT_Beast_Edition_-_Itzahmad2002_FIXED.rar?ex=6a4bed51&is=6a4a9bd1&hm=f2141ec0e045de4c9b518ccc987c370e169f38f82c6322fa94f77a9d98e8d340&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "putin-inventory",
     name: "putin-inventory",
     version: "v1.9.0",
@@ -2531,7 +2355,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1494492591838724227/1498695297285750984/putin-inventory-20241230T203657Z-001.zip?ex=6a4b1583&is=6a49c403&hm=58afed52d2a56c54495a0ed0227c663c1b92556e7ab69f27da9b1cb892171bcb&",
+    link: "https://www.mediafire.com/file/n6e8fppunck9mvs/putin-inventory-20241230T203657Z-001.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2579,7 +2403,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1010872744327512095/1011291433157804043/rmodf40.rar?ex=6a4c6e4a&is=6a4b1cca&hm=291fc727b2955a56b1ca02b5f47bbff3ce0791b8e7c805c3b56cd3af87d62e16&",
+    link: "https://www.mediafire.com/file/56ihleabut0v8fc/rmodf40.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2595,7 +2419,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1473993240855187615/1515364478122725496/rtx_garbagejob.zip?ex=6a4b14e5&is=6a49c365&hm=652728788df247da1f3559f94a5cf69fe570db38147e6c847fbee78f0e04cb45&",
+    link: "https://mega.nz/file/cZ1B1IZY#eovtVNgBRD0rVxUZWj4K9MBom_R_KmAADmj3gLQdUQc",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2611,7 +2435,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/881811978279079987/1051919339596562602/Rmod_Ferrari_-_F8_Tributo.rar?ex=6a4beb3a&is=6a4a99ba&hm=60f91f292465946e5b053c220a95a572a587ad5cca67d35ebd79fc33e738828a&",
+    link: "https://www.mediafire.com/file/yed7z1zx0ql3rgh/Rmod_Ferrari_-_F8_Tributo.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2643,7 +2467,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1494492591838724227/1498695587326066778/ox_inventory-reskin-main.zip?ex=6a4b15c8&is=6a49c448&hm=c47228fe987b6790dde105b9b2bfcfa5e0ce6625c296e557842c6c62bcd10282&",
+    link: "https://www.mediafire.com/file/btvpo9y3f8jisd4/ox_inventory-reskin-main.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2727,22 +2551,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Advanced Boss & Gang Menu",
-    name: "Advanced Boss & Gang Menu",
-    version: "v1.9.0",
-    status: "online",
-    badge: "",
-    image: "https://forum-cfx-re.akamaized.net/optimized/5X/2/0/c/4/20c4f6aa6cbde9370b4319c3c4115e0cd7396cc3_2_1024x576.jpeg",
-    tagline: "",
-    frameworks: ["Leaked"],
-    category: "SCRIPT",
-    price: "FREE",
-    date: "2026-04-02",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1459595895594291250/1459601968728117384/BakiTelli_bossmenu.rar?ex=6a4b3f03&is=6a49ed83&hm=df431deacc7719f45bedeadad9e39846d25e0c4b125e18bd951ada2290d5c0bf&",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "LifePeak Scripts | Hunting",
     name: "LifePeak Scripts | Hunting",
     version: "v1.9.0",
@@ -2771,7 +2579,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1494492723942785065/1494496057772478615/nc_banking.rar?ex=6a4ba0aa&is=6a4a4f2a&hm=63a56137e7870264b993fc53ae0507130a0335fde3753d6a3bcd3b34de51c9f8&",
+    link: "https://www.mediafire.com/file/5uh31p54v2boaln/nc_banking.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2803,7 +2611,7 @@ const SCRIPTS = [
     category: "SCRIPT",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1300116243310706698/1474034770059984974/nv_AdvancedScoreboard-main.zip?ex=6a4b049b&is=6a49b31b&hm=70c7843a9ab43664427b1aac7a8b73fb3e26e92b6fc688684bf89c519c0bf6b0&",
+    link: "https://www.mediafire.com/file/6kwpbaarbtkh6s8/nv_AdvancedScoreboard-main.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2835,23 +2643,23 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/975908517787627573/1218859678491213855/gfx-arena.rar?ex=6a4b7b08&is=6a4a2988&hm=afe3cd64a4ba86990f9d1d76b7042a07bf173dd75d2a5d3f4e6b67a3efa25a0e&",
+    link: "https://www.mediafire.com/file/9zh74xopa8gus5x/gfx-arena.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "Mercedes Benz W223 Class S 500 4MATIC 2022 | Vakilla",
+    id: "Mercedes Benz W223 Class S 500 4MATIC 2022 Vakilla",
     name: "NFS Vehicleshop",
     version: "v1.9.0",
     status: "online",
     badge: "",
-    image: "https://cdn.discordapp.com/attachments/1474461968344551547/1474531697851764969/temp_image.png?ex=6a4b81e8&is=6a4a3068&hm=136bec9deaef52cefd842546d067275b32c9c0e574418e64a85bcd761aa5467a&",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/script4/vakillla.png?raw=true",
     tagline: "car",
     frameworks: ["Leaked"],
     category: "VEHICLE",
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/967947228780068964/1228620831513641051/w223s500.rar?ex=6a4b6550&is=6a4a13d0&hm=94088df4e7b9c0dc1290c44331a475dbfb45d5d63a0b5235118729a25f9aa142&",
+    link: "https://www.mediafire.com/file/gvkpv5l76ioch0u/w223s500.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2867,7 +2675,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/967947228780068964/1228620447550144572/gom_gstghell1.rar?ex=6a4b64f5&is=6a4a1375&hm=2df913cfd8d7d77ce0ead219d38610e9982d46c6df78e013d38ce62f2e92348a&",
+    link: "https://www.mediafire.com/file/iakhgo11v9n0dsv/gom_gstghell1.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2883,7 +2691,7 @@ const SCRIPTS = [
     date: "2026-04-02",
     category: "VEHICLE",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/967947228780068964/1196150605278883860/lwhuracan.rar?ex=6a4b434f&is=6a49f1cf&hm=be816f350a6d182565b418dda5a596e30fdca5e94ef17c879a1556d2cbf1df34&",
+    link: "https://www.mediafire.com/file/tue3ky5hb6f1nou/lwhuracan.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2915,7 +2723,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/967947228780068964/1228619061957759059/rain.rar?ex=6a4b63ab&is=6a4a122b&hm=7c7b9d0872276fcc71c3ca7f7743f3dad1133b4a02f753b233930730bde6cabd&",
+    link: "https://www.mediafire.com/file/writqplm4nia68q/rain.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2931,7 +2739,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/967947228780068964/1228618904885133334/e30s.rar?ex=6a4b6385&is=6a4a1205&hm=6fd33b6e8de700217fe50a75ef953850bbbbcd9964f06c5426a3e7294275214f&",
+    link: "https://www.mediafire.com/file/xw42eqx51pyvl62/e30s.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2947,7 +2755,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1346468906700767232/1346477678160515272/FPS_BOOST_3.zip?ex=6a4c594e&is=6a4b07ce&hm=b57bf53d2538d43bfb3cdd3acde9088caef0116c47c2228815a551bc4bcaf1b2&",
+    link: "https://www.mediafire.com/file/eidgi0clvgetiw7/FPS+BOOST+#3.zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2963,7 +2771,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976804522536083486/1196603164636479580/pandem2.rar?ex=6a4b974a&is=6a4a45ca&hm=0dbb088a5e04a092142e0e7c6a5ea6248b464fb0939c098d35317b0b0a2f5fb6&",
+    link: "https://www.mediafire.com/file/gb3eqlgkir3m06p/pandem2.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2979,7 +2787,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976804522536083486/1228615519305990174/Jelfacw206estate.rar?ex=6a4b605e&is=6a4a0ede&hm=cba8842d747f95237e2a299308b9d5288a33bce0368b2bb6d7f64111c4e0605e&",
+    link: "https://www.mediafire.com/file/blb5pmvn6lfsr0m/Jelfacw206estate.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -2995,7 +2803,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976804522536083486/1168670091110514768/SG_CROWN86.rar?ex=6a4b7c16&is=6a4a2a96&hm=435916819e64fd9172bd10f0153f57e7068fd37ac68e1b1a97bb856c0989db33&",
+    link: "https://www.mediafire.com/file/x8g5ia2fjl8gfao/SG_CROWN86.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3011,7 +2819,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/976804522536083486/1129895730350399519/benze55.rar?ex=6a4b7d26&is=6a4a2ba6&hm=a82f125ce27f0a02456a8258e52f5c3454079a464dd7551e5ed90408817751de&",
+    link: "https://www.mediafire.com/file/xrj8c0tsup0swu9/benze55.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3027,7 +2835,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1344830436240654358/1344830796283773018/Mazda_RX8_Mega_by_Redline.rar?ex=6a4ba187&is=6a4a5007&hm=ecb44e80b7850c1d230bdd65b41e7c6be666304dd35fd94c0d6ce60c144bbfc0&",
+    link: "https://www.mediafire.com/file/tbqoxml8c6yxio2/Mazda_RX8_Mega_by_Redline.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3043,7 +2851,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/990034859768565780/1157791263672762468/bmpos8.rar?ex=6a4b7563&is=6a4a23e3&hm=9d62ab80825b6fdd8b300de2ba89a1fa6fa658d01f57096d4017f4dd87218e8f&",
+    link: "https://www.mediafire.com/file/amdr91sm6gkbkkx/bmpos8.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3059,7 +2867,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/990034859768565780/991500465529425990/Sprinterambulance.rar?ex=6a4b9f84&is=6a4a4e04&hm=9332251dc07dea46299522a13440754e09ae12a7ab09f942ba4ffeccb098aac3&",
+    link: "https://www.mediafire.com/file/x7fp8baawn359tb/Sprinterambulance+(1).rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3075,7 +2883,7 @@ const SCRIPTS = [
     category: "VEHICLE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1107323005606047855/1236390264730292285/MANHART_MH5_GTR_2022_-_Versus.rar?ex=6a4b50ea&is=6a49ff6a&hm=f35a964d5632831fd4c186d77b4988b37618e9fb31e024c463bd1e78e7b06f78&",
+    link: "https://www.mediafire.com/file/jyj4prm0a7gbn0k/MANHART_MH5_GTR_2022_-_Versus.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -3091,7 +2899,7 @@ const SCRIPTS = [
     price: "FREE",
     date: "2026-04-02",
     stats: { stars: 96, downloads: 3100 },
-    link: "https://cdn.discordapp.com/attachments/1502776498757701742/1504221095929184397/d10_reshade.rar?ex=6a4c1210&is=6a4ac090&hm=5f337601a04fec7e818a6e0c52e036571257c7a45bccb3777ddb70de6f1f2ce6&",
+    link: "https://www.mediafire.com/file/4p3cy9ri1uoud4o/d10+reshade.rar/file",
     linkLabel: "GET SCRIPT"
   },
   {
