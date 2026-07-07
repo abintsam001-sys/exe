@@ -150,6 +150,22 @@ const SCRIPTS = [
     link: "https://discord.gg/KMXDpxAcVa",
     linkLabel: "BOOST NOW"
   },
+   {
+    id: "xlantis admin peds",
+    name: "xlantis admin peds",
+    version: "v1.9.0",
+    status: "online",
+    badge: "",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/xl%202/x1.png?raw=true",
+    tagline: "car",
+    category: "VEHICLE",
+    frameworks: ["Leaked"],
+    price: "FREE",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://mega.nz/file/JU0CBACT#1Bu3nBzBQJntEZZMMOMjbZ66bbKCdDwiAfuHFxfEuPM",
+    linkLabel: "GET SCRIPT"
+  },
   {
     id: "ZSX Multicharacter",
     name: "ZSX Multicharacter",
