@@ -1159,6 +1159,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b1.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Multicharacter System - Identity, Spawn Selector and Loading Screen [ESX/QB/QBOX]",
     name: "Multicharacter System - Identity, Spawn Selector and Loading Screen [ESX/QB/QBOX]",
     version: "v1.9.0",
@@ -1173,6 +1189,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/8iwqt3hj6ym4zds/op-multicharacter.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b2.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "gstrs2",
@@ -1191,6 +1223,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b3.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "FuriousFade Graphics pack",
     name: "FuriousFade Graphics pack",
     version: "v1.9.0",
@@ -1205,6 +1253,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/3bwrf3fs9642vbr/FuriousFade_Graphics_pack.zip/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b4.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "Vons Weapon Pack V1 | Addon Weapons for FiveM | High Quality Pack for Cheap",
@@ -1239,6 +1303,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b5.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "zsx dealership",
     name: "zsx dealership",
     version: "v1.9.0",
@@ -1253,6 +1333,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://linkvertise.com/1192292/0hj1qCYiJFQK?o=sharing",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b6.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "Slys Non-Branded Male Clothing Pack",
@@ -1271,6 +1367,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b7.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "ngtr35lb",
     name: "ngtr35lb",
     version: "v1.9.0",
@@ -1285,6 +1397,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/acr00oh13clkvx0/ngtr35lb.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b8.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "SD-Beekeeping | FiveM Script |  QBCore, ESX",
@@ -1303,6 +1431,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b9.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Legion Square Park MLO / Winter & Summer - Forge Studios",
     name: "Legion Square Park MLO / Winter & Summer - Forge Studios",
     version: "v1.9.0",
@@ -1317,6 +1461,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/RMsTgLIY#fd-geyxSqCakN1x1M_bY4Z0rjCCbYV02CpsX2DzSUtU",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b10.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "GTA 5 Ultra-Realistic Graphics! 4k",
@@ -1335,6 +1495,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b11.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "CroneNex_-_Mercedes_Benz_S63",
     name: "CroneNex_-_Mercedes_Benz_S63",
     version: "v1.9.0",
@@ -1349,6 +1525,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/w8ztwkx7ncrk4gx/CroneNex_-_Mercedes_Benz_S63_AMG_w222_Haifischnikez_1.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b13.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "Police, DOJ & EMS MDT | Fivem Script | LOOP STUDIOS",
@@ -1367,6 +1559,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b14.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "vms_barber",
     name: "vms_barber",
     version: "v1.9.0",
@@ -1383,6 +1591,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b15.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "jeep-trackhawk-hycade-edition",
     name: "jeep-trackhawk-hycade-edition",
     version: "v1.9.0",
@@ -1397,6 +1621,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/thatlozhsz6t0ue/jeep-trackhawk-hycade-edition.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b16.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "FiveM Fleeca Bank Robberies Script [ ESX / QBCore ]",
@@ -1431,6 +1671,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b17.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "DJS | Uwu Cafe Props",
     name: "DJS | Uwu Cafe Props",
     version: "v1.9.0",
@@ -1445,6 +1701,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/dQNFyaCK#n97z1PufES_9ZnuBbpUafdnx69zVZWna-8Yi476ibwk",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b18.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "2023-alfa-romeo-giulia-quadrifoglio",
@@ -1463,6 +1735,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b19.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "satanic tees",
     name: "satanic tees",
     version: "v1.9.0",
@@ -1477,6 +1765,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/t9jq962k3xb0sg5/satanic.zip/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b20.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "cDev | Plate Taping / Removal System",
@@ -1495,6 +1799,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b21.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Harvinoiid Bentley Continental GT",
     name: "Harvinoiid Bentley_Continental GT",
     version: "v1.9.0",
@@ -1509,6 +1829,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/l6sw60ho0xhph25/Harvinoiid_-_Bentley_Continental_GT_Speed_22.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b22.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "passive outfit",
@@ -1527,6 +1863,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b23.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "ibonoja_sa_training_center",
     name: "ibonoja_sa_training_center",
     version: "v1.9.0",
@@ -1541,6 +1893,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/0MFRDaoD#aCxinwOYtjasE16i2teSkFd8GEf2wbWej2UMADRUksQ",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b24.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "mallekgang3",
@@ -1559,6 +1927,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b25.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "CURSED PINK",
     name: "CURSED PINK",
     version: "v1.9.0",
@@ -1573,6 +1957,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/i2iznmzzhmtmnkp/CURSED+PINK.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b26.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "Tattoo Shop",
@@ -1591,6 +1991,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b27.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "bently",
     name: "bently",
     version: "v1.9.0",
@@ -1605,6 +2021,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1316200859184660570/1317260544520224878/2021_Bentley_Bentayga_On_30s_Forgiatos_-_Nukem.rar?ex=6a4b86bb&is=6a4a353b&hm=ee821b9bec62c2029569d9462da7eb4b6840a93134efab6b0ada3ae8306c9cf0&",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/booost/b28.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "BMW_1M_Hycade_Custom",
@@ -1623,6 +2055,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b29.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "BMW_M5_CS_Widebody_Demod",
     name: "BMW_M5_CS_Widebody_Demod",
     version: "v1.9.0",
@@ -1637,6 +2085,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/gu1h8olma9yuge9/BMW_M5_CS_Widebody_Demod_1.zip/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b30.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "FPS BOOST PACK 2026",
@@ -1655,6 +2119,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b31.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "LB Phone 2.8.1",
     name: "LB Phone 2.8.1",
     version: "v1.9.0",
@@ -1669,6 +2149,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/9ZdHVQbb#i_iCIGq3DaxIXuXySZIXKznQVamoCyfVp2VgNM4-QW8",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b32.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "cookie34",
@@ -1687,6 +2183,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b33.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "GKSPHONE V2",
     name: "GKSPHONE V2",
     version: "v1.9.0",
@@ -1701,6 +2213,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n5IyAaDD#UHChLDUlTQSIEyrymu_yOPY0dhjS1m_031BpoH3xA6U",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b34.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "e92rl",
@@ -1719,6 +2247,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b35.webp?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Cayo Airplane NPC Pilot Script",
     name: "Cayo Airplane NPC Pilot Script",
     version: "v1.9.0",
@@ -1733,6 +2277,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/rawf2qgoxn80nqc/%5BCayoAirplaneScript%5D.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b36.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "x3765spyder",
@@ -1751,6 +2311,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b37.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "LUNAR Interactions",
     name: "LUNAR Interactions",
     version: "v1.9.0",
@@ -1765,6 +2341,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/KxIWmYaK#iU8rSjjiegoVGmipuXZ3uWlwWoFfeG0Xr8xPcLStLTg",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b38.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "BMWE60BalenciagaXGucci",
@@ -1783,6 +2375,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b39.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "UM Danzo | Special Server Restarter",
     name: "UM Danzo | Special Server Restarter",
     version: "v1.9.0",
@@ -1797,6 +2405,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/n6AElJgA#LJU-xQVj453cSp_3NsuOmL4zFSe5tdkVWsnolWMN5TQ",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boooost/b40.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "bmw-m2-koz-concept",
@@ -1831,6 +2455,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b41.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "UM Multicharacter",
     name: "UM Multicharacter",
     version: "v1.9.0",
@@ -1845,6 +2485,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://mega.nz/file/ukADlbBJ#aWV-2X6eVKhHSPfJbc7KGJ3gW5DL_X7zThFNHFRIalg",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b42.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "NISSAN_GTR-R35",
@@ -1863,6 +2519,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b43.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Builder Job script 2.0",
     name: "Builder Job script 2.0",
     version: "v1.9.0",
@@ -1877,6 +2549,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1294021332740341790/1476597889898778794/17mov_BuilderJob.zip?ex=6a4b1d32&is=6a49cbb2&hm=49ec99ce249c10717bbc727639309394e4ae1f8bb8bd5c9b252640cfcc46c367&",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b44.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "Ferrari_J50_2017",
@@ -1895,6 +2583,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b46.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Fivem Multiplayer Electrician Job script 2.0",
     name: "Fivem Multiplayer Electrician Job script 2.0",
     version: "v1.9.0",
@@ -1909,6 +2613,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/72eb6f51b3itd9j/17mov_Electrician+(1).zip/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b47.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "vulcan",
@@ -1927,6 +2647,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b48.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "esx_drugseffect",
     name: "esx_drugseffect",
     version: "v1.9.0",
@@ -1943,6 +2679,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b49.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Ferrari_J50_2017",
     name: "Ferrari_J50_2017",
     version: "v1.9.0",
@@ -1957,6 +2709,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/rwguaou5rwasjzg/Ferrari_J50_2017+(1).rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b50.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "LondonStudios | Vinewood Sign V2",
@@ -1991,6 +2759,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b50.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Jeep_Storm_Tooper_Hawk",
     name: "Jeep_Storm_Tooper_Hawk",
     version: "v1.9.0",
@@ -2005,6 +2789,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://cdn.discordapp.com/attachments/1344842099287265291/1344843937860423741/Jeep_Storm_Tooper_Hawk_-_Mykes_Customs.rar?ex=6a4badc4&is=6a4a5c44&hm=44ae4f72d39919c19f10a3b51899991b213294161a97bbb1a4c898104181eab9&",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b51.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "um-multicharacter",
@@ -2023,6 +2823,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b52.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "Drift_Trackhawk_1000hp_426_Hellephant",
     name: "Drift_Trackhawk_1000hp_426_Hellephant",
     version: "v1.9.0",
@@ -2039,6 +2855,22 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b53.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
+  },
+  {
     id: "MT_WORKSHOPV2",
     name: "MT_WORKSHOPV2",
     version: "v1.9.0",
@@ -2053,6 +2885,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/gcu453g8vt6y2ql/mt_workshopsv2.zip/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b54.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "gcmw223",
@@ -2117,6 +2965,22 @@ const SCRIPTS = [
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/tc8avwlwqtgh8u4/BMW_M8_GTR_Hycade.rar/file",
     linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Exclusive",
+    name: "Exclusive",
+    version: "v1.9.0",
+    status: "EXCLUSIVE",
+    badge: "BOOSTER PERK",
+    image: "https://github.com/abintsam001-sys/exe/blob/main/boost/b55.png?raw=true",
+    category: "BOOSTERPERKS",
+    tagline: "Boost Our Discord Server To Unlock ",
+    frameworks: ["Exclusive"],
+    price: "booster",
+    date: "2026-04-02",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://discord.gg/KMXDpxAcVa",
+    linkLabel: "BOOST NOW"
   },
   {
     id: "thug-killshows",
