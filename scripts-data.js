@@ -29,7 +29,7 @@ const SCRIPTS = [
     status: "online",
     badge: "NEW",
     image: "https://img.youtube.com/vi/F-G6tR1lw8o/mqdefault.jpg",
-    category: "SCRIPT",
+    category: "MLO",
     tagline: "free",
     frameworks: ["Leaked"],
     preview: "https://youtu.be/F-G6tR1lw8o?si=2sv62a9NKFkoMhKM",
