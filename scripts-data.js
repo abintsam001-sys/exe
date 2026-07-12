@@ -513,8 +513,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "XC | TVS Unrevealed 6x6",
-    name: "XC | TVS Unrevealed 6x6",
+    id: "XC | blackmafia 6x6",
+    name: "XC | blackmafia 6x6",
     version: "",
     status: "online",
     badge: "",
@@ -529,8 +529,8 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "XC | TVS Unrevealed 4x4",
-    name: "XC | TVS Unrevealed 4x4",
+    id: "XC | black mafiya 4x4",
+    name: "XC | black mafiya 4x4",
     version: "",
     status: "online",
     badge: "",
