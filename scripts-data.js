@@ -23,23 +23,6 @@ const SITE_STATS = {
 
 const SCRIPTS = [
   {
-    id: "Kivo  Weed Shop",
-    name: "Kivo  Weed Shop",
-    version: "",
-    status: "online",
-    badge: "NEW",
-    image: "https://img.youtube.com/vi/W003olh5hoY/maxresdefault.jpg",
-    category: "MLO",
-    tagline: "free",
-    frameworks: ["Leaked"],
-    preview: "https://youtube.com/watch?v=W003olh5hoY",
-    price: "FREE",
-    date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://mega.nz/file/0dlH1K7R#Gx2TSEK2YrzNs5lijB4_prjvYO5Mh5UqNS2vKE-XGgc",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "Eiffel Tower",
     name: "Eiffel Tower",
     version: "",
