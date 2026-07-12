@@ -57,23 +57,6 @@ const SCRIPTS = [
     linkLabel: "GET SCRIPT"
   },
   {
-    id: "4EVER",
-    name: "4EVER",
-    version: "",
-    status: "online",
-    badge: "NEW",
-    image: "https://i.postimg.cc/Wzj20m5x/collage-1783853997625.jpg",
-    category: "CLOTHING",
-    tagline: "free",
-    frameworks: ["Leaked"],
-    preview: "",
-    price: "FREE",
-    date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
-    link: "https://www.mediafire.com/file/hdli92814lfzewl/4EVR+(1).zip/file",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "rrghost2021",
     name: "rrghost2021",
     version: "",
@@ -122,6 +105,23 @@ const SCRIPTS = [
     date: "2026-07-12",
     stats: { stars: 96, downloads: 3100 },
     link: "https://www.mediafire.com/file/2kpu6fr6l99b1gd/DivinedDrillDances.pack.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "4EVER",
+    name: "4EVER",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.postimg.cc/Wzj20m5x/collage-1783853997625.jpg",
+    category: "CLOTHING",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "",
+    price: "FREE",
+    date: "2026-07-12",
+    stats: { stars: 96, downloads: 3100 },
+    link: "https://www.mediafire.com/file/hdli92814lfzewl/4EVR+(1).zip/file",
     linkLabel: "GET SCRIPT"
   },
   {
