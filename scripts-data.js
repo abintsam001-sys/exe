@@ -504,7 +504,7 @@ const SCRIPTS = [
     version: "",
     status: "online",
     badge: "",
-    image: "https://i.postimg.cc/rsc4nPVN/a070f38e-09a1-4b2e-b9a1-9d1135672ecb.png",
+    image: "https://chatgpt.com/backend-api/estuary/content?id=file_00000000eb1071fdadb8405f65b87b5c&ts=495561&p=fs&cid=1&sig=81383fe7c485a59e051bb29768c3ae343e545fd3dd2624098106e377b889404c&v=0",
     category: "CLOTHING",
     tagline: "free",
     frameworks: ["Leaked"],
