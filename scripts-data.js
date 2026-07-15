@@ -28,7 +28,7 @@ const SCRIPTS = [
     version: "",
     status: "online",
     badge: "NEW",
-    image: "https://camo.githubusercontent.com/49b04f338e50694bb94a4e97a391bbea9387931cb855b32d8a86d93f167b3f42/68747470733a2f2f692e696d6775722e636f6d2f31323142797a712e6a706567",
+    image: "https://i.postimg.cc/Sx3csVp6/68747470733a2f2f692e696d6775722e636f6d2f31323142797a712e6a706567.jpg",
     category: "SCRIPT",
     tagline: "free",
     frameworks: ["Leaked"],
