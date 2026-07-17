@@ -92,8 +92,8 @@ const SCRIPTS = [
   },
   {
     id: "Arena 1v1",
-    name: "loc:3746.64233,7273.811,1004.62494",
-    version: "",
+    name: "Arena 1v1",
+    version: "loc:3746.64233,7273.811,1004.62494",
     status: "online",
     badge: "NEW",
     image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/d94cdbc92dd07c32e55f550464a62a0629cc6746.png",
