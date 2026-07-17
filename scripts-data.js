@@ -92,7 +92,7 @@ const SCRIPTS = [
   },
   {
     id: "Arena 1v1",
-    name: "Arena 1v1",
+    name: "loc:3746.64233,7273.811,1004.62494",
     version: "",
     status: "online",
     badge: "NEW",
