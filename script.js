@@ -56,7 +56,7 @@ function renderStatsBar() {
   if (!el || typeof SCRIPTS === 'undefined') return;
 
   const totalDownloads = 9;
-  const totalUsers = 346;
+  const totalUsers = 373;
 
   const items = [
     {
