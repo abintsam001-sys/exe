@@ -6852,5 +6852,5 @@ const CATEGORIES = [
 
 const SITE_STATS = {
   totalUsers: 404,
-  totalDownloads: 2334
+  totalDownloads: 1773
 };
