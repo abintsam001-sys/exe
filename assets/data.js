@@ -99,7 +99,7 @@ const RESOURCES = [
     version: "",
     status: "online",
     badge: "NEW",
-    image: "https://images.iimg.live/images/spectacular-picture-5692.webp",
+    image: "https://i.postimg.cc/8cHQ1Hvb/compressed-image-(1).webp",
     category: "VEHICLE",
     tagline: "free",
     frameworks: ["Leaked"],
