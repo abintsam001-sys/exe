@@ -99,7 +99,7 @@ const RESOURCES = [
     version: "",
     status: "online",
     badge: "NEW",
-    image: "https://i.postimg.cc/QtGF28ht/Five-M-GTAProcess-2026-03-01-11-07-05-838.png",
+    image: "https://images.iimg.live/images/spectacular-picture-5692.webp",
     category: "VEHICLE",
     tagline: "free",
     frameworks: ["Leaked"],
