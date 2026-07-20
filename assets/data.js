@@ -208,7 +208,7 @@ const RESOURCES = [
     preview: "https://youtu.be/JVXuRhzbaM8?si=tB3-GOadOpYb3ERJ",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 57 },
     link: "https://www.mediafire.com/file/w7dneuj5qundotv/AshRigs_SkylineReverie.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -225,7 +225,7 @@ const RESOURCES = [
     preview: "https://youtu.be/WD0PVSaP4SY?si=Ilj46eC8g3Q1ZcWI",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 12, downloads: 189 },
     link: "https://www.mediafire.com/file/v5vvjewnktmdns9/ifrute_store.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -242,7 +242,7 @@ const RESOURCES = [
     preview: "https://youtu.be/1_-KlTkZfuc?si=p8-7nDH-aOLTnd0R",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 14 },
     link: "https://www.mediafire.com/file/mhvmt5z6mfz5uk8/universestore_internationalfootballfestival_2026.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -259,7 +259,7 @@ const RESOURCES = [
     preview: "https://youtu.be/sxW0jcDTkY8?si=ZI852_oTfkqN42ni",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 7, downloads: 142 },
     link: "https://www.mediafire.com/file/ay9xg3tq4j8r6u5/dc_vendetta.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -276,7 +276,7 @@ const RESOURCES = [
     preview: "https://youtu.be/M3ZlyjxVtgY?si=-jktZKLvUTo6-nBH",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 0, downloads: 98 },
     link: "https://www.mediafire.com/file/8c3r1qyvmqjowx5/cfx_binco_rework.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -293,7 +293,7 @@ const RESOURCES = [
     preview: "https://youtu.be/TStArwuw-pk?si=sYpZ5BF8SQHqLylM",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 25, downloads: 123 },
     link: "https://www.mediafire.com/file/m0iwzgrlfkq48d6/cylex_hud.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -310,7 +310,7 @@ const RESOURCES = [
     preview: "https://youtu.be/Y8JFvbT_LuQ?si=-h30Cdzklh36FZ7g",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 111 },
     link: "https://www.mediafire.com/file/6d8ldbtrdgjz6bs/rcore_clothing.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -327,7 +327,7 @@ const RESOURCES = [
     preview: "https://youtu.be/xQcdUfkoBDU?si=FaAvK7kcwLEyH1N8",
     price: "FREE",
     date: "2026-07-18",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 9, downloads: 176 },
     link: "https://www.mediafire.com/file/m1kpzygydswa7d9/SmartTaser.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -344,7 +344,7 @@ const RESOURCES = [
     preview: "https://youtu.be/XD4IaXY_vtk?si=4jxAZQuV41LH7OhF",
     price: "FREE",
     date: "2026-07-17",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 45 },
     link: "https://www.mediafire.com/file/lfxbycdxk5dq0t1/burj_khalifa_im3d.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -361,7 +361,7 @@ const RESOURCES = [
     preview: "https://youtu.be/U6iZp_FHEr8?si=5R6dFHy5blT7DBug",
     price: "FREE",
     date: "2026-07-17",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 15, downloads: 150 },
     link: "https://www.mediafire.com/file/3pv77asaagkmtot/eh_flameheart_restaurant.rar/file",
     linkLabel: "GET SCRIPT"
   },
