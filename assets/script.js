@@ -103,11 +103,9 @@ const TOAST_CONFIG = {
   // add/remove lines to change the mix, {script} must stay somewhere in each one
   messages: [
     "downloaded: {script}",
-    "just grabbed {script}",
-    "installed {script}",
-    "added {script} to their server",
     "just downloaded {script}",
-    "picked up {script}"
+    "installed {script}",
+    "just downloaded {script}",
   ]
 };
 
