@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FreeScripts — Free FiveM Resources</title>
+<title>EXELEAKS — Free FiveM Resources</title>
 <meta name="description" content="Browse and download free FiveM scripts, MLOs, clothes, mods and vehicles.">
 <link rel="icon" href="assets/logo.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -143,6 +143,31 @@
   <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
 </div>
 
+<!-- ===================== PROMO POPUP AD ===================== -->
+<div class="promo-overlay" id="promo-overlay" hidden>
+  <div class="promo-modal" id="promo-modal" role="dialog" aria-modal="true">
+    <button class="promo-close" id="promo-close" aria-label="Close">&times;</button>
+    <a href="#" class="promo-banner" id="promo-banner-link" target="_blank" rel="noopener">
+      <img src="" alt="" id="promo-banner-img">
+    </a>
+    <div class="promo-footer">
+      <label class="promo-checkbox">
+        <input type="checkbox" id="promo-dont-show">
+        <span>Don't show this again</span>
+      </label>
+      <a href="#" class="btn btn-violet btn-sm" id="promo-cta" target="_blank" rel="noopener">Go to the website</a>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== TOAST NOTIFICATION ===================== -->
+<div class="toast" id="toast" hidden>
+  <span class="toast-icon" id="toast-icon"></span>
+  <div class="toast-copy">
+    <strong id="toast-title"></strong>
+    <span id="toast-sub"></span>
+  </div>
+</div>   
 <script src="assets/data.js"></script>
 <script src="assets/script.js"></script>
 </body>
