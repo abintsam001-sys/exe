@@ -7021,6 +7021,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 404,
-  totalDownloads: 1773
+  totalUsers: 523,
+  totalDownloads: 1897
 };
