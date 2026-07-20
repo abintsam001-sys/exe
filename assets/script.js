@@ -105,7 +105,7 @@ const TOAST_CONFIG = {
     "downloaded: {script}",
     "just downloaded {script}",
     "installed {script}",
-    "just downloaded {script}",
+    "just downloaded {script}"
   ]
 };
 
