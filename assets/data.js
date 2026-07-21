@@ -31,7 +31,7 @@ const RESOURCES = [
     version: "",
     status: "online",
     badge: "NEW",
-    image: "https://r2.fivemanage.com/2IPLvzCVJnebv4LpT36bf/shunni2.png",
+    image: "https://r2.fivemanage.com/2IPLvzCVJnebv4LpT36bf/shunni1.png",
     category: "script",
     tagline: "free",
     frameworks: ["Leaked"],
