@@ -618,6 +618,61 @@ function wireAboutLink() {
    ============================================================ */
 const PROMO_DONT_SHOW_KEY = "promoAdDontShow";
 
+let promoLastVolume = PROMO_AD.musicVolume ?? 0.5;
+
+function playPromoMusic() {
+  if (!PROMO_AD.music) return;
+  const audio = document.getElementById("promo-audio");
+  audio.src = PROMO_AD.music;
+  audio.volume = PROMO_AD.musicVolume ?? 0.5;
+  document.getElementById("promo-volume").value = audio.volume;
+  document.getElementById("promo-mute").textContent = "🔊";
+
+  const playPromise = audio.play();
+  if (playPromise !== undefined) {
+    playPromise.catch(() => {
+      // Autoplay with sound was blocked — start on the first user interaction instead.
+      const resume = () => {
+        audio.play();
+        document.removeEventListener("click", resume);
+        document.removeEventListener("keydown", resume);
+      };
+      document.addEventListener("click", resume, { once: true });
+      document.addEventListener("keydown", resume, { once: true });
+    });
+  }
+}
+
+function stopPromoMusic() {
+  const audio = document.getElementById("promo-audio");
+  audio.pause();
+  audio.currentTime = 0;
+}
+
+function wirePromoAudioControls() {
+  const audio = document.getElementById("promo-audio");
+  const volumeSlider = document.getElementById("promo-volume");
+  const muteBtn = document.getElementById("promo-mute");
+
+  volumeSlider.addEventListener("input", () => {
+    audio.muted = false;
+    audio.volume = Number(volumeSlider.value);
+    muteBtn.textContent = audio.volume == 0 ? "🔇" : "🔊";
+  });
+
+  muteBtn.addEventListener("click", () => {
+    if (audio.muted || audio.volume === 0) {
+      audio.muted = false;
+      audio.volume = promoLastVolume || 0.5;
+      volumeSlider.value = audio.volume;
+      muteBtn.textContent = "🔊";
+    } else {
+      promoLastVolume = audio.volume;
+      audio.muted = true;
+      muteBtn.textContent = "🔇";
+    }
+  });
+}
 function openPromoAd() {
   const overlay = document.getElementById("promo-overlay");
   document.getElementById("promo-banner-img").src = PROMO_AD.image;
@@ -627,11 +682,13 @@ function openPromoAd() {
   cta.textContent = PROMO_AD.buttonText;
   overlay.hidden = false;
   document.body.style.overflow = "hidden";
+  playPromoMusic();
 }
 
 function closePromoAd() {
   document.getElementById("promo-overlay").hidden = true;
   document.body.style.overflow = "";
+  stopPromoMusic();
 }
 
 function initPromoAd() {
