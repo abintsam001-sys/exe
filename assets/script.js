@@ -31,7 +31,9 @@ const PROMO_AD = {
   image: "https://github.com/abintsam001-sys/exe/blob/main/standard%20(1).gif?raw=true", // banner shown in the popup — .jpg, .png, or .gif all work fine
   link: "https://discord.gg/ZvMMnrJys9", // where clicking the banner / button goes
   buttonText: "join our discord",
-  delay: 2000                     // ms to wait before showing the popup (0 = instant, 3000 = 3s, etc.)
+  delay: 2000,                     // ms to wait before showing the popup (0 = instant, 3000 = 3s, etc.)
+  music: "assets/promo-music.mp3", // audio that plays while the popup is open — set to "" to disable
+  musicVolume: 0.5                 // starting volume, 0 to 1
 };
 
 /* ============================================================
