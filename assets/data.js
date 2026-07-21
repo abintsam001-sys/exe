@@ -37,7 +37,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 18 },
     link: "https://drive.google.com/file/d/1GZZuH4kFstyDWEgoPV_f7nl8tKVY_WHb/view?usp=sharing",
     linkLabel: "GET SCRIPT"
@@ -54,7 +54,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/aXMFdUY2-78?si=5igWfA7Tcwe3liAa",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 84 },
     link: "https://www.mediafire.com/file/3rbvqdi9xuo2iyf/zydrec-littleseoul.pack.zip/file",
     linkLabel: "GET SCRIPT"
@@ -71,7 +71,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/jyRqBpGeQhU?si=A6mWDFXbzqk_VoAg",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 47 },
     link: "https://www.mediafire.com/file/k8cibl771lygadu/wxmaps_lsimpound.zip/file",
     linkLabel: "GET SCRIPT"
@@ -88,7 +88,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/z33ug__mpy8?si=32iUrRPRPqX0KWz8",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 29 },
     link: "https://www.mediafire.com/file/4p84v8loei38bfm/tiutoxico_cayofestival.rar/file",
     linkLabel: "GET SCRIPT"
@@ -105,7 +105,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/n48sVdpVfXs?si=H_bmi0EWJsy7ua2I",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 93 },
     link: "https://img.youtube.com/vi/n48sVdpVfXs/maxresdefault.jpg",
     linkLabel: "GET SCRIPT"
@@ -122,7 +122,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/weMQQpjBgIg?si=muB57SvNF7Zku4fd",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 44 },
     link: "https://www.mediafire.com/file/j5hbrf8ozfcj96m/max_redline_hood.zip/file",
     linkLabel: "GET SCRIPT"
@@ -139,7 +139,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/lZoCMWTbteg?si=VeWDkYDJH8l5mm9c",
     price: "FREE",
-    date: "2026-07-20",
+    date: "2026-07-21",
     stats: { stars: 0, downloads: 68 },
     link: "https://www.mediafire.com/file/sqyg2t2pm5mqsc2/rtx_dj.zip/file",
     linkLabel: "GET SCRIPT"
