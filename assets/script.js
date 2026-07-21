@@ -28,7 +28,7 @@ const ICONS = {
    ============================================================ */
 const PROMO_AD = {
   enabled: true,               // set to false to turn the popup off entirely
-  image: "https://github.com/abintsam001-sys/exe/blob/main/standard%20(1).gif?raw=true", // banner shown in the popup — .jpg, .png, or .gif all work fine
+  image: "https://github.com/abintsam001-sys/exe/blob/main/0721%20(1)(1).gif?raw=true", // banner shown in the popup — .jpg, .png, or .gif all work fine
   link: "https://discord.gg/ZvMMnrJys9", // where clicking the banner / button goes
   buttonText: "join our discord",
   delay: 2000,                     // ms to wait before showing the popup (0 = instant, 3000 = 3s, etc.)
