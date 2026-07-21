@@ -7140,6 +7140,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 523,
-  totalDownloads: 1897
+  totalUsers: 592,
+  totalDownloads: 1934
 };
