@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EXELEAKS — Free FiveM Resources</title>
+<meta name="description" content="Browse and download free FiveM scripts, MLOs, clothes, mods and vehicles.">
+<link rel="icon" href="assets/logo.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ===================== TOP NAV ===================== -->
+<header class="topnav">
+  <div class="wrap">
+    <a href="#" class="brand">
+      <img src="assets/logo.png" alt="">
+      <span class="brand-name">EXE<span>LEAKS</span></span>
+    </a>
+    <nav class="nav-links">
+      <a href="#" class="active">Home</a>
+      <a href="#browse">Browse</a>
+      <a href="#" id="about-link">About</a>
+      <a href="#" id="rules-link">Rules</a>
+    </nav>
+    <div class="nav-cta">
+      <a href="https://discord.gg/2DFjaC7YBQ" class="btn btn-ghost btn-sm">Join Discord</a>
+      <a href="https://discord.gg/YaTjhpgWXW" class="btn btn-pink btn-sm">CREATE TICKET</a>
+    </div>
+  </div>
+</header>
+
+<!-- ===================== STATS STRIP ===================== -->
+<section class="stats-strip">
+  <div class="wrap">
+    <div class="stats-group">
+      <div class="stat">
+        <span class="stat-label">Total Users</span>
+        <span class="stat-value" id="stat-users">—</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">Total Resources</span>
+        <span class="stat-value" id="stat-resources">—</span>
+      </div>
+      <div class="stat">
+        <span class="stat-label">Total Downloads</span>
+        <span class="stat-value" id="stat-downloads">—</span>
+      </div>
+    </div>
+    <div class="premium-banner">
+      <div class="icon-box">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 2L14.5 9H22L16 13.5L18.5 21L12 16.5L5.5 21L8 13.5L2 9H9.5L12 2Z" fill="#1a0714"/></svg>
+      </div>
+      <div class="premium-copy">
+        <strong>Boost our discord</strong>
+        <span>Become a Booster & Enjoy exclusive scripts</span>
+      </div>
+      <a href="https://discord.gg/DUUzFHn2x5" class="btn btn-pink btn-sm">Boost Now</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== HERO ===================== -->
+<section class="hero">
+  <div class="wrap">
+    <span class="eyebrow">● ALL SYSTEMS OPERATIONAL</span>
+    <h1>EXE LEAKS<br><span class="accent">What They Sell, We Drop</span></h1>
+    <p class="lead">We focus on accessibility, simplicity, and performance.No unnecessary barriers. No clutter. Just direct access to resources.</p>
+    <div class="hero-search">
+      <input type="text" id="hero-search-input" placeholder="Search by name, words, or category…">
+      <button class="btn btn-violet" id="hero-search-btn">Search</button>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== BROWSE ===================== -->
+<main class="browse" id="browse">
+  <div class="wrap">
+    <h2 class="section-heading">Browse resources</h2>
+    <div class="browse-layout">
+
+      <!-- Sidebar filters -->
+      <aside class="sidebar">
+        <div class="filter-block">
+          <div class="filter-label">Search</div>
+          <div class="search-box">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+            <input type="text" id="sidebar-search" placeholder="Search by name, words, or path">
+          </div>
+        </div>
+
+        <div class="filter-block">
+          <div class="filter-label">Sort by</div>
+          <select class="select" id="sort-select">
+            <option value="newest">Newest First</option>
+            <option value="downloads">Most Downloaded</option>
+            <option value="rating">Top Rated</option>
+            <option value="name">Name A–Z</option>
+          </select>
+        </div>
+
+        <div class="filter-block">
+          <div class="filter-label">Category</div>
+          <div id="category-filters"></div>
+        </div>
+
+        <div class="filter-block">
+          <div class="filter-label">Pricing</div>
+          <div id="pricing-filters"></div>
+        </div>
+      </aside>
+
+      <!-- Results -->
+      <div class="results">
+        <div class="results-bar">
+          <div class="results-count"><strong id="results-total">0</strong> releases</div>
+          <div class="show-group">
+            SHOW
+            <button class="show-btn" data-show="20">20</button>
+            <button class="show-btn" data-show="50">50</button>
+            <button class="show-btn" data-show="100">100</button>
+          </div>
+        </div>
+
+        <div class="grid" id="resource-grid"></div>
+
+        <div class="pagination" id="pagination"></div>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="site-footer" id="about">
+  <div class="wrap footer-row">
+    <span>© 2026 EXE LEAKS. All rights reserved.</span>
+
+<!-- ===================== MODAL ===================== -->
+<div class="modal-overlay" id="modal-overlay" hidden>
+  <div class="modal" id="modal" role="dialog" aria-modal="true"></div>
+</div>
+
+<!-- ===================== PROMO POPUP AD ===================== -->
+<div class="promo-overlay" id="promo-overlay" hidden>
+  <div class="promo-modal" id="promo-modal" role="dialog" aria-modal="true">
+    <button class="promo-close" id="promo-close" aria-label="Close">&times;</button>
+    <a href="#" class="promo-banner" id="promo-banner-link" target="_blank" rel="noopener">
+      <img src="" alt="" id="promo-banner-img">
+    </a>
+    <audio id="promo-audio" loop preload="auto"></audio>
+    <div class="promo-audio-row">
+      <button class="promo-mute" id="promo-mute" aria-label="Mute">🔊</button>
+      <input type="range" id="promo-volume" class="promo-volume" min="0" max="1" step="0.01" value="0.5" aria-label="Volume">
+    </div>
+    <div class="promo-footer">
+      <label class="promo-checkbox">
+        <input type="checkbox" id="promo-dont-show">
+        <span>Don't show this again</span>
+      </label>
+      <a href="#" class="btn btn-violet btn-sm" id="promo-cta" target="_blank" rel="noopener">Go to the website</a>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== TOAST NOTIFICATION ===================== -->
+<div class="toast" id="toast" hidden>
+  <span class="toast-icon" id="toast-icon"></span>
+  <div class="toast-copy">
+    <strong id="toast-title"></strong>
+    <span id="toast-sub"></span>
+  </div>
+</div>   
+<script src="assets/data.js"></script>
+<script src="assets/script.js"></script>
+</body>
+</html>
