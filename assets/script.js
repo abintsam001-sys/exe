@@ -28,7 +28,7 @@ const ICONS = {
    ============================================================ */
 const PROMO_AD = {
   enabled: true,               // set to false to turn the popup off entirely
-  media: "https://cdn.discordapp.com/attachments/1259856192969113600/1529205688121819357/0721_11.gif?ex=6a611747&is=6a5fc5c7&hm=d5be8b58a0a30ca364eb13542a7345c79ef4dae6e2965bc8c23073866100c8ac&", // banner shown in the popup — .png, .jpg, .gif, or .mp4 all work fine, just paste the link
+  media: "https://cdn.discordapp.com/attachments/1523253714243158077/1529607586079445103/0721_11.gif?ex=6a628d93&is=6a613c13&hm=a9478de2d3ad41b06c1233fe3bf7f310b4bd988d3af8cdc3bcf042b232892c91&", // banner shown in the popup — .png, .jpg, .gif, or .mp4 all work fine, just paste the link
   link: "https://discord.gg/ZvMMnrJys9", // where clicking the banner / button goes
   buttonText: "join our discord",
   delay: 2000                      // ms to wait before showing the popup (0 = instant, 3000 = 3s, etc.)
