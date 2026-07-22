@@ -103,6 +103,7 @@ const RESOURCES = [
     category: "MLO",
     tagline: "free",
     frameworks: ["Leaked"],
+    video: "https://youtu.be/ispe3QsnfSA?si=kVd-FhRLs3GfNopN",
     preview: "https://youtu.be/ispe3QsnfSA?si=bFDL8Z8bQzHINwt8",
     price: "FREE",
     date: "2026-07-22",
