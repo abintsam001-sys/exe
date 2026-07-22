@@ -1092,7 +1092,7 @@ const RESOURCES = [
     preview: "https://youtu.be/d4631k4M9CQ?si=RCLGvURvb82Z7Fhz",
     price: "FREE",
     date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 58 },
     link: "https://mega.nz/file/sj02jZrY#RJhI6X4wro71bBY-lTGGbl6ME7n2JGRKC3pJcIhEGIo",
     linkLabel: "GET SCRIPT"
   },
@@ -1109,7 +1109,7 @@ const RESOURCES = [
     preview: "https://youtu.be/BtlFbDIsiUo?si=isyuOG1gG3y2Efry",
     price: "FREE",
     date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 73 },
     link: "https://mega.nz/file/QMs2zaBT#nqw2ivIaCylfkl2NJQGwUa2uHnqDxDBwo69Co-J7MkI",
     linkLabel: "GET SCRIPT"
   },
@@ -1126,7 +1126,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=cyeDOaIQaW0",
     price: "FREE",
     date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 65 },
     link: "https://mega.nz/file/YENFUKyK#mD9Jk_EqhxDg1uginfWrylN1B78fVUWLhBQUr3RdCfM",
     linkLabel: "GET SCRIPT"
   },
@@ -1142,8 +1142,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/tHtqKNvYmp0?si=G-xoV7Kr7k5aVCpf",
     price: "FREE",
-    date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-13",
+    stats: { stars: 3, downloads: 120 },
     link: "https://mega.nz/file/kRtkRZQK#CuJUK2L78pnUDgD5Nv4JKgcupTlkxpItre3Fih6Ejz8",
     linkLabel: "GET SCRIPT"
   },
@@ -1159,8 +1159,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtube.com/watch?v=9QpGMCcQXwU",
     price: "FREE",
-    date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-13",
+    stats: { stars: 2, downloads: 95 },
     link: "https://mega.nz/file/RM11ATBB#hAxSOIuN1k1nZRihALiTuX4Nn09F94FFdFaaZLOCQ2o",
     linkLabel: "GET SCRIPT"
   },
@@ -1176,8 +1176,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtube.com/watch?v=dujyee7LX_o",
     price: "FREE",
-    date: "2026-07-14",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-13",
+    stats: { stars: 4, downloads: 180 },
     link: "https://mega.nz/file/IdtDAZCR#yDm9brs7V_UPbCdr-bJndYhIgXa1MB5R_zQMbYdvZa4",
     linkLabel: "GET SCRIPT"
   },
@@ -1194,7 +1194,7 @@ const RESOURCES = [
     preview: "https://youtu.be/VaZCr6zyf2c?si=bQ-g9x3PSYTp-fIV",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 140 },
     link: "https://www.mediafire.com/file/7pemov4nohkqhmq/17mov_BuilderJob.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1211,7 +1211,7 @@ const RESOURCES = [
     preview: "https://youtu.be/3Kk18KtSs8Y?si=LEplKHI15vrESDoN",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 52 },
     link: "https://www.mediafire.com/file/q9etxin2xnwolwj/17mov_WindowCleaning.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1228,7 +1228,7 @@ const RESOURCES = [
     preview: "https://youtu.be/k2-2HXlTko8?si=d7ezQdjP3wxPOmgl",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 88 },
     link: "https://www.mediafire.com/file/t94sbztpsoil51w/17mov_Electrician.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1245,7 +1245,7 @@ const RESOURCES = [
     preview: "https://youtu.be/lwYDi0C1pPM?si=lzG2yDB5IIkRz3WV",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 200 },
     link: "https://www.mediafire.com/file/dp1ogyassz39d3b/17mov_FpsBooster.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1262,7 +1262,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=52QhK27XyC0",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 165 },
     link: "https://www.mediafire.com/file/n4qqtnidzpheruh/17mov_Hud.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1279,7 +1279,7 @@ const RESOURCES = [
     preview: "https://youtu.be/FswlE5HWw6E?si=TmqKZTAZ6qVAfc9l",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 130 },
     link: "https://www.mediafire.com/file/2oi9o29ysaam9s8/17mov_TreasureHunter.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1296,7 +1296,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=7eu7NmkHPNM",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 77 },
     link: "https://mega.nz/file/xJNAxQBK#8OQHgUDJOCR23Fr8U3EG4TrTWAcemJy78o88ej0gLNw",
     linkLabel: "GET SCRIPT"
   },
@@ -1313,7 +1313,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=Oi1wjulAIqo",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 60 },
     link: "https://mega.nz/file/oVVXFKzL#yBDuufZPIPgQZbT1jMwWezo_V5EHEwBWaWiDTiWfQhI",
     linkLabel: "GET SCRIPT"
   },
@@ -1330,7 +1330,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=oAOZlVVBB4w",
     price: "FREE",
     date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 175 },
     link: "https://mega.nz/file/MBlj2QSL#V6zXXVik_jaes_V4vC_oGZUPznrRp36B3DjcS16xZSw",
     linkLabel: "GET SCRIPT"
   },
@@ -1346,8 +1346,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/aK2e3ImPqos?si=CRYNb5gZrFK9tlg-",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 5, downloads: 195 },
     link: "https://mega.nz/file/hA1TULqD#Qx6Qh883UWrfZJw6Fo0KVBuiPx56q_6n-BmtOMlBamI",
     linkLabel: "GET SCRIPT"
   },
@@ -1363,8 +1363,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/HeTvdxoete4?si=g2BSW8tFJFIFu3wb",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 3, downloads: 110 },
     link: "https://mega.nz/file/4m9hnKpb#mQqQ_1bgeWP60QKPe0XDlRsoW2TEDQvhMV_wh5D_x4A",
     linkLabel: "GET SCRIPT"
   },
@@ -1380,8 +1380,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/4Zp2tbT2G1Y",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 2, downloads: 85 },
     link: "https://mega.nz/file/IJNWjSID#Y0tNIRqYvB053OrdvaAjQuHBcnWuMDyHvmlGtlyMbfo",
     linkLabel: "GET SCRIPT"
   },
@@ -1397,8 +1397,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/o1VyWwgostM?si=sWKaU83bg-_AwpBx",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 1, downloads: 55 },
     link: "https://drive.google.com/file/d/1M0NgqaVZlGpWpuCyyPNdABsPlMlyk1sV/view",
     linkLabel: "GET SCRIPT"
   },
@@ -1414,8 +1414,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://www.youtube.com/watch?v=E728bjYDkfE",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 4, downloads: 160 },
     link: "https://drive.google.com/file/d/1tFbm1mvAD1BHlJpweNm4YDDF-ahsFaOR/view",
     linkLabel: "GET SCRIPT"
   },
@@ -1431,8 +1431,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/Yi-ITb4EG9M",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 1, downloads: 62 },
     link: "https://drive.google.com/file/d/1s6gLLs0jckOiuaJkeH197eNiB9yubneB/view",
     linkLabel: "GET SCRIPT"
   },
@@ -1448,8 +1448,8 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     preview: "https://youtu.be/Foq9Z_Dazi4",
     price: "FREE",
-    date: "2026-07-13",
-    stats: { stars: 96, downloads: 3100 },
+    date: "2026-07-12",
+    stats: { stars: 2, downloads: 78 },
     link: "https://drive.google.com/file/d/1R91rzSdPVvqB4NV3GdsYURf5ZvKBWXPz/view",
     linkLabel: "GET SCRIPT"
   },
@@ -1466,7 +1466,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=W003olh5hoY",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 115 },
     link: "https://mega.nz/file/0dlH1K7R#Gx2TSEK2YrzNs5lijB4_prjvYO5Mh5UqNS2vKE-XGgc",
     linkLabel: "GET SCRIPT"
   },
@@ -1483,7 +1483,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 170 },
     link: "https://www.mediafire.com/file/18u7mpi52te560d/Eiffel_Tower.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1500,7 +1500,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 54 },
     link: "https://www.mediafire.com/file/3r1lffro7u73r7a/rrghost2021wb.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1517,7 +1517,7 @@ const RESOURCES = [
     preview: "https://youtu.be/L4pnQo-Y26I?si=PHJTStdJZZ2GWQMu",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 198 },
     link: "https://mega.nz/folder/g6EV1LLJ#_FVD1h-nK8bSFL97wtaaeQ",
     linkLabel: "GET SCRIPT"
   },
@@ -1534,7 +1534,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 132 },
     link: "https://www.mediafire.com/file/2kpu6fr6l99b1gd/DivinedDrillDances.pack.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1551,7 +1551,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 84 },
     link: "https://www.mediafire.com/file/hdli92814lfzewl/4EVR+(1).zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1568,7 +1568,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=MAxp6S0kxdk",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 176 },
     link: "https://drive.usercontent.google.com/download?id=1chj9GFw-Hwomrb10i796F3eHIKh7at1K&export=download&authuser=0",
     linkLabel: "GET SCRIPT"
   },
@@ -1585,7 +1585,7 @@ const RESOURCES = [
     preview: "https://youtu.be/6h7x1vJoxAw?si=8WZie1JYrHSAqE89",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 59 },
     link: "https://mega.nz/file/sMchTJLZ#TGRb5Zs6-qTGZX5FvUGisyuO2ZLN2bue_sxArYZv53M",
     linkLabel: "GET SCRIPT"
   },
@@ -1602,7 +1602,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 125 },
     link: "https://www.mediafire.com/file/a7c4b0fdxxlmsie/Sp5der_TideFN-20230702T230153Z-001.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1619,7 +1619,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 96 },
     link: "https://www.mediafire.com/file/31j1heahlqb84qx/manssf90.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1636,7 +1636,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 168 },
     link: "https://www.mediafire.com/file/9jf750jgpm63p2y/Slippers_Baby_Shark.rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1653,7 +1653,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=v2Kp0iCY-ZE",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 190 },
     link: "https://mega.nz/file/5E80yIZS#M2H_M2kjdFle5bdCXByP52uBbzObQCdSpI4NiS5SBGE",
     linkLabel: "GET SCRIPT"
   },
@@ -1670,7 +1670,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 57 },
     link: "https://www.mediafire.com/file/jgh4hssx528u49j/891636363_SPLASHStaffVestPack.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1687,7 +1687,7 @@ const RESOURCES = [
     preview: "",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 82 },
     link: "https://www.mediafire.com/file/gcnjkangu8i9us4/JMB_Customs_-_2019_Chevrolet_YoungDrama_Tahoe+(1).rar/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1704,7 +1704,7 @@ const RESOURCES = [
     preview: "https://youtube.com/watch?v=ETkfm21N2hw",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 118 },
     link: "https://mega.nz/file/tipj3SbD#hf0202DMhO_ZF2jTaXtwUqC4TVElzAXubGx10qqP6jo",
     linkLabel: "GET SCRIPT"
   },
@@ -1721,7 +1721,7 @@ const RESOURCES = [
     preview: "https://youtu.be/MI4IJtbuQII?si=CcUCrMpJtQdcWQN3",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 172 },
     link: "https://mega.nz/file/NRFiEIaC#8y7g4Q-v0PjmKTMcvOkF4RemBTYRRH3tkxtKbuDvR1E",
     linkLabel: "GET SCRIPT"
   },
@@ -1738,7 +1738,7 @@ const RESOURCES = [
     preview: "https://youtu.be/vk5-KX1bHvo?si=W6QBTKoYXqB_dJYU",
     price: "FREE",
     date: "2026-07-12",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 89 },
     link: "https://mega.nz/file/5QkXgAaS#KuVPyWZ8n_ZvEG1WscnGmpl3eAmOefMGYXC6da58vAY",
     linkLabel: "GET SCRIPT"
   },
@@ -1755,7 +1755,7 @@ const RESOURCES = [
     preview: "https://youtu.be/F-G6tR1lw8o?si=2sv62a9NKFkoMhKM",
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 53 },
     link: "https://mega.nz/file/pF1hTY7Q#vtZGuGL8PZb94giSWDO6u3wDpexn-47-haCVhnCaHZ0",
     linkLabel: "GET SCRIPT"
   },
@@ -1772,7 +1772,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 199 },
     link: "https://mega.nz/file/EANDiLqR#vV_Y_yxYijG0zsPm96nnuA34a7hKVDgsK_3KKlIoea4",
     linkLabel: "GET SCRIPT"
   },
@@ -1789,7 +1789,7 @@ const RESOURCES = [
     price: "FREE",
     preview: "https://youtu.be/9C0yCsT4PHs?si=FyGTihOaO3-9d6dE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 135 },
     link: "https://mega.nz/file/5ywWhARL#MVeXRYBnN0nnf2ZaI2qFvqh0Zn50d7LP33m5rczaXko",
     linkLabel: "GET SCRIPT"
   },
@@ -1806,7 +1806,7 @@ const RESOURCES = [
     preview: "https://youtu.be/le2wIVSbjaY?si=99keGUZeYBMloU0a",
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 91 },
     link: "https://drive.google.com/file/d/1yMLN8kHMeX5e-YFtcK_ufaYSLhO_ZgEy/view",
     linkLabel: "GET SCRIPT"
   },
@@ -1823,7 +1823,7 @@ const RESOURCES = [
     preview: "https://youtu.be/gmjGnR6upBU?si=JzrpAgzn5_O4LKns",
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 180 },
     link: "https://mega.nz/file/Uzpy2LjK#WhXISh8SPApleIgzXUi7VvA_ziVi3oiMHDV-iO4_Luw",
     linkLabel: "GET SCRIPT"
   },
@@ -1840,7 +1840,7 @@ const RESOURCES = [
     price: "FREE",
     preview: "https://youtu.be/qcN0jAS2U5M?si=FnqPK8O9g0Wj83Ux",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 61 },
     link: "https://mega.nz/file/kUVXRKaY#BONEVSQuvvzH0MIBX82VV0XQg_asaVaLQzh0H-domrs",
     linkLabel: "GET SCRIPT"
   },
@@ -1856,7 +1856,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 128 },
     link: "https://mega.nz/file/1JkWkRjB#6ESofVSWhJq9MvrBupUMGT16b6p4dzPwU0ZGwGBQejI",
     linkLabel: "GET SCRIPT"
   },
@@ -1872,7 +1872,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 87 },
     link: "https://mega.nz/file/1F80ADiL#JAjGzTKVnVCehrr3MIlz21YKwdseVJAbgMFztu005Yo",
     linkLabel: "GET SCRIPT"
   },
@@ -1888,7 +1888,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 162 },
     link: "https://mega.nz/file/dMkHjD4D#BK1ixWjeYclc47M_o2X2gnxyPc6wwydp525mx52l6vM",
     linkLabel: "GET SCRIPT"
   },
@@ -1905,7 +1905,7 @@ const RESOURCES = [
     price: "FREE",
     preview: "https://youtu.be/N7S6DnD0bzE?si=z9t0oAN6S4xQa5wo",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 194 },
     link: "https://mega.nz/file/SCRADDbQ#MH4w9Ra42dkN3n37a6ZyolCKmvXIPJ7NTCsZ91oo8ak",
     linkLabel: "GET SCRIPT"
   },
@@ -1922,7 +1922,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 56 },
     link: "https://mega.nz/file/EvtVDRhZ#UKjzLc_TedVLLWgA8hVo00BM0DrUskmCEwVc_wB4CL0",
     linkLabel: "GET SCRIPT"
   },
@@ -1939,7 +1939,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-11",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 80 },
     link: "https://www.mediafire.com/file/mar0d6plip1bres/17mov_Phone.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -1955,7 +1955,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-10",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 122 },
     link: "https://mega.nz/file/duoQEQob#4w1QQqTQrXfy-KxmNZ6MZwnn7jA1lNe-4JKwEB_uV5g",
     linkLabel: "GET SCRIPT"
   },
@@ -1971,7 +1971,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-10",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 4, downloads: 169 },
     link: "https://mega.nz/file/syB0VDjA#x6KOuMqdFEfUkpUTITttCkwn10U6xNq7W-TD_5PKwyU",
     linkLabel: "GET SCRIPT"
   },
@@ -1987,7 +1987,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-10",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 93 },
     link: "https://mega.nz/file/QIlhlJ4C#clplZqNglPEu-sfqDX4242yjfHqKW22cRZB3DQ22OGU",
     linkLabel: "GET SCRIPT"
   },
@@ -2003,7 +2003,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-10",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 1, downloads: 58 },
     link: "https://mega.nz/file/dVNjmLRb#pKDkvhIROy9Unl6Y-HyidPuYbW5y5R_gEtBPbxMZMbo",
     linkLabel: "GET SCRIPT"
   },
@@ -2019,7 +2019,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-10",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 5, downloads: 197 },
     link: "https://drive.google.com/file/d/1MmCJ1jGCVvJ3Udyjzr8ON5dJRa_VzmWS/view",
     linkLabel: "GET SCRIPT"
   }, 
@@ -2035,7 +2035,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-09",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 3, downloads: 138 },
     link: "https://www.mediafire.com/file/go72jn449fxqudn/yseries-v1.1.3.pack.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -2051,7 +2051,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-09",
-    stats: { stars: 96, downloads: 3100 },
+    stats: { stars: 2, downloads: 86 },
     link: "https://github.com/Oph3Z1/real-bank",
     linkLabel: "GET SCRIPT"
   },
@@ -2067,7 +2067,7 @@ const RESOURCES = [
     frameworks: ["Leaked"],
     price: "FREE",
     date: "2026-07-09",
-    stats: { stars: 66, downloads: 322 },
+    stats: { stars: 4, downloads: 174 },
     link: "https://www.mediafire.com/file/dtyd6nmsh0ewezc/p_policejob.zip/file",
     linkLabel: "GET SCRIPT"
   },
@@ -7140,6 +7140,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 592,
-  totalDownloads: 1934
+  totalUsers: 673,
+  totalDownloads: 2328
 };
