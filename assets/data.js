@@ -26,6 +26,144 @@
 
 const RESOURCES = [
   {
+    id: "Boombox | stg-boombox [ESX][QB]",
+    name: "Boombox | stg-boombox [ESX][QB]",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://forum-cfx-re.akamaized.net/optimized/4X/2/f/f/2ff96e32b367dc648463612c693307e3736d35a8_2_690x388.jpeg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/n0oSxW3wkIA?si=GS52D-HVIGSuBWQ0",
+    video: "https://youtu.be/n0oSxW3wkIA?si=GS52D-HVIGSuBWQ0",
+    gallery: [                                    // ← add these
+    "https://forum-cfx-re.akamaized.net/optimized/4X/4/3/7/43746d3cc8cbd65d50961d988a4449566612afa8_2_690x388.jpeg",
+    "https://forum-cfx-re.akamaized.net/optimized/4X/6/c/f/6cff1d7abe2e2b6c66a96f0ad5f3aff23a708f7b_2_690x388.jpeg",
+    "https://forum-cfx-re.akamaized.net/optimized/4X/8/3/2/83258fb09b22e586ae839b3bbc3363300415f1db_2_690x388.jpeg"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 118 },
+    link: "https://www.mediafire.com/file/rdbat3t4jknh0c8/stg-boombox.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Li Tower - all in one",
+    name: "Li Tower - all in one",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/e832c0efab9c4b04fd8beb45ad78b23f54ca3b05.png",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/-69LOy-zzvI?si=jCjvLS2tBKh2SoxY",
+    video: "https://youtu.be/-69LOy-zzvI?si=jCjvLS2tBKh2SoxY",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1508916/03b6ce92070e43bc6b0ff00e7ff0f5d4650d6a32.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1508916/3c4dd9f9e1d5767161f1e1ec35920aea7762e20a.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1508916/2108b62f2c46f3172ec2298d683b655a55b6f57b.png"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 68 },
+    link: "https://www.mediafire.com/file/kctm6rr2296mlyh/x_tower.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Stock Market Interior",
+    name: "Stock Market Interior",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/c7119cbcf7dae18d1c03cff32ab90106067c8ac8.png",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/-mN74LtVAzs?si=LNqAmzaWrEeW-EuW",
+    video: "https://youtu.be/-mN74LtVAzs?si=LNqAmzaWrEeW-EuW",
+    gallery: [                                    // ← add these
+    "https://i.imgur.com/ncl4srN.png",
+    "https://i.imgur.com/Z8OVR0Z.png",
+    "https://i.imgur.com/Y3wodbr.png"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 72 },
+    link: "https://www.mediafire.com/file/mo924yitj8p88w3/ds_stock_market.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Elysian Height",
+    name: "Elysian Height",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/f34514117ac9b47e9bba6cfacb2a7be4565c14f7.png",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/IONeQqcuUY8?si=TUGOJkuVuqR4I3iT",
+    video: "https://youtu.be/IONeQqcuUY8?si=TUGOJkuVuqR4I3iT",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/79f63f68d439e6d8bda76a5d724b794a69c7f9eb.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/b89e7f09c64b619a68d861dea208500c7da4d98c.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/e816ee24075acf57c5cfefa05fdf29a3ede3b0b7.jpg"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 83 },
+    link: "https://www.mediafire.com/file/4uznoo1vyfhgrov/elysian_height.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Nikola Gang Hood",
+    name: "Nikola Gang Hood",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/cde434340bfcf181e6a1c9dd5b01d78176436eee.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/flxF7unqsH0?si=_3aLNQlbGbviT-ym",
+    video: "https://youtu.be/flxF7unqsH0?si=_3aLNQlbGbviT-ym",
+    gallery: [                                    // ← add these
+    "https://forum-cfx-re.akamaized.net/optimized/5X/3/6/a/2/36a273e4c141458d6a518145f8cb04d259021157_2_690x388.jpeg",
+    "https://forum-cfx-re.akamaized.net/optimized/5X/7/c/8/e/7c8e4fd135363347b4d9aed3a9b230e905f4d0b6_2_690x393.jpeg",
+    "https://forum-cfx-re.akamaized.net/optimized/5X/1/c/b/d/1cbdfa643042a0b1dc1e013f38ef4a049c261ae3_2_690x387.jpeg"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 101 },
+    link: "https://www.mediafire.com/file/1sljp2ykigm0oi9/tanaya-nikola.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "[MLO] Hotel Cortez",
+    name: "[MLO] Hotel Cortez",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/547ed26fea43956bd4e764d49749db3458cdaafd.png",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/oGuukEluUvg?si=iQ5JSA413yWiDPIk",
+    video: "https://youtu.be/oGuukEluUvg?si=iQ5JSA413yWiDPIk",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/0ef08e00419502ca3390067ae7ba532cf420e661.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/351dac9e6859cfc6fd99651274dcf4636e4e3ebb.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/9a9a543cabdd4df2671be4227f45fa0662e4c854.jpg"
+  ],
+    price: "FREE",
+    date: "2026-07-23",
+    stats: { stars: 0, downloads: 121 },
+    link: "https://www.mediafire.com/file/hfybn3xlydis2ev/richards_hotel_cortez.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Cyber Punk - V1.0",
     name: "Cyber Punk - V1.0",
     version: "",
@@ -7230,6 +7368,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 673,
+  totalUsers: 698,
   totalDownloads: 2328
 };
