@@ -30,7 +30,7 @@ const PROMO_AD = {
   enabled: true,               // set to false to turn the popup off entirely
   media: "https://cdn.discordapp.com/attachments/1526311936931926166/1530632382963519538/PulseVPS_entrance_optimized.webp?ex=6a6647fd&is=6a64f67d&hm=e98bf2eecdf5f19f15a2fd80b3428b3fd2ba72e12814a7757148b5617b17c05d&", // banner shown in the popup — .png, .jpg, .gif, or .mp4 all work fine, just paste the link
   link: "https://vpspulse.com/", // where clicking the banner / button goes
-  buttonText: "join our discord",
+  buttonText: "visit now",
   delay: 2000                      // ms to wait before showing the popup (0 = instant, 3000 = 3s, etc.)
 };
 
