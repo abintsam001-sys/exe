@@ -26,6 +26,92 @@
 
 const RESOURCES = [
   {
+    id: "FRKN-DOORLOCK V2",
+    name: "FRKN-DOORLOCK V2",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/S7EOEgc1nMY/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/S7EOEgc1nMY?si=DMlrvdyKE79TR6Mw",
+    video: "https://youtu.be/S7EOEgc1nMY?si=DMlrvdyKE79TR6Mw",
+    gallery: [                                    // ← add these
+    "https://forum-cfx-re.akamaized.net/optimized/5X/2/2/b/4/22b46bb396b4d1fcdecf72ee441758b3e820272c_2_1380x774.jpeg",
+    "https://forum-cfx-re.akamaized.net/original/5X/c/f/6/1/cf61faca7306582d07c7451c373b031a2b75995a.jpeg",
+    "https://forum-cfx-re.akamaized.net/original/5X/6/8/b/d/68bd1ea9b3c2ad8b1e73a6c3b7f0d69c2091d169.jpeg"
+  ],
+    price: "FREE",
+    date: "2026-07-25",
+    stats: { stars: 0, downloads: 78 },
+    link: "https://www.mediafire.com/file/8xk4a3mglyrvpe2/FRKN+_+DOORLOCK+V2.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Frkn-Waypoint ",
+    name: "Frkn-Waypoint ",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.ytimg.com/vi_webp/f6QJIQ6kqeA/maxresdefault.webp",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/f6QJIQ6kqeA?si=HQ49leQ_pKmZBGMn",
+    video: "https://youtu.be/f6QJIQ6kqeA?si=HQ49leQ_pKmZBGMn",
+    gallery: [                                    // ← add these
+    "https://i.ibb.co/x8jpnYsd/frkn-waypoint-v3-01-all-styles.png",
+    "https://i.ibb.co/d49nmJ36/frkn-waypoint-v3-03-meter-only.png",
+    "https://i.ibb.co/nMP5qgv0/frkn-waypoint-v3-05-arrow-only.png"
+  ],
+    price: "FREE",
+    date: "2026-07-25",
+    stats: { stars: 0, downloads: 45 },
+    link: "https://www.mediafire.com/file/jla8zn2k6iy0elk/frkn-waypoint.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "wais outfitbag",
+    name: "wais outfitbag",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.ytimg.com/vi_webp/jaY5F3HXze8/maxresdefault.webp",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/jaY5F3HXze8?si=gcevyKT0wkKBVXuP",
+    video: "https://youtu.be/jaY5F3HXze8?si=gcevyKT0wkKBVXuP",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-25",
+    stats: { stars: 0, downloads: 51 },
+    link: "https://www.mediafire.com/file/vavouqgs33qlyj0/wais-outfitbag.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "vms_identity",
+    name: "vms_identity",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/MMMTZ6YCtI4/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/MMMTZ6YCtI4?si=4CtV4CycytroCzlT",
+    price: "FREE",
+    date: "2026-07-25",
+    stats: { stars: 0, downloads: 21 },
+    link: "https://www.mediafire.com/file/7n4remabees53xi/vms_identity.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Boombox | stg-boombox [ESX][QB]",
     name: "Boombox | stg-boombox [ESX][QB]",
     version: "",
@@ -7368,6 +7454,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 698,
-  totalDownloads: 2328
+  totalUsers: 733,
+  totalDownloads: 2934
 };
