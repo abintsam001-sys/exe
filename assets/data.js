@@ -26,6 +26,29 @@
 
 const RESOURCES = [
   {
+    id: "AshRigs | Marina Deck Resort",
+    name: "AshRigs | Marina Deck Resort",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/55FTtSTkPBk/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/55FTtSTkPBk?si=nSuhESoWMJmYq_8k",
+    video: "https://youtu.be/55FTtSTkPBk?si=nSuhESoWMJmYq_8k",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/1a109733a1c37056300e6811198239b09220bf24.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/beff3f9a2608bb91eb77b9cd06d9445d848c5120.jpg",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/b324a4af255a5aeb9b724f1d57998bdb82caab4a.jpg"
+  ],
+    price: "FREE",
+    date: "2026-07-27",
+    stats: { stars: 0, downloads: 101 },
+    link: "https://www.mediafire.com/file/4naojdxe594xjue/Palm_resort_AshRigs.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Molo | Ammunation",
     name: "Molo | Ammunation",
     version: "",
@@ -54,7 +77,7 @@ const RESOURCES = [
     version: "",
     status: "online",
     badge: "NEW",
-    image: "https://i.postimg.cc/W40yhmgv/a6daea23-e1a8-4925-87d9-127c8b233526.png",
+    image: "https://imgtree.co/direct/qxWwzLxM.webp",
     category: "SCRIPT",
     tagline: "free",
     frameworks: ["Leaked"],
