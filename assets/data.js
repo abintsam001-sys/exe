@@ -26,11 +26,80 @@
 
 const RESOURCES = [
   {
+    id: "Molo | Ammunation",
+    name: "Molo | Ammunation",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/25qfk-qLhEw/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/25qfk-qLhEw?si=OQy7xcHxYgIOBaqd",
+    video: "https://youtu.be/25qfk-qLhEw?si=OQy7xcHxYgIOBaqd",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-27",
+    stats: { stars: 0, downloads: 39 },
+    link: "https://drive.google.com/file/d/1rqSiQDO0NFGfP7WJPMEF17WSwI9h6z-Y/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Cylex Carcontrol,Control panel, Youtube Music play, Neon and Extras",
+    name: "Cylex Carcontrol ,Control panel, Youtube Music play, Neon and Extras",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.postimg.cc/W40yhmgv/a6daea23-e1a8-4925-87d9-127c8b233526.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/rpPGMNfdw3Y?si=mi-I3kyC8DTzOF8f",
+    video: "https://youtu.be/rpPGMNfdw3Y?si=mi-I3kyC8DTzOF8f",
+    gallery: [                                    // ← add these
+    "https://forum-cfx-re.akamaized.net/optimized/4X/5/8/3/583e35061fce2ef0b1a0617e8e648e653f1fd241_2_517x288.png",
+    "https://forum-cfx-re.akamaized.net/optimized/4X/7/0/2/702bc3a7562bd0bcd5db31c577721136e3d2d171_2_517x300.jpeg",
+    "https://forum-cfx-re.akamaized.net/optimized/4X/7/0/2/702bc3a7562bd0bcd5db31c577721136e3d2d171_2_517x300.jpeg"
+  ],
+    price: "FREE",
+    date: "2026-07-27",
+    stats: { stars: 0, downloads: 23 },
+    link: "https://drive.google.com/file/d/1f_5Ys1Fdm5Nkowzyk5-MPIViVmWg-FUz/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Izzy Shop Advanced Admin Menu",
+    name: "Izzy Shop Advanced Admin Menu",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/ihlhto8aRdw/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/ihlhto8aRdw?si=Q1MsYf7BRUXV_QW1",
+    video: "https://youtu.be/ihlhto8aRdw?si=Q1MsYf7BRUXV_QW1",
+    gallery: [                                    // ← add these
+    "https://i.ytimg.com/vi/ar2d53hoJJQ/hqdefault.jpg",
+    "https://cdn.fivemx.com/wp-content/uploads/2024/08/brave_KQBaQBI3qt-jpg.avif",
+    "https://cdn.fivemx.com/wp-content/uploads/2024/08/brave_cnT2AzBypw-jpg.avif"
+  ],
+    price: "FREE",
+    date: "2026-07-27",
+    stats: { stars: 0, downloads: 19 },
+    link: "https://drive.google.com/file/d/1dFR_H48ooUY7pyN4y01byzO_ytmCrqJm/view",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "FRKN-DOORLOCK V2",
     name: "FRKN-DOORLOCK V2",
     version: "",
     status: "online",
-    badge: "NEW",
+    badge: "",
     image: "https://img.youtube.com/vi/S7EOEgc1nMY/maxresdefault.jpg",
     category: "SCRIPT",
     tagline: "free",
@@ -53,7 +122,7 @@ const RESOURCES = [
     name: "Frkn-Waypoint ",
     version: "",
     status: "online",
-    badge: "NEW",
+    badge: "",
     image: "https://i.ytimg.com/vi_webp/f6QJIQ6kqeA/maxresdefault.webp",
     category: "SCRIPT",
     tagline: "free",
@@ -76,7 +145,7 @@ const RESOURCES = [
     name: "wais outfitbag",
     version: "",
     status: "online",
-    badge: "NEW",
+    badge: "",
     image: "https://i.ytimg.com/vi_webp/jaY5F3HXze8/maxresdefault.webp",
     category: "SCRIPT",
     tagline: "free",
@@ -99,7 +168,7 @@ const RESOURCES = [
     name: "vms_identity",
     version: "",
     status: "online",
-    badge: "NEW",
+    badge: "",
     image: "https://img.youtube.com/vi/MMMTZ6YCtI4/maxresdefault.jpg",
     category: "SCRIPT",
     tagline: "free",
@@ -7454,6 +7523,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 733,
-  totalDownloads: 2934
+  totalUsers: 781,
+  totalDownloads: 3127
 };
