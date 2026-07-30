@@ -26,6 +26,75 @@
 
 const RESOURCES = [
   {
+    id: "Avoj - le_fluer",
+    name: "Avoj - le_fluer",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/yCvyS2CY6v8/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/yCvyS2CY6v8",
+    video: "https://youtu.be/yCvyS2CY6v8",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/0349e5b579afaa13a260ee1394b68d0676b79c39.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/b2a4d72160c93b67c0a81c00c45062820040504a.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1351867/75f3a9b035af0b5b9ea4f4cab82b59cc5a608d07.png"
+  ],
+    price: "FREE",
+    date: "2026-07-30",
+    stats: { stars: 0, downloads: 44 },
+    link: "https://www.mediafire.com/file/0t16oysiwj2t7r7/Avoj+-+le_fluer.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Heisenberg56 - secret_villa",
+    name: "Heisenberg56 - secret_villa",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://imgtree.co/direct/pwWhvCNf.webp",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/9QDcvPRDlmo?si=RbEZIinnAiosBF-9",
+    video: "https://youtu.be/9QDcvPRDlmo?si=RbEZIinnAiosBF-9",
+    gallery: [                                    // ← add these
+    "https://imgtree.co/direct/rkQl6ubF.webp",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-30",
+    stats: { stars: 0, downloads: 59 },
+    link: "https://www.mediafire.com/file/x1rv7vkaqf3rac4/Heisenberg56+-+secret_villa.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "10$tore - HIGH_SOCIETY",
+    name: "10$tore - HIGH_SOCIETY",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/ZlepscaPHD4/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/ZlepscaPHD4?si=SqUaKZ2hPBmGXdIB",
+    video: "https://youtu.be/ZlepscaPHD4?si=SqUaKZ2hPBmGXdIB",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-30",
+    stats: { stars: 0, downloads: 39 },
+    link: "https://www.mediafire.com/file/5rducx7z3bkxa2z/10$tore+-+HIGH_SOCIETY.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "AshRigs | Marina Deck Resort",
     name: "AshRigs | Marina Deck Resort",
     version: "",
@@ -7546,6 +7615,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 781,
-  totalDownloads: 3127
+  totalUsers: 813,
+  totalDownloads: 3764
 };
