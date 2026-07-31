@@ -26,6 +26,99 @@
 
 const RESOURCES = [
   {
+    id: "OneSolutions_fort_zankudo",
+    name: "OneSolutions_fort_zankudo",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/_VnI6XFfAXc/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/_VnI6XFfAXc?si=LtaBOgWbx9Ia-Ptf",
+    video: "https://youtu.be/_VnI6XFfAXc?si=LtaBOgWbx9Ia-Ptf",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/4f922136495f97a034c69b879683ec3157e2ebcf.jpg",
+    "https://one-solutions.tebex.io/package/7336459",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/fc26a5d2b0ecde6f48a6adace6f4f6965e5d1d25.jpg"
+  ],
+    price: "FREE",
+    date: "2026-07-31",
+    stats: { stars: 0, downloads: 18 },
+    link: "https://www.mediafire.com/file/4kqavm0jb7xpet0/OneSolutions_fort_zankudo.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "rfc_empire_turbo",
+    name: "rfc_empire_turbo",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/7CdwrxejH90/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/7CdwrxejH90?si=ZplX9xCxCTYtIspw",
+    video: "https://youtu.be/7CdwrxejH90?si=ZplX9xCxCTYtIspw",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1026389/f8831b71c6ed7792234e622c38bc54c0d4cdf2a2.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1026389/c0a433d0e20d06da2049e914b0361c3272eb651b.png",
+    "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1026389/e1a80952c8b157ffe254b7522d6f44a3785fe0ad.png"
+  ],
+    price: "FREE",
+    date: "2026-07-31",
+    stats: { stars: 0, downloads: 24 },
+    link: "https://www.mediafire.com/file/hvsqkqr48fgvx4a/rfc_empire_turbo.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  
+  {
+    id: "asgard_noose",
+    name: "asgard_noose",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/Ro8BARyzH7k/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/Ro8BARyzH7k?si=TteAUHHfuBHtlf_o",
+    video: "https://youtu.be/Ro8BARyzH7k?si=TteAUHHfuBHtlf_o",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-31",
+    stats: { stars: 0, downloads: 21 },
+    link: "https://www.mediafire.com/file/gs1a0kdfuvnbecz/asgard_noose.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Pazeee_NewRoleplayEmoteV2",
+    name: "Pazeee_NewRoleplayEmoteV2",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/9nv5137tgyk/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/9nv5137tgyk?si=uBUB7K9QvtAWAJTc",
+    video: "https://youtu.be/9nv5137tgyk?si=uBUB7K9QvtAWAJTc",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-07-31",
+    stats: { stars: 0, downloads: 33 },
+    link: "https://www.mediafire.com/file/vwr8ifnzpsczndg/Pazeee_NewRoleplayEmoteV2.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Avoj - le_fluer",
     name: "Avoj - le_fluer",
     version: "",
@@ -7615,6 +7708,6 @@ const CATEGORIES = [
 ];
 
 const SITE_STATS = {
-  totalUsers: 813,
-  totalDownloads: 3764
+  totalUsers: 867,
+  totalDownloads: 3867
 };
