@@ -27,7 +27,7 @@ const ICONS = {
    PROMO POPUP AD — edit everything in this block
    ============================================================ */
 const PROMO_AD = {
-  enabled: true,               // set to false to turn the popup off entirely
+  enabled: false,               // set to false to turn the popup off entirely
   media: "https://imgtree.co/direct/0Vgp3zQM.webp", // banner shown in the popup — .png, .jpg, .gif, or .mp4 all work fine, just paste the link
   link: "https://vpspulse.com/", // where clicking the banner / button goes
   buttonText: "visit now",
