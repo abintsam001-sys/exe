@@ -43,7 +43,7 @@ const RESOURCES = [
     ""
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 43 },
     link: "https://www.mediafire.com/file/wqqcca9pom40pkz/bablo-pausemenu.zip/file",
     linkLabel: "GET SCRIPT"
@@ -66,7 +66,7 @@ const RESOURCES = [
     "https://forum-cfx-re.akamaized.net/original/5X/4/0/e/4/40e464018e12526ee09f9011369b97257ff7a97d.jpeg"
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 58 },
     link: "https://www.mediafire.com/file/1pzg1wlkodi7e8j/eh_hidden_tree_weedlab.rar/file",
     linkLabel: "GET SCRIPT"
@@ -89,7 +89,7 @@ const RESOURCES = [
     "https://dunb17ur4ymx4.cloudfront.net/packages/images/11be2876b0edb3bf1b4e97e12994a00e81f8c0c2.jpg"
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 49 },
     link: "https://www.mediafire.com/file/tjsdbz0jokm9xif/Lumine_bay.rar/file",
     linkLabel: "GET SCRIPT"
@@ -112,7 +112,7 @@ const RESOURCES = [
     ""
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 39 },
     link: "https://www.mediafire.com/file/gf3hmgcf396ikdl/HITS_Pynk.rar/file",
     linkLabel: "GET SCRIPT"
@@ -135,7 +135,7 @@ const RESOURCES = [
     ""
   ],
     price: "FREE",
-    date: "2026-08-1",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 17 },
     link: "https://www.mediafire.com/file/bb1g4l9ae9n8tci/Shmannworks+-+AirportV2_FiveM.rar/file",
     linkLabel: "GET SCRIPT"
@@ -158,7 +158,7 @@ const RESOURCES = [
     "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1504468/60fc24bbb980a17db317de71aeb6a71efad8bdc0.png"
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 29 },
     link: "https://www.mediafire.com/file/lph1p5nlcakm1xe/surge-Arana_Mansion.zip/file",
     linkLabel: "GET SCRIPT"
@@ -181,7 +181,7 @@ const RESOURCES = [
     ""
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 45 },
     link: "https://www.mediafire.com/file/ro7g80zq0tnynn0/south_la_extension_2.zip/file",
     linkLabel: "GET SCRIPT"
@@ -204,7 +204,7 @@ const RESOURCES = [
     ""
   ],
     price: "FREE",
-    date: "2026-08-2",
+    date: "2026-08-01",
     stats: { stars: 0, downloads: 78 },
     link: "https://www.mediafire.com/file/cj0nnmivcloxjws/avoj+_fussion_autos.rar/file",
     linkLabel: "GET SCRIPT"
