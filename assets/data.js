@@ -50,7 +50,7 @@ const RESOURCES = [
   },
 {
     id: "SkyClub V.3",
-    name: SkyClub V.3"",
+    name: "Skyclub V.3",
     version: "",
     status: "online",
     badge: "NEW",
