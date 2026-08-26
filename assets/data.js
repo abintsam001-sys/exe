@@ -26,6 +26,121 @@
 
 const RESOURCES = [
   {
+    id: "A19Customs | BENEFACTOR KAISER X",
+    name: "A19Customs | BENEFACTOR KAISER X",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/e9fe383986e0fa1ed0ca8e30826d514645418dbc.png",
+    category: "VEHICLES",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "",
+    video: "",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 44 },
+    link: "https://www.mediafire.com/file/z29utte06idvcr5/kaiserx.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "A19Customs | Mechanic MLO",
+    name: "A19Customs | Mechanic MLO",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/yctz-k0wKDU/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/yctz-k0wKDU?si=d0qKbZcubxWfapyW",
+    video: "https://youtu.be/yctz-k0wKDU?si=d0qKbZcubxWfapyW",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 43 },
+    link: "https://www.mediafire.com/file/n6niqhs0gfqjv8d/a19customs_garage.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Biyei | Arena's",
+    name: "Biyei | Arena's",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/5wL0WakN6po/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/5wL0WakN6po?si=ZQ4F3-7rnz82y7ph",
+    video: "https://youtu.be/5wL0WakN6po?si=ZQ4F3-7rnz82y7ph",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 101 },
+    link: "https://www.mediafire.com/file/zhhhgl7xh0qz9ob/biyei_arenas.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "MouMoud | Antigua Island",
+    name: "MouMoud | Antigua Island",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/bb516814c809df622e45cc1920dd42bb33e2a295.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/Fez2YNns2IM",
+    video: "https://youtu.be/Fez2YNns2IM",
+    gallery: [                                    // ← add these
+    "https://imgg.fr/r/0FIGQGo4.jpg",
+    "https://imgg.fr/r/UWr7foV5.jpg",
+    "https://imgg.fr/r/M3CydXNW.jpg"
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 61 },
+    link: "https://mega.nz/file/FMVniILD#ZZx7cOPjn4Qfetvr_VMhjKvHYkLThL3j_K9lLy1vVUg",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Rahe | Boosting",
+    name: "Rahe | Boosting",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/iWOLQZB4cj4/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/iWOLQZB4cj4?si=fKdppIo_XTEP_e-y",
+    video: "https://youtu.be/iWOLQZB4cj4?si=fKdppIo_XTEP_e-y",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 21 },
+    link: "https://mega.nz/file/JI9WDQLR#TEJLINw1wbrU1ulyjM2Zy_fncfrEixXdzv9qNbXU6Z0",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Nano | All In One Restaurant System",
     name: "Nano | All In One Restaurant System",
     version: "",
