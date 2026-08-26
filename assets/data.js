@@ -26,6 +26,75 @@
 
 const RESOURCES = [
   {
+    id: "KKPP PVP FULL SERVER",
+    name: "KKPP PVP FULL SERVER",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.ytimg.com/vi/3mIwocMiNvc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHcCYAC0AWKAgwIABABGE8gTyhlMA8=&rs=AOn4CLDtb9aKAnXtDvhSUM96gqrHgWiAKQ",
+    category: "",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/4qxcdBXqUPk?si=ENfne4sPzyO86Pwk",
+    video: "https://youtu.be/4qxcdBXqUPk?si=ENfne4sPzyO86Pwk",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 59 },
+    link: "https://mega.nz/file/YFMSDCxB#HH9-9CnAbl5MULPUcjb87avTbFERcUA9dQUkmG75elc",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "A19Customs | Obey Kerosene SR6",
+    name: "A19Customs | Obey Kerosene SR6",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://fivevault.net/api/uploads/images/6369faeb-3801-449e-a659-a8e9420cc2a3.webp",
+    category: "VEHICLES",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "",
+    video: "",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 61 },
+    link: "https://www.mediafire.com/file/ly9jiq9pl3jqyg3/kerosenesr6.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "A19Customs | Benefactor Eisen Wide X",
+    name: "A19Customs | Benefactor Eisen Wide X",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/6a95db6f904b936f7a3fdb822c9cec01d2501587.png",
+    category: "VEHICLES",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "",
+    video: "",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 56 },
+    link: "https://www.mediafire.com/file/2wizf9phfwjg8fe/eisenwidex.rar/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "A19Customs | BENEFACTOR KAISER X",
     name: "A19Customs | BENEFACTOR KAISER X",
     version: "",
