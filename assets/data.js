@@ -26,29 +26,6 @@
 
 const RESOURCES = [
   {
-    id: "KKPP PVP FULL SERVER",
-    name: "KKPP PVP FULL SERVER",
-    version: "",
-    status: "online",
-    badge: "NEW",
-    image: "https://i.ytimg.com/vi/3mIwocMiNvc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHcCYAC0AWKAgwIABABGE8gTyhlMA8=&rs=AOn4CLDtb9aKAnXtDvhSUM96gqrHgWiAKQ",
-    category: "",
-    tagline: "free",
-    frameworks: ["Leaked"],
-    preview: "https://youtu.be/4qxcdBXqUPk?si=ENfne4sPzyO86Pwk",
-    video: "https://youtu.be/4qxcdBXqUPk?si=ENfne4sPzyO86Pwk",
-    gallery: [                                    // ← add these
-    "",
-    "",
-    ""
-  ],
-    price: "FREE",
-    date: "2026-08-26",
-    stats: { stars: 0, downloads: 59 },
-    link: "https://mega.nz/file/YFMSDCxB#HH9-9CnAbl5MULPUcjb87avTbFERcUA9dQUkmG75elc",
-    linkLabel: "GET SCRIPT"
-  },
-  {
     id: "A19Customs | Obey Kerosene SR6",
     name: "A19Customs | Obey Kerosene SR6",
     version: "",
