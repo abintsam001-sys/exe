@@ -26,6 +26,121 @@
 
 const RESOURCES = [
   {
+    id: "Nano | All In One Restaurant System",
+    name: "Nano | All In One Restaurant System",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/T0GQtL253Bs/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/T0GQtL253Bs?si=FBBKnnTxp7j1vTwX",
+    video: "https://youtu.be/T0GQtL253Bs?si=FBBKnnTxp7j1vTwX",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 101 },
+    link: "https://mega.nz/file/IcsWFIYL#INS6up-e8a5VpM5Cu2ALEMYwOmLIDkjHEH5AaSL9hi8",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "3TN Store | Clothing V11 Fivem",
+    name: "3TN Store | Clothing V11 Fivem",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/lfc1mLUqzBI/maxresdefault.jpg",
+    category: "CLOTHING",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/lfc1mLUqzBI?si=m_7wUagQ8ByoscMc",
+    video: "https://youtu.be/lfc1mLUqzBI?si=m_7wUagQ8ByoscMc",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 83 },
+    link: "https://mega.nz/file/BAVmnJKJ#lhSOtPqjsZtT89kml4xmalM4d029vmSGmkvX2Ph3sYk",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "The Last Frame",
+    name: "The Last Frame",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/1NSfGfp1B5c/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/1NSfGfp1B5c?si=ymttf05XnH4TQYMv",
+    video: "https://youtu.be/1NSfGfp1B5c?si=ymttf05XnH4TQYMv",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 81 },
+    link: "https://mega.nz/file/5BkgEBwB#giwig-jsxJsHb47cfyKQmObBKvUSxUAWJnrlqsbQ_p8",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "XGV ANB 6X6",
+    name: "XGV ANB 6X6",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.postimg.cc/hvq7VzXj/Screenshot-(398).png",
+    category: "VEHICLE",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/dJl8HBmvioU?si=gYR2OgcM2tUjp-Ad",
+    video: "https://youtu.be/dJl8HBmvioU?si=gYR2OgcM2tUjp-Ad",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 22 },
+    link: "https://mega.nz/file/VNklwDDC#Q_w1BHf5ZnqVJuHiDaRpBGxv55bmeMx0Lf6GN0U_9k8",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "xgv anb 4x4",
+    name: "xgv anb 4x4",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://i.postimg.cc/t462jPFV/Screenshot-(397).png",
+    category: "VEHICLE",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/dJl8HBmvioU?si=gYR2OgcM2tUjp-Ad",
+    video: "https://youtu.be/dJl8HBmvioU?si=gYR2OgcM2tUjp-Ad",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-08-26",
+    stats: { stars: 0, downloads: 27 },
+    link: "https://mega.nz/file/oM8VACKQ#dylHcQpC-t4O6PdpuuoQ036SFCzS7id-9kpIoH-HVgw",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Exclusive",
     name: "Exclusive",
     version: "",
