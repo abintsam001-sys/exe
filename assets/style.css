@@ -1,0 +1,500 @@
+/* ============================================================
+   DUSSEHRA THEME — loads AFTER style.css and overrides it.
+   Remove the <link> to this file to go back to the old look.
+   ============================================================ */
+
+/* ---------- TOKENS: remap the old violet/pink to saffron/vermilion ---------- */
+:root {
+  --bg: #12060a;
+  --bg-raised: #190a0e;
+  --surface: #21100f;
+  --surface-2: #2b1613;
+  --surface-hover: #371c17;
+  --border: #4a2a20;
+  --border-soft: #32201a;
+  --text: #fff3df;
+  --muted: #cdae92;
+  --muted-2: #9a7b66;
+
+  --violet: #ff9a1f;          /* now saffron */
+  --violet-dim: #d9780a;
+  --violet-soft: rgba(255, 154, 31, 0.15);
+  --pink: #e8431f;            /* now vermilion / kumkum */
+  --pink-dim: #c9341a;
+  --pink-soft: rgba(232, 67, 31, 0.16);
+  --lime: #6fd08c;
+  --amber: #ffc83d;
+
+  --marigold: #ffc83d;
+  --saffron: #ff9a1f;
+  --kumkum: #e8431f;
+  --leaf: #3aa55d;
+  --gold: #f6c85f;
+
+  --font-fest: "Yatra One", "Space Grotesk", sans-serif;
+}
+
+body {
+  background:
+    radial-gradient(1100px 560px at 50% -8%, rgba(255, 154, 31, 0.12), transparent 62%),
+    var(--bg);
+}
+
+/* rangoli-dot backdrop instead of the plain grid */
+.backdrop-grid {
+  background-image: radial-gradient(rgba(255, 200, 61, 0.17) 1.2px, transparent 1.5px);
+  background-size: 30px 30px;
+}
+.backdrop-glow { opacity: 0.26; }
+.backdrop-glow--pink { opacity: 0.2; }
+
+/* ---------- TYPE ---------- */
+.hero h1,
+.section-heading,
+.brand-name {
+  font-family: var(--font-fest);
+  font-weight: 400;
+}
+.hero h1 { letter-spacing: 0; line-height: 1.12; }
+.brand-name span { color: var(--marigold); }
+
+.hero h1 .accent,
+.fest-namaste {
+  background: linear-gradient(90deg, var(--saffron), var(--marigold), var(--kumkum), var(--marigold), var(--saffron));
+  background-size: 250% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 7s linear infinite;
+}
+@keyframes shimmer { to { background-position: -250% 0; } }
+
+/* ---------- NAV + TORANA ---------- */
+.topnav {
+  background: rgba(18, 6, 10, 0.84);
+  border-bottom: 1px solid rgba(255, 200, 61, 0.24);
+}
+.brand img { box-shadow: 0 0 0 1px rgba(255, 200, 61, 0.35), 0 0 20px rgba(255, 154, 31, 0.45); }
+.btn-ghost:hover { border-color: rgba(255, 200, 61, 0.45); }
+
+.stats-strip { background: rgba(43, 22, 19, 0.5); padding-top: 22px; }
+
+.torana {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 40px;
+  pointer-events: none;
+}
+.torana::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--saffron), var(--marigold), var(--kumkum), var(--marigold), var(--saffron));
+  opacity: 0.85;
+}
+.tr-item {
+  position: absolute;
+  top: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform-origin: 50% 0;
+  animation: tr-sway 3.6s ease-in-out infinite;
+  animation-delay: var(--d, 0s);
+}
+.tr-thread { width: 1px; height: var(--len, 6px); background: rgba(255, 200, 61, 0.7); }
+.tr-leaf {
+  width: 11px;
+  height: 22px;
+  background: linear-gradient(160deg, #66cf86, #1f7a40);
+  clip-path: path("M5.5 0 C11 6 11 15 5.5 22 C0 15 0 6 5.5 0Z");
+}
+.tr-flower {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 40% 35%, #ffe27a, #ffb000 55%, #e8741a);
+  box-shadow: 0 0 0 2px rgba(255, 154, 31, 0.35), 0 0 10px rgba(255, 176, 0, 0.45);
+}
+@keyframes tr-sway {
+  0%, 100% { transform: rotate(-4deg); }
+  50% { transform: rotate(4deg); }
+}
+
+/* ---------- BUTTONS (dark text on saffron for contrast) ---------- */
+.btn-violet { color: #2a1200; }
+.btn-violet:hover { background: #ffab40; box-shadow: 0 4px 22px rgba(255, 154, 31, 0.45); }
+.btn-pink:hover { background: #f25a38; box-shadow: 0 4px 22px rgba(232, 67, 31, 0.4); }
+.show-btn.is-active,
+.page-btn.is-active,
+.badge-generic { color: #2a1200; }
+.get-btn { background: rgba(255, 154, 31, 0.1); }
+.get-btn:hover { color: #2a1200; box-shadow: 0 4px 16px rgba(255, 154, 31, 0.4); }
+.filter-option.is-active { border-color: rgba(255, 154, 31, 0.45); }
+
+.premium-banner { background: linear-gradient(90deg, rgba(232, 67, 31, 0.16), transparent); }
+.premium-banner .icon-box { box-shadow: 0 0 16px rgba(232, 67, 31, 0.5); }
+
+/* ---------- HERO ---------- */
+.hero {
+  position: relative;
+  background: radial-gradient(520px 340px at 50% 26%, rgba(255, 154, 31, 0.16), transparent 70%);
+}
+.hero .wrap { position: relative; z-index: 1; }
+.hero::before,
+.hero::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  translate: -50% -50%;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.hero::before {
+  width: min(980px, 130vw);
+  aspect-ratio: 1;
+  border: 1.5px dashed rgba(255, 200, 61, 0.17);
+  animation: spin 160s linear infinite;
+}
+.hero::after {
+  width: min(680px, 100vw);
+  aspect-ratio: 1;
+  border: 1.5px dotted rgba(255, 154, 31, 0.26);
+  animation: spin 110s linear infinite reverse;
+}
+@keyframes spin { to { rotate: 360deg; } }
+
+.fest-greeting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+.fest-namaste { font-family: var(--font-fest); font-size: clamp(26px, 4.2vw, 40px); line-height: 1.3; }
+.fest-countdown {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  color: var(--marigold);
+  background: rgba(255, 200, 61, 0.07);
+  border: 1px solid rgba(255, 200, 61, 0.3);
+  padding: 6px 14px;
+  border-radius: 999px;
+}
+
+.terminal-chip {
+  color: var(--marigold);
+  background: rgba(255, 200, 61, 0.07);
+  border-color: rgba(255, 200, 61, 0.28);
+}
+.terminal-dot,
+.terminal-cursor { background: var(--marigold); }
+.terminal-dot { box-shadow: 0 0 8px rgba(255, 200, 61, 0.85); }
+
+/* ---------- RANGOLI DIVIDER ---------- */
+.rangoli {
+  position: relative;
+  z-index: 1;
+  height: 12px;
+  max-width: 560px;
+  margin: 0 auto;
+  opacity: 0.55;
+  background:
+    linear-gradient(135deg, var(--marigold) 25%, transparent 25%) -6px 0 / 12px 12px,
+    linear-gradient(225deg, var(--marigold) 25%, transparent 25%) -6px 0 / 12px 12px,
+    linear-gradient(315deg, var(--saffron) 25%, transparent 25%) 0 0 / 12px 12px,
+    linear-gradient(45deg, var(--saffron) 25%, transparent 25%) 0 0 / 12px 12px;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 25%, #000 75%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 25%, #000 75%, transparent);
+}
+
+/* ---------- RAVAN BURNING SCENE ---------- */
+.ravan-scene {
+  position: relative;
+  max-width: 640px;
+  height: 300px;
+  margin: 52px auto 0;
+}
+.rs-ground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 34px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, rgba(255, 200, 61, 0.45), transparent);
+}
+.rs-bow {
+  position: absolute;
+  left: 4%;
+  bottom: 84px;
+  width: 90px;
+  height: 150px;
+  filter: drop-shadow(0 0 10px rgba(255, 154, 31, 0.5));
+}
+.rs-bow svg { width: 100%; height: 100%; display: block; }
+.rs-arrow {
+  position: absolute;
+  left: calc(4% + 60px);
+  bottom: 152px;
+  width: 96px;
+  height: 14px;
+  filter: drop-shadow(0 0 7px rgba(255, 154, 31, 0.9));
+  transform: translateX(0);
+}
+.rs-arrow svg { width: 100%; height: 100%; display: block; overflow: visible; }
+.rs-arrow.fly {
+  transform: translateX(var(--travel, 380px));
+  transition: transform 0.95s cubic-bezier(0.45, 0.05, 0.9, 0.55);
+}
+.rs-arrow.gone { opacity: 0; }
+.rs-arrow-flame { animation: flicker 0.2s ease-in-out infinite alternate; transform-origin: 90px 7px; transform-box: view-box; }
+
+.rs-ravan {
+  position: absolute;
+  right: 4%;
+  bottom: 34px;
+  width: 200px;
+  height: 250px;
+}
+.rv-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+  transform-origin: 50% 100%;
+  transition: transform 1.1s ease-in, opacity 1.1s ease-in, filter 0.8s ease;
+}
+.rs-ravan.hit .rv-svg { animation: rv-shake 0.35s linear; }
+.rs-ravan.burning .rv-svg { filter: brightness(0.85) saturate(1.5) sepia(0.35); }
+.rs-ravan.burning .rv-head {
+  transform-box: fill-box;
+  transform-origin: 50% 60%;
+  animation: head-pop 0.7s ease-in forwards;
+  animation-delay: calc(var(--i) * 0.17s + 0.45s);
+}
+.rs-ravan.ashes .rv-svg {
+  transform: scaleY(0.07);
+  opacity: 0.5;
+  filter: grayscale(1) brightness(0.45);
+}
+@keyframes rv-shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px) rotate(-1deg); }
+  75% { transform: translateX(5px) rotate(1deg); }
+}
+@keyframes head-pop {
+  to { transform: translateY(-46px) rotate(40deg) scale(0.2); opacity: 0; }
+}
+
+.rs-flames {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+.rs-ravan.burning .rs-flames { opacity: 1; }
+.rs-ravan.ashes .rs-flames { opacity: 0; transition-duration: 0.9s; }
+.flame {
+  position: absolute;
+  left: var(--x);
+  bottom: var(--y);
+  width: var(--w);
+  height: calc(var(--w) * 1.9);
+  background: radial-gradient(ellipse at 50% 85%, #fff6c4 0%, #ffc83d 30%, #ff7a1a 60%, #e8431f 85%, transparent 100%);
+  clip-path: polygon(50% 0%, 62% 22%, 85% 42%, 100% 68%, 90% 90%, 70% 100%, 30% 100%, 10% 90%, 0% 68%, 15% 42%, 38% 22%);
+  transform-origin: 50% 100%;
+  animation: flicker 0.45s ease-in-out infinite alternate;
+  animation-delay: var(--d);
+}
+@keyframes flicker {
+  0% { transform: scale(1, 1) rotate(-3deg); }
+  50% { transform: scale(0.88, 1.15) rotate(2deg); }
+  100% { transform: scale(1.06, 0.94) rotate(-1deg); }
+}
+.rv-ash {
+  position: absolute;
+  left: 22%;
+  right: 22%;
+  bottom: 0;
+  height: 14px;
+  border-radius: 50% 50% 0 0;
+  background: linear-gradient(#5a4036, #2e201b);
+  opacity: 0;
+  transition: opacity 0.9s ease;
+}
+.rs-ravan.ashes .rv-ash { opacity: 1; }
+
+.rs-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-top: 18px;
+}
+.rs-caption {
+  min-height: 22px;
+  font-size: 14px;
+  color: var(--muted);
+  max-width: 460px;
+}
+.rs-caption .hi { font-family: var(--font-fest); color: var(--marigold); }
+
+/* ---------- CARDS ---------- */
+.card { position: relative; }
+.card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 2px;
+  z-index: 2;
+  background: linear-gradient(90deg, var(--kumkum), var(--saffron), var(--marigold));
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+.card:hover { border-color: rgba(255, 154, 31, 0.5); box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4), 0 0 26px rgba(255, 154, 31, 0.13); }
+.card:hover::before { transform: scaleX(1); }
+.card-art::after { background: linear-gradient(180deg, rgba(18, 6, 10, 0.05) 40%, rgba(18, 6, 10, 0.78) 100%); }
+.price-paid { color: #ff7a55; background: rgba(232, 67, 31, 0.14); }
+
+.badge-new {
+  background: linear-gradient(110deg, var(--kumkum) 30%, #ff9b6b 50%, var(--kumkum) 70%);
+  background-size: 250% 100%;
+  color: #fff;
+  animation: badge-shine 3.2s linear infinite;
+}
+@keyframes badge-shine { to { background-position: -250% 0; } }
+
+.gate-body { background: radial-gradient(ellipse 60% 50% at 50% 0%, rgba(255, 154, 31, 0.14), transparent 70%); }
+
+/* ---------- PETALS (falling marigold) ---------- */
+#petals {
+  position: fixed;
+  inset: 0;
+  z-index: 2;
+  overflow: hidden;
+  pointer-events: none;
+}
+.petal {
+  position: absolute;
+  top: -20px;
+  width: var(--s, 10px);
+  height: calc(var(--s, 10px) * 1.4);
+  border-radius: 70% 0 70% 0;
+  background: linear-gradient(135deg, #ffd34d, #ff8a14);
+  opacity: 0;
+  animation: petal-fall var(--t, 16s) linear infinite;
+  animation-delay: var(--d, 0s);
+}
+.petal:nth-child(3n) { background: linear-gradient(135deg, #ff9a1f, #e8431f); }
+@keyframes petal-fall {
+  0% { transform: translate3d(0, -4vh, 0) rotate(0deg); opacity: 0; }
+  8% { opacity: 0.85; }
+  90% { opacity: 0.7; }
+  100% { transform: translate3d(var(--dx, 60px), 106vh, 0) rotate(540deg); opacity: 0; }
+}
+
+/* ---------- FIREWORKS CANVAS ---------- */
+#fx-canvas {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 90;
+  pointer-events: none;
+}
+
+/* ---------- FOOTER DIYAS ---------- */
+.site-footer { border-top-color: rgba(255, 200, 61, 0.24); padding-top: 48px; }
+.diya-row {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -12px;
+  display: flex;
+  justify-content: space-between;
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 24px;
+  pointer-events: none;
+}
+.diya {
+  position: relative;
+  width: 26px;
+  height: 12px;
+  border-radius: 0 0 26px 26px;
+  background: linear-gradient(#cf5d22, #7a2d10);
+  box-shadow: 0 0 18px rgba(255, 154, 31, 0.28);
+}
+.diya::before {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  width: 9px;
+  height: 18px;
+  margin-left: -4.5px;
+  background: radial-gradient(ellipse at 50% 85%, #fff6c4 0%, #ffc83d 35%, #ff7a1a 70%, transparent 100%);
+  clip-path: polygon(50% 0%, 70% 30%, 100% 62%, 85% 92%, 50% 100%, 15% 92%, 0% 62%, 30% 30%);
+  transform-origin: 50% 100%;
+  animation: flicker 0.6s ease-in-out infinite alternate;
+  animation-delay: var(--d, 0s);
+  filter: drop-shadow(0 0 6px rgba(255, 176, 0, 0.9));
+}
+.footer-wish { font-family: var(--font-fest); color: var(--marigold); font-size: 15px; }
+
+/* ---------- FESTIVE TOGGLE ---------- */
+.fest-toggle {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 60;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 200, 61, 0.4);
+  background: rgba(33, 16, 15, 0.92);
+  backdrop-filter: blur(6px);
+  font-size: 20px;
+  line-height: 1;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.45);
+  transition: transform 0.15s ease, opacity 0.2s ease;
+}
+.fest-toggle:hover { transform: scale(1.07); }
+.fest-toggle[aria-pressed="false"] { opacity: 0.6; filter: grayscale(1); }
+
+/* effects off: keep the colours, drop the motion & decorations */
+body.fest-off .torana,
+body.fest-off #petals,
+body.fest-off .diya-row,
+body.fest-off #fx-canvas { display: none; }
+body.fest-off .hero::before,
+body.fest-off .hero::after { animation: none; }
+
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 900px) {
+  .stats-strip { padding-top: 22px; }
+}
+@media (max-width: 560px) {
+  .ravan-scene { height: 236px; margin-top: 40px; }
+  .rs-bow { width: 72px; height: 120px; bottom: 68px; }
+  .rs-arrow { width: 76px; left: calc(2% + 48px); bottom: 121px; }
+  .rs-ravan { width: 150px; height: 188px; right: 2%; }
+  .rs-bow { left: 2%; }
+  .diya:nth-child(even) { display: none; }
+  .fest-toggle { bottom: 76px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #petals, .torana .tr-item { display: none; }
+}
