@@ -26,6 +26,98 @@
 
 const RESOURCES = [
   {
+    id: "Oxlyn | Appearance Redesign",
+    name: "Oxlyn | Appearance Redesign",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/u8UoZSz0ngU/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/u8UoZSz0ngU?si=TJC9-M2187QrpKhC",
+    video: "https://youtu.be/u8UoZSz0ngU?si=TJC9-M2187QrpKhC",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/2007146e7dd783138ab59d2ef2de8a7405608f9c.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/ea62a7f4b2f7a0b7df7d98b8b097d55b8e99eeba.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/366d990e5a320d55f3bbe74c67aac29b4c55cd08.png"
+  ],
+    price: "FREE",
+    date: "2026-10-20",
+    stats: { stars: 0, downloads: 43 },
+    link: "https://www.mediafire.com/file/4s4fql8y1j0w6e3/[appearance].zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Oxlyn | MDT & Dispatch System",
+    name: "Oxlyn | MDT & Dispatch System",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/1ZA7zumQzYY/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/1ZA7zumQzYY?si=618y-vU7Y0qyoCjT",
+    video: "https://youtu.be/1ZA7zumQzYY?si=618y-vU7Y0qyoCjT",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/cb19922c7ef4bb3bb84a1fb25213cec496cf1045.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/b4780d6ae3bd1fd737a4679bc227e06d4941dd77.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/9a48599ad89a31b15ae4fb52210666cc9100f95b.png"
+  ],
+    price: "FREE",
+    date: "2026-10-20",
+    stats: { stars: 0, downloads: 55 },
+    link: "https://www.mediafire.com/file/cuvls9vd3wa7agr/[dispatch].zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "oxlyn-interaction",
+    name: "oxlyn-interaction",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/1KWUGF5fjeQ/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/1KWUGF5fjeQ?si=_ruQmQk0n5f8Fr0e",
+    video: "https://youtu.be/1KWUGF5fjeQ?si=_ruQmQk0n5f8Fr0e",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-10-20",
+    stats: { stars: 0, downloads: 47 },
+    link: "https://www.mediafire.com/file/bq0rao9u4h8lw7y/oxlyn-interaction.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "oxlyn-killfeed",
+    name: "oxlyn-killfeed",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/CPUmpasZ1-A/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/CPUmpasZ1-A?si=nNoKyvWKzs7WFHmR",
+    video: "https://youtu.be/CPUmpasZ1-A?si=nNoKyvWKzs7WFHmR",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/de658f668b413219bc8181e407891de5087fe041.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/c327fd783cda5e3d9c66242784f5327da5da1be3.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/f777f9ed6f6b6d5edb3d9cd76d4849e14f8f646a.png"
+  ],
+    price: "FREE",
+    date: "2026-10-20",
+    stats: { stars: 0, downloads: 65 },
+    link: "https://www.mediafire.com/file/c9cor1la20c9sqa/oxlyn-killfeed.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Jakers | UK Police F140R",
     name: "Jakers | UK Police F140R",
     version: "",
