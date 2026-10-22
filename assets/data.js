@@ -26,6 +26,121 @@
 
 const RESOURCES = [
   {
+    id: "EMS EUP V2",
+    name: "EMS EUP V2",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/2e44e81d31ebea122dc883ff5b15f80718184a24.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/f5Y75w2c9bs?si=a780FAtCLANghBVD",
+    video: "https://youtu.be/f5Y75w2c9bs?si=a780FAtCLANghBVD",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-10-23",
+    stats: { stars: 0, downloads: 78 },
+    link: "https://www.mediafire.com/file/4quziupq52t93eb/czleku_pack_aiad.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Oxlyn | Advanced Anti-Lag Pops & Bangs System",
+    name: "Oxlyn | Advanced Anti-Lag Pops & Bangs System",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/e60098c983ea2724c95fb114e9c82155a9158d4b.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/pxrflAO1Mdc",
+    video: "https://youtu.be/pxrflAO1Mdc",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/225466e17ed0be5ab534871e025eb3a462475724.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/f35816e2a11848ec947711bf34370a9cf0100224.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/f353bf61817f3e8c066ec86ed50ef330590ce095.png"
+  ],
+    price: "FREE",
+    date: "2026-10-23",
+    stats: { stars: 0, downloads: 52 },
+    link: "https://www.mediafire.com/file/h4fuhhs1sn6rhg4/pops.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Oxlyn | Advanced Banking System",
+    name: "Oxlyn | Advanced Banking System",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/81c2279c657152df16288555f8ee6fcbb82420e4.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/FHEngaE7s9c",
+    video: "https://youtu.be/FHEngaE7s9c",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/fb344b32efbd0d756e2573e74e414b598f2c0f0a.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/cbbe2fb5c5185d482a964bec606d2a3f6b5aa644.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/ab07800ad1b27b22b74a3d8ce98ce3258e775a39.png"
+  ],
+    price: "FREE",
+    date: "2026-10-23",
+    stats: { stars: 0, downloads: 73 },
+    link: "https://www.mediafire.com/file/haso0adgli23ltr/oxlyn-banking.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Oxlyn | Advanced Auction System",
+    name: "Oxlyn | Advanced Auction System",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/65dabb077ba1a9904c735ccf765533c837365744.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/DEbCWeka-Ro",
+    video: "https://youtu.be/DEbCWeka-Ro",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/1581fa6b202b27a817575aca420c0fda3f3eb0e1.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/19a43dff5fcee5e12f8c81715742d7edc0f353e7.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/1263196ff5a8120d5af4944ddf7401123b481169.png"
+  ],
+    price: "FREE",
+    date: "2026-10-23",
+    stats: { stars: 0, downloads: 53 },
+    link: "https://www.mediafire.com/file/az7pf8o2z2kxowe/oxlyn-auctionhouse.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
+    id: "Oxlyn | Advanced Animation Creator",
+    name: "Oxlyn | Advanced Animation Creator",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/dfa8adf86f976ef0fe916d05caffb844e5f0085d.png",
+    category: "SCRIPT",
+    tagline: "free",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/FwH4aLDX84g",
+    video: "https://youtu.be/FwH4aLDX84g",
+    gallery: [                                    // ← add these
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/abfa507e4d48b0458014ae0251bac361b8becae6.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/fa9b82ebb6aabf834f41e776830b1927cdd87bda.png",
+    "https://dunb17ur4ymx4.cloudfront.net/packages/images/31a74200b8a8bcc7886a9dbd7ae25b437f1f3c94.png"
+  ],
+    price: "FREE",
+    date: "2026-10-23",
+    stats: { stars: 0, downloads: 33 },
+    link: "https://www.mediafire.com/file/7ir4ru8k6zq531e/cwel.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Oxlyn | Appearance Redesign",
     name: "Oxlyn | Appearance Redesign",
     version: "",
