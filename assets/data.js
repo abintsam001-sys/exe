@@ -9194,6 +9194,6 @@ const CATEGORIES = [
 
 // Update these two numbers yourself; they are not counted automatically.
 const SITE_STATS = {
-  totalUsers: 0,
-  totalDownloads: 0
+  totalUsers: 7,752
+  totalDownloads: 11,678
 };
