@@ -41,7 +41,7 @@ const PROMO_AD = {
 const ADS = [
   { kicker: "Community", title: "Join the Discord", text: "Request resources, report issues and talk with other server owners.", link: "https://discord.gg/2DFjaC7YBQ", image: "", badge: "" },
   { kicker: "Creators", title: "Share your resource", text: "Open a ticket to get your script, MLO or vehicle listed here.", link: "https://exe-21t.pages.dev/#ticket", image: "", badge: "" },
-  { kicker: "Support", title: "Boost the server", text: "Boosters unlock exclusive resources and early releases.", link: "https://discord.gg/DUUzFHn2x5", image: "https://i.postimg.cc/GtqLZhZj/546ea239-2498-4b9a-94e7-e98ab52270ee.png", badge: "" }
+  { kicker: "Support", title: "Boost the server", text: "Boosters unlock exclusive resources and early releases.", link: "https://discord.gg/DUUzFHn2x5", image: "", badge: "" }
 ];
 
 /* ============================================================
