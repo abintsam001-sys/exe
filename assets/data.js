@@ -42,6 +42,29 @@
 
 const RESOURCES = [
   {
+    id: "JG | Hud v1.5.1",
+    name: "JG | Hud v1.5.1",
+    version: "",
+    status: "online",
+    badge: "NEW",
+    image: "https://fivevault.net/api/uploads/images/1dbdeebe-7d66-4cee-95ca-d9674d6e463f.webp",
+    category: "SCRIPT",
+    tagline: "JG HUD is the all-in-one HUD you’ve been searching for - and the last one you’ll ever need. With over 25 component styles, deep layout control, server default profiles, full ultrawide support, integrated vehicle controls, and more than a dozen other features, nothing else comes close. It’s compatible with everything from vMenu and custom frameworks to QBCore, Qbox, and ESX for out of the box RP integration",
+    frameworks: ["Leaked"],
+    preview: "https://youtu.be/I13VhpUD3EI?si=BZX36InvPQqH_iNj",
+    video: "https://youtu.be/I13VhpUD3EI?si=BZX36InvPQqH_iNj",
+    gallery: [                                    // ← add these
+    "",
+    "",
+    ""
+  ],
+    price: "FREE",
+    date: "2026-11-13",
+    stats: { stars: 0, downloads: 112 },
+    link: "https://www.mediafire.com/file/5rreurc1668tlk8/jg-hud.zip/file",
+    linkLabel: "GET SCRIPT"
+  },
+  {
     id: "Oxlyn | Player Restriction V2",
     name: "Oxlyn | Player Restriction V2",
     version: "",
