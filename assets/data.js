@@ -42,6 +42,144 @@
 
 const RESOURCES = [
   {
+    id: "advanced-community-service",
+    name: "Advanced Community Service | ESX & QB",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/559fea1c1f637f3fab14b8909b41881b7ab586bc.png",
+    category: "SCRIPT",
+    tagline: "A fully immersive community service system for FiveM, featuring admin controls, Discord logging, active player tracking and immersive tasks. The FearX Advanced Community Service script brings a realistic punishment system to your RP server. Staff can assign community service using a simple command, while the script handles teleportation, task assignment, zone control and automatic release. Perfect for police RP, judicial systems and server administrators looking for alternatives to traditional bans or jail.",
+    frameworks: ["ESX", "QBCore"],
+    preview: "https://youtu.be/8CNwUz0eMZ8?si=6DIWBTNJ1uSG3uNZ",
+    video: "https://youtu.be/8CNwUz0eMZ8?si=6DIWBTNJ1uSG3uNZ",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 926 },
+    link: "https://www.mediafire.com/file/ojlfp9nzinibb2e/fearx-communityservicev1.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "advanced-hud-system-esx-qb-qbox",
+    name: "Advanced Hud System [ESX&QB/QBOX]",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/836595760e641868b7805e7e5c4898f771876410.jpg",
+    category: "SCRIPT",
+    tagline: "Give your players a premium first impression with a fully custom, performance-optimized HUD system built for ESX, QBCore and QBOX. The FearX Advanced HUD delivers a complete player interface experience featuring a modern status HUD, advanced stress system, underwater drowning system, vehicle HUD and live in-game customization menu. Players can customize HUD styles, colours and layouts while server owners get full control through clean configuration files and live in-game settings.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/0KAli3YISNY?si=Udf6797m6DfTwFEr",
+    video: "https://youtu.be/0KAli3YISNY?si=Udf6797m6DfTwFEr",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 1572 },
+    link: "https://www.mediafire.com/file/dk66x70f998a8kk/FearX-AdvancedHudV1.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "housing-system",
+    name: "Housing System",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/d90acfe568b93eacf4bc7c25f0b7d40f928ff524.webp",
+    category: "SCRIPT",
+    tagline: "RTX Housing System is a complete FiveM housing solution for ESX, QBCore, QBox and standalone servers. Players can buy, rent or finance homes, manage hotels and motels, participate in live property auctions and manage everything through one unified menu. Includes support for 18 languages.",
+    frameworks: ["ESX", "QBCore", "QBox", "Standalone"],
+    preview: "https://youtu.be/P8-qBMrHbS8?si=slwKFWVp8EYdVkZf",
+    video: "https://youtu.be/P8-qBMrHbS8?si=slwKFWVp8EYdVkZf",
+    gallery: [
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/952306/a031e23dcf3b5b7072851a01c2df8390c9eb18c5.webp",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/952306/b3e245f986c792de3aaa663f365a9763b6e5c50e.webp",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/952306/cbf6ac5ca663f9555e700287ae97a74c39b00ea7.webp"
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 2316 },
+    link: "https://www.mediafire.com/file/l4gjghsam2flifv/rtx_housing.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "lb-phone",
+    name: "LB Phone",
+    version: "1.0",
+    status: "online",
+    badge: "POPULAR",
+    image: "https://img.youtube.com/vi/CirWSvYno70/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "The most popular phone on FiveM, compatible with ESX, QBCore and standalone/custom frameworks. Features unique item-based phones, InstaPic Live, video calls, AirShare, speaker mode, smooth video recording with nearby player voices, custom app support, photo and video hosting through Fivemanage or lb-upload, performance optimization, logs and much more. Supports pma-voice and mumble-voip, with editable framework-specific files and voice functions.",
+    frameworks: ["ESX", "QBCore", "Standalone", "Custom Frameworks"],
+    preview: "https://www.youtube.com/watch?v=CirWSvYno70",
+    video: "https://www.youtube.com/watch?v=CirWSvYno70",
+    gallery: [
+        "https://lbscripts.com/assets/photos/phone/os.webp",
+        "https://lbscripts.com/assets/photos/phone/phone.webp",
+        "https://lbscripts.com/assets/photos/phone/calls.webp"
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 1847 },
+    link: "https://www.mediafire.com/file/r50b4pdvqhia1kr/[lb-phone].zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "immersive-beekeeping-v2",
+    name: "IMMERSIVE BEEKEEPING V2",
+    version: "2.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/954672a23527f0cfe309636fdd3291c1800b48d4.png",
+    category: "SCRIPT",
+    tagline: "A complete immersive beekeeping job for ESX, QBCore and QBox. Place your own beehives, fill them with frames and bees, smoke them out, manually collect honeycombs and process them into jars using a honey extractor. Features 19 custom streamed props for a realistic beekeeping experience.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/NmjP0-3tGJM",
+    video: "https://youtu.be/NmjP0-3tGJM",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 693 },
+    link: "https://www.mediafire.com/file/dfhspsbw5yfnicd/risk-beekeepingv2.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "risk-lumberjack",
+    name: "RISK LUMBERJACK",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/0242ed819ef805df7feccf01278eaeb7946430e8.png",
+    category: "SCRIPT",
+    tagline: "LUMBERJACK — THE COMPLETE FOREST JOB. A full start-to-finish forestry experience featuring realistic axe chopping with skill-check minigames, forklift log hauling, placeable saw horse minigames, and furniture crafting and selling. Includes five axe tiers, three saw tiers, XP and leveling up to level 50, unlockable tools, job shop, crafting recipes, and a clean responsive dashboard UI. Works with ESX, QBCore and QBox.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/wLB7T3S6Gdo",
+    video: "https://youtu.be/wLB7T3S6Gdo",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 1259 },
+    link: "https://www.mediafire.com/file/66cgf87liaogsla/risk-lumberjack.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "pluto-radio",
     name: "Pluto Radio",
     version: "1.0",
@@ -2955,23 +3093,6 @@ const RESOURCES = [
     date: "2026-07-15",
     stats: { stars: 4, downloads: 245 },
     link: "https://mega.nz/file/9R0BTY7L#TSKz6MjnKTIV_4gisV1pKekwWMtGxS2ZNTq5hTBJjwY",
-    linkLabel: "GET SCRIPT"
-  },
-  {
-    id: "vStudios Pacific Bluffs",
-    name: "vStudios  Pacific Bluffs",
-    version: "",
-    status: "online",
-    badge: "",
-    image: "https://img.youtube.com/vi/jdI99FYYLVw/maxresdefault.jpg",
-    category: "MLO",
-    tagline: "free",
-    frameworks: ["Leaked"],
-    preview: "https://youtu.be/jdI99FYYLVw?si=xFO2CJsFNyJzAcLM",
-    price: "FREE",
-    date: "2026-07-15",
-    stats: { stars: 2, downloads: 132 },
-    link: "https://mega.nz/file/8VkmATyK#X3BPLiqh_Jny4mZg5W2SSFHDddTdK4_tnNNT30OSa08",
     linkLabel: "GET SCRIPT"
   },
   {
@@ -9240,6 +9361,6 @@ const CATEGORIES = [
 
 // Update these two numbers yourself; they are not counted automatically.
 const SITE_STATS = {
-  totalUsers: 7752,
-  totalDownloads: 11678
+  totalUsers: 8679,
+  totalDownloads: 13568
 };
