@@ -42,6 +42,29 @@
 
 const RESOURCES = [
   {
+    id: "pluto-radio",
+    name: "Pluto Radio",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/66af82ce3db068f2bf742fd151d4fb3e4b43790c.png",
+    category: "SCRIPT",
+    tagline: "Fully Clickable Buttons put every radio control at your fingertips. 15 Realistic 3D Radios bring variety to your server's equipment. Dedicated Vehicle Radio keeps patrols connected during police operations. Radio Jammer makes communication disruption part of the action. Police Anti-Jammer gives officers a way to counter radio interference. Helicopter Radio connects air and ground units with realistic helicopter background sound while talking.",
+    frameworks: ["QBCore", "ESX"],
+    preview: "https://youtu.be/mpKbBFfYY6M?si=WJK27KWKRf1DcEe4",
+    video: "https://youtu.be/mpKbBFfYY6M?si=WJK27KWKRf1DcEe4",
+    gallery: [
+        "https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=1860894911/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5N53Ff7pcGLVYTHnnnbK%252Fuploads%252FhK4zDAjTkdHX3QZd4sMm%252Fspaces-5N53Ff7pcGLVYTHnnnbK-uploads-wmvCywKezL8foHyKndLQ-1107(2)-1794072736895-5cf4f691.webp%3Falt%3Dmedia%26token%3Dcd664600-990e-4824-939b-6a25eb03ca02",
+        "https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=365964231/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5N53Ff7pcGLVYTHnnnbK%252Fuploads%252F0Rc9sAeqnc6uSuk7Lc5t%252Fspaces-5N53Ff7pcGLVYTHnnnbK-uploads-sArTV0kv5VdOlXaoQDHP-1107(1)-1794072725527-65700f7f.webp%3Falt%3Dmedia%26token%3Df2456fda-6b52-4b46-af08-43680d8a7e3c",
+        "https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=365964231/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F5N53Ff7pcGLVYTHnnnbK%252Fuploads%252F0Rc9sAeqnc6uSuk7Lc5t%252Fspaces-5N53Ff7pcGLVYTHnnnbK-uploads-sArTV0kv5VdOlXaoQDHP-1107(1)-1794072725527-65700f7f.webp%3Falt%3Dmedia%26token%3Df2456fda-6b52-4b46-af08-43680d8a7e3c"
+    ],
+    price: "FREE",
+    date: "2026-11-14",
+    stats: { stars: 0, downloads: 847 },
+    link: "https://www.mediafire.com/file/kl2cwto3gn86nas/plt_radio.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "JG | Hud v1.5.1",
     name: "JG | Hud v1.5.1",
     version: "",
