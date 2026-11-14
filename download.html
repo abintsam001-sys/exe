@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Download script</title>
+<style>
+  :root {
+    --bg: #f5f3ee; --surface: #ffffff; --ink: #1c2321; --muted: #5d6965;
+    --line: #d9d5ca; --accent: #1f6f5c; --accent-ink: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #16201d; --surface: #1e2b27; --ink: #eaf1ee; --muted: #9bb0a8;
+      --line: #2f423c; --accent: #4cc3a3; --accent-ink: #0d1a16;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font-family: "Segoe UI", system-ui, sans-serif; line-height: 1.6; }
+  main { max-width: 640px; margin: 0 auto; padding: 32px 20px 64px; }
+  a.back { color: var(--muted); text-decoration: none; font-size: 0.95rem; }
+  a.back:hover, a.back:focus-visible { color: var(--ink); text-decoration: underline; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 20px 0 8px; }
+  .lead { color: var(--muted); margin: 0 0 24px; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 20px;
+    margin: 0 0 24px; padding: 16px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  dt { color: var(--muted); }
+  dd { margin: 0; }
+  h2 { font-size: 1.1rem; margin: 0 0 8px; }
+  ul { margin: 0 0 32px; padding-left: 20px; }
+  .btn { display: inline-block; background: var(--accent); color: var(--accent-ink);
+    padding: 14px 28px; border-radius: 6px; font-weight: 600; text-decoration: none; font-size: 1.05rem; }
+  .btn:hover { filter: brightness(1.08); }
+  .btn:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+  .error { padding: 20px; border: 1px solid var(--line); background: var(--surface); border-radius: 6px; }
+</style>
+</head>
+<body>
+<main id="app"><p>Loading…</p></main>
+
+<script>
+  // Main site link format: download.html?id=example-garage
+  const app = document.getElementById("app");
+  const id = new URLSearchParams(location.search).get("id");
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  function showError(message) {
+    app.innerHTML = '<a class="back" href="index.html">Back to all scripts</a>' +
+      '<div class="error"><h1>Script not found</h1><p>' + esc(message) + '</p></div>';
+  }
+
+  fetch("scripts.json")
+    .then((r) => { if (!r.ok) throw new Error("Could not load scripts.json"); return r.json(); })
+    .then((list) => {
+      const s = list.find((item) => item.id === id);
+      if (!s) return showError("No script matches this link. Go back and pick one from the list.");
+      document.title = s.name + " – Download";
+      const features = (s.features || []).map((f) => "<li>" + esc(f) + "</li>").join("");
+      app.innerHTML =
+        '<a class="back" href="index.html">Back to all scripts</a>' +
+        "<h1>" + esc(s.name) + "</h1>" +
+        '<p class="lead">' + esc(s.description) + "</p>" +
+        "<dl>" +
+          "<dt>Category</dt><dd>" + esc(s.category) + "</dd>" +
+          "<dt>Version</dt><dd>" + esc(s.version) + "</dd>" +
+          "<dt>Framework</dt><dd>" + esc(s.framework) + "</dd>" +
+          "<dt>File size</dt><dd>" + esc(s.size) + "</dd>" +
+          "<dt>Updated</dt><dd>" + esc(s.updated) + "</dd>" +
+        "</dl>" +
+        (features ? "<h2>What it includes</h2><ul>" + features + "</ul>" : "") +
+        '<a class="btn" href="' + esc(s.downloadUrl) + '" download>Download ' + esc(s.name) + "</a>";
+    })
+    .catch((err) => showError(err.message));
+</script>
+</body>
+</html>
