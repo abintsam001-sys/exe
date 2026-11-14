@@ -61,7 +61,7 @@ const RESOURCES = [
     price: "FREE",
     date: "2026-11-14",
     stats: { stars: 0, downloads: 926 },
-    link: "download.html?id=cayoporto",
+    link: "https://www.mediafire.com/file/dk66x70f998a8kk/FearX-AdvancedHudV1.zip/file",
     linkLabel: "GET SCRIPT"
 },
   {
