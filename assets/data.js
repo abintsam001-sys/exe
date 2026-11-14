@@ -61,7 +61,7 @@ const RESOURCES = [
     price: "FREE",
     date: "2026-11-14",
     stats: { stars: 0, downloads: 926 },
-    link: "https://www.mediafire.com/file/ojlfp9nzinibb2e/fearx-communityservicev1.zip/file",
+    link: "download.html?id=cayoporto",
     linkLabel: "GET SCRIPT"
 },
   {
