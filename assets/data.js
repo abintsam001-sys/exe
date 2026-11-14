@@ -42,6 +42,122 @@
 
 const RESOURCES = [
   {
+    id: "traction-control-toggle",
+    name: "Traction control",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://kuzquality.com/tebex-cache/yt-D85KDCtTw2A.webp",
+    category: "SCRIPT",
+    tagline: "Toggle vehicle traction control (ESP) to enjoy skids and drifts. Configurable grip settings let you customize the driving experience to match your server.",
+    frameworks: [],
+    preview: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
+    video: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 2086 },
+    link: "https://www.mediafire.com/file/6gyar1g706ylu5q/kq_tractioncontrol.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "realistic-offroad-physics",
+    name: "Realistic offroad physics",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://kuzquality.com/tebex-cache/yt-WyW25AvUTgk.webp",
+    category: "SCRIPT",
+    tagline: "Realistic offroad physics featuring terrain-based depth, softness, and traction. Vehicles sink into mud, sand, and dirt, making offroad driving more challenging.",
+    frameworks: [],
+    preview: "https://youtu.be/WyW25AvUTgk?si=SnPODvaUSRq8eEFN",
+    video: "https://youtu.be/WyW25AvUTgk?si=SnPODvaUSRq8eEFN",
+    gallery: [
+        "https://kuzquality.com/package/realistic-offroading",
+        "https://kuzquality.com/tebex-cache/df15b9948302e12a8527235c8f7b38af-medium.webp",
+        "https://kuzquality.com/tebex-cache/4e173a30ac9de3d8038bb611a5c77434-medium.webp"
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 1642 },
+    link: "https://www.mediafire.com/file/k6jreh993dxx259/kq_realoffroad.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "backside-skate-shop",
+    name: "BackSide Skate Shop",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/CGkvM0ORPpc/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "A skate shop map featuring a shop floor, testing ramp, and back rooms.",
+    frameworks: [],
+    preview: "https://www.youtube.com/watch?v=CGkvM0ORPpc",
+    video: "https://www.youtube.com/watch?v=CGkvM0ORPpc",
+    gallery: [
+        "https://imgur.com/ywEl2Dt",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 1187 },
+    link: "https://www.mediafire.com/file/fe5gx1yqsjhjwr2/cfx-mxc-skateshop.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  
+  {
+    id: "fearx-turfs-gang-creator-v2",
+    name: "FearX Turfs & Gang Creator V2 [ESX&QB/QBOX]",
+    version: "2.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://fearx.store/package/7243644",
+    category: "SCRIPT",
+    tagline: "Build a complete gang territory system on your FiveM server with real-time turf wars, gang management and a custom creator tool. FearX Turfs & Gang Creator V2 delivers an immersive gang experience, allowing players to manage gangs, compete for territories and participate in dynamic turf wars.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/ebUI5duC7Rc?si=_N4f-EW9066MC3x6",
+    video: "https://youtu.be/ebUI5duC7Rc?si=_N4f-EW9066MC3x6",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 2147 },
+    link: "https://www.mediafire.com/file/1qsutg41errrnms/FearX-Turfs.zip/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "full-character-system",
+    name: "Full Character System [ESX&QB/QBOX]",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://fearx.store/package/7501642",
+    category: "SCRIPT",
+    tagline: "Give your players a premium first impression with a fully custom, performance-optimized character system built for ESX, QBCore and QBOX. Designed to deliver a modern and immersive character selection and management experience for your FiveM server.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/UwqShzaxt9Y?si=qpELMqnmMkn8ir-1",
+    video: "https://youtu.be/UwqShzaxt9Y?si=qpELMqnmMkn8ir-1",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 1384 },
+    link: "https://www.mediafire.com/file/ls4q2p881urd6dq/fearx-charactersystem.rar/file",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "advanced-community-service",
     name: "Advanced Community Service | ESX & QB",
     version: "1.0",
@@ -9361,6 +9477,6 @@ const CATEGORIES = [
 
 // Update these two numbers yourself; they are not counted automatically.
 const SITE_STATS = {
-  totalUsers: 8679,
-  totalDownloads: 13568
+  totalUsers: 8756,
+  totalDownloads: 13723
 };
