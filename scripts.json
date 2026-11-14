@@ -1,14 +1,14 @@
 [
   {
-    "id": "example-garage",
-    "name": "Example Garage System",
+    "id": "cayoporto",
+    "name": "NTeam | Cayo Porto",
     "category": "Script",
     "version": "1.0.0",
     "framework": "ESX / QBCore",
-    "size": "2.4 MB",
+    "size": "104 MB",
     "updated": "2026-11-14",
-    "description": "A simple garage script that lets players store and take out their vehicles.",
-    "features": ["Store and retrieve vehicles", "Config file for locations", "Works with ESX and QBCore"],
-    "downloadUrl": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/example-garage-v1.0.0/example-garage.zip"
+    "description": "Cayo Porto is a harbour expansion for Cayo Perico, designed to blend seamlessly with the island’s existing landscape. Featuring a new port, additional buildings, accessible interiors and a custom bridge connection to Los Santos, it brings new possibilities for life and roleplay on the island.",
+    "features": [""],
+    "downloadUrl": "https://github.com/abintsam001-sys/exe/releases/download/NTeamCayoPorto/cayo.zip"
   }
 ]
