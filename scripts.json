@@ -1,0 +1,14 @@
+[
+  {
+    "id": "example-garage",
+    "name": "Example Garage System",
+    "category": "Script",
+    "version": "1.0.0",
+    "framework": "ESX / QBCore",
+    "size": "2.4 MB",
+    "updated": "2026-11-14",
+    "description": "A simple garage script that lets players store and take out their vehicles.",
+    "features": ["Store and retrieve vehicles", "Config file for locations", "Works with ESX and QBCore"],
+    "downloadUrl": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/example-garage-v1.0.0/example-garage.zip"
+  }
+]
