@@ -35,7 +35,7 @@
     price: "FREE",
     date: "2026-10-24",
     stats: { stars: 0, downloads: 52 },
-    link: "",
+    link: "download.html?id=",
     linkLabel: "GET SCRIPT"
   },
 */
