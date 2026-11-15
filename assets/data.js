@@ -61,7 +61,7 @@ const RESOURCES = [
     price: "FREE",
     date: "2026-11-15",
     stats: { stars: 0, downloads: 2086 },
-    link: "download.html?id=cayoporto",
+    link: "https://www.mediafire.com/file/6gyar1g706ylu5q/kq_tractioncontrol.zip/file",
     linkLabel: "GET SCRIPT"
 },
   {
