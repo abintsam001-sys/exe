@@ -42,6 +42,29 @@
 
 const RESOURCES = [
   {
+    id: "nteamport",
+    name: "NTeam | Cayo Porto",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/fc15b2b849ed913b3ac3d710c2a93f23afbd7e96.png",
+    category: "SCRIPT",
+    tagline: "Cayo Porto is a harbour expansion for Cayo Perico, designed to blend seamlessly with the island’s existing landscape. Featuring a new port, additional buildings, accessible interiors and a custom bridge connection to Los Santos, it brings new possibilities for life and roleplay on the island.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/9rH8L-1GaNY?si=iQumFWxp02C--9EO",
+    video: "https://youtu.be/9rH8L-1GaNY?si=iQumFWxp02C--9EO",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 1099 },
+    link: "download.html?id=nteamport",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "traction-control-toggle",
     name: "Traction control",
     version: "1.0",
