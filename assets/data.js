@@ -42,6 +42,121 @@
 
 const RESOURCES = [
   {
+    id: "exefoodstand",
+    name: "Food Stands",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/Zh84cRTjtXw/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "STG Food Stands puts players behind a hot dog, burger or taco stand. They rent or buy a stand at the depot, tow it to a busy corner, open up for customers and cook every order by hand: boiling sausages, searing patties on the griddle or slicing al pastor off the trompo, then building the food one ingredient at a time.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/Zh84cRTjtXw",
+    video: "https://youtu.be/Zh84cRTjtXw",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 456 },
+    link: "download.html?id=exefoodstand",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "frkntact",
+    name: "Frkn-Tactical Pack 20+ Police Items , Job Based Textures",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/qgT83qOWnA8/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "FRKN Tactical Item Pack brings 20+ police and tactical items in one resource. Every item takes the texture of the player's job — police, sheriff, FBI, EMS or unmarked — so one item covers every department.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/qgT83qOWnA8?si=Hko0fRmpV_q1FkyM",
+    video: "https://youtu.be/qgT83qOWnA8?si=Hko0fRmpV_q1FkyM",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 986 },
+    link: "download.html?id=frkntact",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "nteamxmas",
+    name: "NTeam - XMAS Decorations",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/9a8d395ffe7b1abcc87e68d959b6a03b76d18c22.png",
+    category: "MLO",
+    tagline: "City-Wide Standard DecorationCustom Caffee – full xmas decorationLegion Square V1 – winter upgradeLegion Square V2 – winter upgradeMile High – xmas decorationPark Color – xmas decorRiver – winter stylingNew Lake – winter decorationGolf Field – XMAS advent mapSnow Piles on Roads — vehicles and peds behave differently when moving through deeper snow drivingwalking effectsOptional New Lake and Legion V2 Add-Ons:• Frozen Lake – turns the entire lake into ice• Vehicle Ice Physics – adds sliding behaviour when driving over frozen surfaceWinter Billboard Textures on Legion Square V2",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/RNC8T_BTyvg?si=Lgg363U8-vdU0K8k",
+    video: "https://youtu.be/RNC8T_BTyvg?si=Lgg363U8-vdU0K8k",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 1378 },
+    link: "download.html?id=nteamxmas",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "plumberjob",
+    name: "Multiplayer Plumber Job",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/4a44ba172a757af2c2e57e46f64e16ee926928b3.png",
+    category: "SCRIPT",
+    tagline: "The Multiplayer Plumber Job Script, designed for FiveM roleplay servers, is a plumbing profession that allows players to work together, interact, and complete tasks in a realistic and collaborative environment. Players can level up and earn more money as they progress, performing jobs such as pipe installation, leak repair, toilet unclogging, and pressure regulation through detailed animations, minigames, and synchronized systems. This script maximizes the team experience and adds an immersive layer of realism to the roleplay.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/8jk9ApHOI2M?si=NLHBJ3nonZ_-1I38",
+    video: "https://youtu.be/8jk9ApHOI2M?si=NLHBJ3nonZ_-1I38",
+    gallery: [
+        "https://r2.fivemanage.com/3RcLIp1xhCq2pXKORRSQZ/plumber2.png",
+        "https://r2.fivemanage.com/3RcLIp1xhCq2pXKORRSQZ/plumber3.png",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 1090 },
+    link: "download.html?id=plumberjob",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "twscrap",
+    name: "Multiplayer Scrapyard Job",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/0dkXlH8Bq6c/maxresdefault.jpg",
+    category: "SCRIPT",
+    tagline: "TW Scrapyard Job is a multiplayer scrapyard job: collect scrap around the city, press it, shred it, melt it in the furnace and pour the metal into moulds. Work alone or as a crew of up to 4 players, share the pay and level up your scrapyard career.",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/0dkXlH8Bq6c?si=RL-9ReaaGejjaiKX",
+    video: "https://youtu.be/0dkXlH8Bq6c?si=RL-9ReaaGejjaiKX",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-16",
+    stats: { stars: 0, downloads: 876 },
+    link: "download.html?id=twscrap",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "nteamport",
     name: "NTeam | Cayo Porto",
     version: "1.0",
@@ -9500,6 +9615,6 @@ const CATEGORIES = [
 
 // Update these two numbers yourself; they are not counted automatically.
 const SITE_STATS = {
-  totalUsers: 8756,
-  totalDownloads: 13723
+  totalUsers: 8874,
+  totalDownloads: 13892
 };
