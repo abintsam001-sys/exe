@@ -97,7 +97,7 @@ function showReady(s, url) {
       '<div class="status" id="status"><span class="dot"></span><span id="stext">Your link is ready</span></div>' +
       '<a class="btn" id="dl" href="' + esc(url.href) + '" download><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11m0 0-4-4m4 4 4-4M5 20h14"/></svg><span id="btxt">Download file</span></a>' +
     "</div>" +
-    '<div class="foot"><span>Hosted on ' + esc(url.hostname) + "</span><span>" + esc(file) + "</span></div>";
+    '<div class="foot"><span>Hosted on EXEVAULT</span><span>' + esc(file) + "</span></div>";
   document.getElementById("dl").addEventListener("click", () => {
     document.getElementById("status").classList.add("ok");
     document.getElementById("stext").textContent = "Download started. Check your downloads folder.";
