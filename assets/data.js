@@ -42,6 +42,29 @@
 
 const RESOURCES = [
   {
+    id: "test",
+    name: "test",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://kuzquality.com/tebex-cache/yt-D85KDCtTw2A.webp",
+    category: "SCRIPT",
+    tagline: "Toggle vehicle traction control (ESP) to enjoy skids and drifts. Configurable grip settings let you customize the driving experience to match your server.",
+    frameworks: [],
+    preview: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
+    video: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-15",
+    stats: { stars: 0, downloads: 2086 },
+    link: "<a href="download.html?id=cayoporto">View & download</a>",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "traction-control-toggle",
     name: "Traction control",
     version: "1.0",
