@@ -42,29 +42,6 @@
 
 const RESOURCES = [
   {
-    id: "test",
-    name: "test",
-    version: "1.0",
-    status: "online",
-    badge: "NEW",
-    image: "https://kuzquality.com/tebex-cache/yt-D85KDCtTw2A.webp",
-    category: "SCRIPT",
-    tagline: "Toggle vehicle traction control (ESP) to enjoy skids and drifts. Configurable grip settings let you customize the driving experience to match your server.",
-    frameworks: [],
-    preview: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
-    video: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
-    gallery: [
-        "",
-        "",
-        ""
-    ],
-    price: "FREE",
-    date: "2026-11-15",
-    stats: { stars: 0, downloads: 2086 },
-    link: "<a href="download.html?id=cayoporto">View & download</a>",
-    linkLabel: "GET SCRIPT"
-},
-  {
     id: "traction-control-toggle",
     name: "Traction control",
     version: "1.0",
@@ -73,7 +50,7 @@ const RESOURCES = [
     image: "https://kuzquality.com/tebex-cache/yt-D85KDCtTw2A.webp",
     category: "SCRIPT",
     tagline: "Toggle vehicle traction control (ESP) to enjoy skids and drifts. Configurable grip settings let you customize the driving experience to match your server.",
-    frameworks: [],
+    frameworks: ["ESX", "QBCore", "QBox"],
     preview: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
     video: "https://youtu.be/D85KDCtTw2A?si=JiW0c7-FdgVmeoWy",
     gallery: [
@@ -96,7 +73,7 @@ const RESOURCES = [
     image: "https://kuzquality.com/tebex-cache/yt-WyW25AvUTgk.webp",
     category: "SCRIPT",
     tagline: "Realistic offroad physics featuring terrain-based depth, softness, and traction. Vehicles sink into mud, sand, and dirt, making offroad driving more challenging.",
-    frameworks: [],
+    frameworks: ["ESX", "QBCore", "QBox"],
     preview: "https://youtu.be/WyW25AvUTgk?si=SnPODvaUSRq8eEFN",
     video: "https://youtu.be/WyW25AvUTgk?si=SnPODvaUSRq8eEFN",
     gallery: [
@@ -119,7 +96,7 @@ const RESOURCES = [
     image: "https://img.youtube.com/vi/CGkvM0ORPpc/maxresdefault.jpg",
     category: "SCRIPT",
     tagline: "A skate shop map featuring a shop floor, testing ramp, and back rooms.",
-    frameworks: [],
+    frameworks: ["ESX", "QBCore", "QBox"],
     preview: "https://www.youtube.com/watch?v=CGkvM0ORPpc",
     video: "https://www.youtube.com/watch?v=CGkvM0ORPpc",
     gallery: [
