@@ -42,6 +42,29 @@
 
 const RESOURCES = [
   {
+    id: "richards",
+    name: "Richards Maps",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://img.youtube.com/vi/1MVLLvDKEkA/maxresdefault.jpg",
+    category: "MLO",
+    tagline: "",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/1MVLLvDKEkA?si=45LXhkllCf7QZjpr",
+    video: "https://youtu.be/1MVLLvDKEkA?si=45LXhkllCf7QZjpr",
+    gallery: [
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/e2f5c2e06d9375ec93a38381129cff61bf57c5c8.jpg",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/0996efe57e6feae96f3f2ac42c09bc1965f01726.jpg",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1134613/4d5d55efa95743f46cff91f37650bd8294ae884e.jpg"
+    ],
+    price: "FREE",
+    date: "2026-11-17",
+    stats: { stars: 0, downloads: 1192 },
+    link: "download.html?id=richards",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "exefoodstand",
     name: "Food Stands",
     version: "1.0",
