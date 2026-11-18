@@ -42,6 +42,98 @@
 
 const RESOURCES = [
   {
+    id: "jotadev",
+    name: "Jota Dev Christmas MLO",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://store.jotadev.site/uploads/blogs/blog-1793265812644-acb9d5572112.webp",
+    category: "mlo",
+    tagline: "",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "",
+    video: "",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-19",
+    stats: { stars: 0, downloads: 1133 },
+    link: "download.html?id=jotadev",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "airportls",
+    name: "vStudios - Luxury Dealership & Mechanic Workshop & Media Center - Los Santos International Airport",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/538affe48bddbe4b0571996482809909be64f534.png",
+    category: "SCRIPT",
+    tagline: "",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://www.youtube.com/watch?v=3NCAmpw8jIc",
+    video: "https://www.youtube.com/watch?v=3NCAmpw8jIc",
+    gallery: [
+        "https://dunb17ur4ymx4.cloudfront.net/packages/images/538affe48bddbe4b0571996482809909be64f534.png",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1100372/7d5dee273c9b94e88ee59a83c83615b5e04510c7.png",
+        "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1100372/fa4b9c8552cecffbddea933131e426a003afb06b.png"
+    ],
+    price: "FREE",
+    date: "2026-11-19",
+    stats: { stars: 0, downloads: 834 },
+    link: "download.html?id=airportls",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "digital",
+    name: "Digital N",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/aa38380cfebb3206e51d1c700a70865fc1f6f9b5.png",
+    category: "mlo",
+    tagline: "",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/0Ob-r9oclTE?si=MkwbWCcOvcThG1c5",
+    video: "https://youtu.be/0Ob-r9oclTE?si=MkwbWCcOvcThG1c5",
+    gallery: [
+        "",
+        "",
+        ""
+    ],
+    price: "FREE",
+    date: "2026-11-19",
+    stats: { stars: 0, downloads: 978 },
+    link: "download.html?id=digital",
+    linkLabel: "GET SCRIPT"
+},
+  {
+    id: "recreation",
+    name: "Recreation Park",
+    version: "1.0",
+    status: "online",
+    badge: "NEW",
+    image: "https://dunb17ur4ymx4.cloudfront.net/packages/images/e6edb309b056a3038e2b84e39fb0d1efda954b3c.jpg",
+    category: "mlo",
+    tagline: "",
+    frameworks: ["ESX", "QBCore", "QBox"],
+    preview: "https://youtu.be/AOFKqO04Ids?si=Vq-GqxXd9BbVtG8S",
+    video: "https://youtu.be/AOFKqO04Ids?si=Vq-GqxXd9BbVtG8S",
+    gallery: [
+        "https://dunb17ur4ymx4.cloudfront.net/packages/images/30dfb88610dce6f595870e0573444308adab2f6e.webp",
+        "https://dunb17ur4ymx4.cloudfront.net/packages/images/309a281fd58251bff07b055dfeace07319be5950.webp",
+        "https://dunb17ur4ymx4.cloudfront.net/packages/images/f653e941b951aedff6044dd1318542a03db19c9d.webp"
+    ],
+    price: "FREE",
+    date: "2026-11-19",
+    stats: { stars: 0, downloads: 1246 },
+    link: "download.html?id=recreation",
+    linkLabel: "GET SCRIPT"
+},
+  {
     id: "exefoodstand",
     name: "Food Stands",
     version: "1.0",
