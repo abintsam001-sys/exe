@@ -40,5 +40,29 @@
     "name": "Richards Maps",
     "size": "67 MB",
     "downloadUrl": "https://github.com/abintsam001-sys/EXELEAKS/releases/download/richards/MLO.Richards.Maps.-.Christmas.Decoration.V.2.Xmas.zip"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation Park",
+    "size": "6 MB",
+    "downloadUrl": "https://github.com/abintsam001-sys/EXELEAKS/releases/download/recreation/MLO.Tetley.-.Recreation.Park.zip"
+  },
+  {
+    "id": "digital",
+    "name": "Digital N",
+    "size": "13 MB",
+    "downloadUrl": "https://github.com/abintsam001-sys/EXELEAKS/releases/download/digital/MLO.NTeam.-.Digital.N.zip"
+  },
+  {
+    "id": "airportls",
+    "name": "vStudios - Luxury Dealership & Mechanic Workshop & Media Center - Los Santos International Airport",
+    "size": "31 MB",
+    "downloadUrl": "https://github.com/abintsam001-sys/EXELEAKS/releases/download/airportls/vStudios-LSIA-DM.zip"
+  },
+  {
+    "id": "jotadev",
+    "name": "Jota Dev Christmas MLO",
+    "size": "87 MB",
+    "downloadUrl": "https://github.com/abintsam001-sys/EXELEAKS/releases/download/jotadev/MLO.JotaDev.-.Christmas.Mapping.V.2.zip"
   }
 ]
